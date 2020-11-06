@@ -1,15 +1,10 @@
 {
-  "added": [
+  "common": [
     "nether_brick_slab[type=top,waterlogged=true]",
     "nether_brick_slab[type=top,waterlogged=false]",
     "nether_brick_slab[type=bottom,waterlogged=true]",
     "nether_brick_slab[type=bottom,waterlogged=false]",
     "nether_brick_slab[type=double,waterlogged=true]",
     "nether_brick_slab[type=double,waterlogged=false]"
-  ],
-  "removed": [
-    "nether_brick_slab[type=top]",
-    "nether_brick_slab[type=bottom]",
-    "nether_brick_slab[type=double]"
   ]
 }

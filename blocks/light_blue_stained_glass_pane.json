@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]",
     "light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]",
     "light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]",
@@ -32,23 +32,5 @@
     "light_blue_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=false]",
     "light_blue_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]",
     "light_blue_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
-  ],
-  "removed": [
-    "light_blue_stained_glass_pane[east=true,north=true,south=true,west=true]",
-    "light_blue_stained_glass_pane[east=true,north=true,south=true,west=false]",
-    "light_blue_stained_glass_pane[east=true,north=true,south=false,west=true]",
-    "light_blue_stained_glass_pane[east=true,north=true,south=false,west=false]",
-    "light_blue_stained_glass_pane[east=true,north=false,south=true,west=true]",
-    "light_blue_stained_glass_pane[east=true,north=false,south=true,west=false]",
-    "light_blue_stained_glass_pane[east=true,north=false,south=false,west=true]",
-    "light_blue_stained_glass_pane[east=true,north=false,south=false,west=false]",
-    "light_blue_stained_glass_pane[east=false,north=true,south=true,west=true]",
-    "light_blue_stained_glass_pane[east=false,north=true,south=true,west=false]",
-    "light_blue_stained_glass_pane[east=false,north=true,south=false,west=true]",
-    "light_blue_stained_glass_pane[east=false,north=true,south=false,west=false]",
-    "light_blue_stained_glass_pane[east=false,north=false,south=true,west=true]",
-    "light_blue_stained_glass_pane[east=false,north=false,south=true,west=false]",
-    "light_blue_stained_glass_pane[east=false,north=false,south=false,west=true]",
-    "light_blue_stained_glass_pane[east=false,north=false,south=false,west=false]"
   ]
 }

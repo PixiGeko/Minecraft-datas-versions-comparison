@@ -57,9 +57,5 @@
     "minecraft:items/wooden_slabs",
     "minecraft:items/wooden_stairs",
     "minecraft:items/wool"
-  ],
-  "removed": [
-    "minecraft:blocks/waterlogged",
-    "minecraft:blocks/water_hacked"
   ]
 }

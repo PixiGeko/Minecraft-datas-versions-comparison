@@ -1,15 +1,10 @@
 {
-  "added": [
+  "common": [
     "acacia_slab[type=top,waterlogged=true]",
     "acacia_slab[type=top,waterlogged=false]",
     "acacia_slab[type=bottom,waterlogged=true]",
     "acacia_slab[type=bottom,waterlogged=false]",
     "acacia_slab[type=double,waterlogged=true]",
     "acacia_slab[type=double,waterlogged=false]"
-  ],
-  "removed": [
-    "acacia_slab[type=top]",
-    "acacia_slab[type=bottom]",
-    "acacia_slab[type=double]"
   ]
 }

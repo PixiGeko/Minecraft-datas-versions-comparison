@@ -564,9 +564,5 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
-  ],
-  "removed": [
-    "minecraft:flowing_lava",
-    "minecraft:flowing_water"
   ]
 }

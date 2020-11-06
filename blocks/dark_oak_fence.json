@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "dark_oak_fence[east=true,north=true,south=true,waterlogged=true,west=true]",
     "dark_oak_fence[east=true,north=true,south=true,waterlogged=true,west=false]",
     "dark_oak_fence[east=true,north=true,south=true,waterlogged=false,west=true]",
@@ -32,23 +32,5 @@
     "dark_oak_fence[east=false,north=false,south=false,waterlogged=true,west=false]",
     "dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]",
     "dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
-  ],
-  "removed": [
-    "dark_oak_fence[east=true,north=true,south=true,west=true]",
-    "dark_oak_fence[east=true,north=true,south=true,west=false]",
-    "dark_oak_fence[east=true,north=true,south=false,west=true]",
-    "dark_oak_fence[east=true,north=true,south=false,west=false]",
-    "dark_oak_fence[east=true,north=false,south=true,west=true]",
-    "dark_oak_fence[east=true,north=false,south=true,west=false]",
-    "dark_oak_fence[east=true,north=false,south=false,west=true]",
-    "dark_oak_fence[east=true,north=false,south=false,west=false]",
-    "dark_oak_fence[east=false,north=true,south=true,west=true]",
-    "dark_oak_fence[east=false,north=true,south=true,west=false]",
-    "dark_oak_fence[east=false,north=true,south=false,west=true]",
-    "dark_oak_fence[east=false,north=true,south=false,west=false]",
-    "dark_oak_fence[east=false,north=false,south=true,west=true]",
-    "dark_oak_fence[east=false,north=false,south=true,west=false]",
-    "dark_oak_fence[east=false,north=false,south=false,west=true]",
-    "dark_oak_fence[east=false,north=false,south=false,west=false]"
   ]
 }

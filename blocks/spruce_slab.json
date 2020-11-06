@@ -1,15 +1,10 @@
 {
-  "added": [
+  "common": [
     "spruce_slab[type=top,waterlogged=true]",
     "spruce_slab[type=top,waterlogged=false]",
     "spruce_slab[type=bottom,waterlogged=true]",
     "spruce_slab[type=bottom,waterlogged=false]",
     "spruce_slab[type=double,waterlogged=true]",
     "spruce_slab[type=double,waterlogged=false]"
-  ],
-  "removed": [
-    "spruce_slab[type=top]",
-    "spruce_slab[type=bottom]",
-    "spruce_slab[type=double]"
   ]
 }

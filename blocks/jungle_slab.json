@@ -1,15 +1,10 @@
 {
-  "added": [
+  "common": [
     "jungle_slab[type=top,waterlogged=true]",
     "jungle_slab[type=top,waterlogged=false]",
     "jungle_slab[type=bottom,waterlogged=true]",
     "jungle_slab[type=bottom,waterlogged=false]",
     "jungle_slab[type=double,waterlogged=true]",
     "jungle_slab[type=double,waterlogged=false]"
-  ],
-  "removed": [
-    "jungle_slab[type=top]",
-    "jungle_slab[type=bottom]",
-    "jungle_slab[type=double]"
   ]
 }

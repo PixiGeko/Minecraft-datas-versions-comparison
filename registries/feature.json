@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:fill_layer"
+  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:birch_tree",

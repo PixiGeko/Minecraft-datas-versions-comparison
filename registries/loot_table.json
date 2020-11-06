@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:blocks/bee_hive",
+    "minecraft:blocks/bee_nest",
+    "minecraft:entities/bee"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",

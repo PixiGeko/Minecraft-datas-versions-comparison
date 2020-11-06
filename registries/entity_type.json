@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:bee"
+  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",

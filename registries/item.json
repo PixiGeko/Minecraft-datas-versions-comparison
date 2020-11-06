@@ -1,4 +1,11 @@
 {
+  "added": [
+    "minecraft:bee_hive",
+    "minecraft:bee_nest",
+    "minecraft:bee_spawn_egg",
+    "minecraft:honey_bottle",
+    "minecraft:honeycomb"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

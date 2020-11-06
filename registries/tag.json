@@ -1,4 +1,13 @@
 {
+  "added": [
+    "minecraft:blocks/beehives",
+    "minecraft:blocks/bee_growables",
+    "minecraft:blocks/crops",
+    "minecraft:blocks/flowers",
+    "minecraft:blocks/tall_flowers",
+    "minecraft:items/flowers",
+    "minecraft:items/tall_flowers"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

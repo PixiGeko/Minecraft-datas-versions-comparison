@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:bee_hive",
+    "minecraft:sugar_from_honey_bottle",
+    "minecraft:sugar_from_sugar_cane"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -714,7 +719,6 @@
     "minecraft:stone_stairs",
     "minecraft:stone_stairs_from_stone_stonecutting",
     "minecraft:stone_sword",
-    "minecraft:sugar",
     "minecraft:suspicious_stew",
     "minecraft:terracotta",
     "minecraft:tipped_arrow",
@@ -757,5 +761,8 @@
     "minecraft:yellow_stained_glass_pane_from_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
+  ],
+  "removed": [
+    "minecraft:sugar"
   ]
 }

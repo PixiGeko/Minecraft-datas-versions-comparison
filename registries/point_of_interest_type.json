@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:bee_hive",
+    "minecraft:bee_nest"
+  ],
   "common": [
     "minecraft:armorer",
     "minecraft:butcher",

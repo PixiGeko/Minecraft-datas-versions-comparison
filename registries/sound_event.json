@@ -1,4 +1,18 @@
 {
+  "added": [
+    "minecraft:block.beehive.drip",
+    "minecraft:block.beehive.enter",
+    "minecraft:block.beehive.exit",
+    "minecraft:block.beehive.shear",
+    "minecraft:block.beehive.work",
+    "minecraft:entity.bee.death",
+    "minecraft:entity.bee.hurt",
+    "minecraft:entity.bee.loop",
+    "minecraft:entity.bee.loop_aggressive",
+    "minecraft:entity.bee.pollinate",
+    "minecraft:entity.bee.sting",
+    "minecraft:item.honey_bottle.drink"
+  ],
   "common": [
     "minecraft:ambient.cave",
     "minecraft:ambient.underwater.enter",

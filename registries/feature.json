@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:no_op"
-  ],
   "common": [
     "minecraft:acacia_tree",
     "minecraft:bamboo",
@@ -46,6 +43,7 @@
     "minecraft:mineshaft",
     "minecraft:monster_room",
     "minecraft:nether_bridge",
+    "minecraft:no_op",
     "minecraft:normal_tree",
     "minecraft:ocean_monument",
     "minecraft:ocean_ruin",

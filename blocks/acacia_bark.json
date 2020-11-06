@@ -1,10 +1,7 @@
 {
-  "added": [
+  "common": [
     "acacia_bark[axis=x]",
     "acacia_bark[axis=y]",
     "acacia_bark[axis=z]"
-  ],
-  "removed": [
-    "acacia_bark"
   ]
 }

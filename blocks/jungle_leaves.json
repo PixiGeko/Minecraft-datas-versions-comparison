@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "jungle_leaves[distance=1,persistent=true]",
     "jungle_leaves[distance=1,persistent=false]",
     "jungle_leaves[distance=2,persistent=true]",
@@ -14,11 +14,5 @@
     "jungle_leaves[distance=6,persistent=false]",
     "jungle_leaves[distance=7,persistent=true]",
     "jungle_leaves[distance=7,persistent=false]"
-  ],
-  "removed": [
-    "jungle_leaves[check_decay=true,decayable=true]",
-    "jungle_leaves[check_decay=true,decayable=false]",
-    "jungle_leaves[check_decay=false,decayable=true]",
-    "jungle_leaves[check_decay=false,decayable=false]"
   ]
 }

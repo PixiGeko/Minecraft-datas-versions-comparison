@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "spruce_leaves[distance=1,persistent=true]",
     "spruce_leaves[distance=1,persistent=false]",
     "spruce_leaves[distance=2,persistent=true]",
@@ -14,11 +14,5 @@
     "spruce_leaves[distance=6,persistent=false]",
     "spruce_leaves[distance=7,persistent=true]",
     "spruce_leaves[distance=7,persistent=false]"
-  ],
-  "removed": [
-    "spruce_leaves[check_decay=true,decayable=true]",
-    "spruce_leaves[check_decay=true,decayable=false]",
-    "spruce_leaves[check_decay=false,decayable=true]",
-    "spruce_leaves[check_decay=false,decayable=false]"
   ]
 }

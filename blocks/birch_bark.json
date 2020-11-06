@@ -1,10 +1,7 @@
 {
-  "added": [
+  "common": [
     "birch_bark[axis=x]",
     "birch_bark[axis=y]",
     "birch_bark[axis=z]"
-  ],
-  "removed": [
-    "birch_bark"
   ]
 }

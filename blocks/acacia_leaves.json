@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "acacia_leaves[distance=1,persistent=true]",
     "acacia_leaves[distance=1,persistent=false]",
     "acacia_leaves[distance=2,persistent=true]",
@@ -14,11 +14,5 @@
     "acacia_leaves[distance=6,persistent=false]",
     "acacia_leaves[distance=7,persistent=true]",
     "acacia_leaves[distance=7,persistent=false]"
-  ],
-  "removed": [
-    "acacia_leaves[check_decay=true,decayable=true]",
-    "acacia_leaves[check_decay=true,decayable=false]",
-    "acacia_leaves[check_decay=false,decayable=true]",
-    "acacia_leaves[check_decay=false,decayable=false]"
   ]
 }

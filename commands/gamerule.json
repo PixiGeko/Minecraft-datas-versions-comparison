@@ -1,4 +1,8 @@
 {
+  "added": [
+    "gamerule doPatrolSpawning <value>",
+    "gamerule doTraderSpawning <value>"
+  ],
   "common": [
     "gamerule announceAdvancements <value>",
     "gamerule commandBlockOutput <value>",

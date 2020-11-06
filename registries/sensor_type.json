@@ -1,9 +1,7 @@
 {
-  "added": [
-    "minecraft:golem_last_seen"
-  ],
   "common": [
     "minecraft:dummy",
+    "minecraft:golem_last_seen",
     "minecraft:hurt_by",
     "minecraft:interactable_doors",
     "minecraft:nearest_bed",

@@ -1,12 +1,13 @@
 {
   "added": [
-    "minecraft:golem_last_seen_time"
+    "minecraft:last_slept",
+    "minecraft:last_worked_at_poi"
   ],
   "common": [
     "minecraft:breed_target",
     "minecraft:cant_reach_walk_target_since",
     "minecraft:dummy",
-    "minecraft:golem_spawn_conditions",
+    "minecraft:golem_last_seen_time",
     "minecraft:heard_bell_time",
     "minecraft:hiding_place",
     "minecraft:home",
@@ -27,5 +28,8 @@
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
     "minecraft:walk_target"
+  ],
+  "removed": [
+    "minecraft:golem_spawn_conditions"
   ]
 }

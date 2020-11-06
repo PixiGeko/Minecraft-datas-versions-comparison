@@ -2,8 +2,7 @@
   "files": {
     "registries": {
       "changed": [
-        "memory_module_type",
-        "sensor_type"
+        "memory_module_type"
       ]
     }
   }

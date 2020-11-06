@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:cant_reach_walk_target_since"
+  ],
   "common": [
     "minecraft:breed_target",
     "minecraft:dummy",

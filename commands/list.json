@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "list uuids"
-  ],
-  "removed": [
-    "list"
   ]
 }

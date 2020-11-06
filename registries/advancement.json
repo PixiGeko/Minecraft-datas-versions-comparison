@@ -1,4 +1,13 @@
 {
+  "added": [
+    "minecraft:recipes/building_blocks/acacia_wood",
+    "minecraft:recipes/building_blocks/birch_wood",
+    "minecraft:recipes/building_blocks/dark_oak_wood",
+    "minecraft:recipes/building_blocks/jungle_wood",
+    "minecraft:recipes/building_blocks/oak_wood",
+    "minecraft:recipes/building_blocks/spruce_wood",
+    "minecraft:recipes/misc/popped_chorus_fruit"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/kill_all_mobs",
@@ -51,12 +60,10 @@
     "minecraft:recipes/brewing/glistering_melon_slice",
     "minecraft:recipes/brewing/golden_carrot",
     "minecraft:recipes/brewing/magma_cream",
-    "minecraft:recipes/building_blocks/acacia_bark",
     "minecraft:recipes/building_blocks/acacia_planks",
     "minecraft:recipes/building_blocks/acacia_slab",
     "minecraft:recipes/building_blocks/acacia_stairs",
     "minecraft:recipes/building_blocks/andesite",
-    "minecraft:recipes/building_blocks/birch_bark",
     "minecraft:recipes/building_blocks/birch_planks",
     "minecraft:recipes/building_blocks/birch_slab",
     "minecraft:recipes/building_blocks/birch_stairs",
@@ -94,7 +101,6 @@
     "minecraft:recipes/building_blocks/cyan_stained_glass",
     "minecraft:recipes/building_blocks/cyan_terracotta",
     "minecraft:recipes/building_blocks/cyan_wool",
-    "minecraft:recipes/building_blocks/dark_oak_bark",
     "minecraft:recipes/building_blocks/dark_oak_planks",
     "minecraft:recipes/building_blocks/dark_oak_slab",
     "minecraft:recipes/building_blocks/dark_oak_stairs",
@@ -121,7 +127,6 @@
     "minecraft:recipes/building_blocks/hay_block",
     "minecraft:recipes/building_blocks/iron_block",
     "minecraft:recipes/building_blocks/jack_o_lantern",
-    "minecraft:recipes/building_blocks/jungle_bark",
     "minecraft:recipes/building_blocks/jungle_planks",
     "minecraft:recipes/building_blocks/jungle_slab",
     "minecraft:recipes/building_blocks/jungle_stairs",
@@ -150,7 +155,6 @@
     "minecraft:recipes/building_blocks/nether_brick_slab",
     "minecraft:recipes/building_blocks/nether_brick_stairs",
     "minecraft:recipes/building_blocks/nether_wart_block",
-    "minecraft:recipes/building_blocks/oak_bark",
     "minecraft:recipes/building_blocks/oak_planks",
     "minecraft:recipes/building_blocks/oak_slab",
     "minecraft:recipes/building_blocks/oak_stairs",
@@ -198,7 +202,6 @@
     "minecraft:recipes/building_blocks/sea_lantern",
     "minecraft:recipes/building_blocks/snow_block",
     "minecraft:recipes/building_blocks/sponge",
-    "minecraft:recipes/building_blocks/spruce_bark",
     "minecraft:recipes/building_blocks/spruce_planks",
     "minecraft:recipes/building_blocks/spruce_slab",
     "minecraft:recipes/building_blocks/spruce_stairs",
@@ -395,7 +398,6 @@
     "minecraft:recipes/misc/bucket",
     "minecraft:recipes/misc/cactus_green",
     "minecraft:recipes/misc/charcoal",
-    "minecraft:recipes/misc/chorus_fruit_popped",
     "minecraft:recipes/misc/coal",
     "minecraft:recipes/misc/coal_from_smelting",
     "minecraft:recipes/misc/conduit",
@@ -571,5 +573,14 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
+  ],
+  "removed": [
+    "minecraft:recipes/building_blocks/acacia_bark",
+    "minecraft:recipes/building_blocks/birch_bark",
+    "minecraft:recipes/building_blocks/dark_oak_bark",
+    "minecraft:recipes/building_blocks/jungle_bark",
+    "minecraft:recipes/building_blocks/oak_bark",
+    "minecraft:recipes/building_blocks/spruce_bark",
+    "minecraft:recipes/misc/chorus_fruit_popped"
   ]
 }

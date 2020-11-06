@@ -1,7 +1,13 @@
 {
-  "common": [
-    "birch_bark[axis=x]",
-    "birch_bark[axis=y]",
-    "birch_bark[axis=z]"
+  "removed": [
+    {
+      "axis": "x"
+    },
+    {
+      "axis": "y"
+    },
+    {
+      "axis": "z"
+    }
   ]
 }

@@ -1,6 +1,14 @@
 {
+  "added": [
+    "minecraft:acacia_wood",
+    "minecraft:birch_wood",
+    "minecraft:dark_oak_wood",
+    "minecraft:jungle_wood",
+    "minecraft:oak_wood",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:spruce_wood"
+  ],
   "common": [
-    "minecraft:acacia_bark",
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -22,7 +30,6 @@
     "minecraft:banner_duplicate",
     "minecraft:beacon",
     "minecraft:beetroot_soup",
-    "minecraft:birch_bark",
     "minecraft:birch_boat",
     "minecraft:birch_button",
     "minecraft:birch_door",
@@ -91,7 +98,6 @@
     "minecraft:chiseled_red_sandstone",
     "minecraft:chiseled_sandstone",
     "minecraft:chiseled_stone_bricks",
-    "minecraft:chorus_fruit_popped",
     "minecraft:clay",
     "minecraft:clock",
     "minecraft:coal",
@@ -127,7 +133,6 @@
     "minecraft:cyan_stained_glass_pane",
     "minecraft:cyan_terracotta",
     "minecraft:cyan_wool",
-    "minecraft:dark_oak_bark",
     "minecraft:dark_oak_boat",
     "minecraft:dark_oak_button",
     "minecraft:dark_oak_door",
@@ -249,7 +254,6 @@
     "minecraft:item_frame",
     "minecraft:jack_o_lantern",
     "minecraft:jukebox",
-    "minecraft:jungle_bark",
     "minecraft:jungle_boat",
     "minecraft:jungle_button",
     "minecraft:jungle_door",
@@ -345,7 +349,6 @@
     "minecraft:nether_brick_stairs",
     "minecraft:nether_wart_block",
     "minecraft:note_block",
-    "minecraft:oak_bark",
     "minecraft:oak_boat",
     "minecraft:oak_button",
     "minecraft:oak_door",
@@ -462,7 +465,6 @@
     "minecraft:snow_block",
     "minecraft:spectral_arrow",
     "minecraft:sponge",
-    "minecraft:spruce_bark",
     "minecraft:spruce_boat",
     "minecraft:spruce_button",
     "minecraft:spruce_door",
@@ -524,5 +526,14 @@
     "minecraft:yellow_stained_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
+  ],
+  "removed": [
+    "minecraft:acacia_bark",
+    "minecraft:birch_bark",
+    "minecraft:chorus_fruit_popped",
+    "minecraft:dark_oak_bark",
+    "minecraft:jungle_bark",
+    "minecraft:oak_bark",
+    "minecraft:spruce_bark"
   ]
 }

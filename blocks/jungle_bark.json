@@ -1,7 +1,13 @@
 {
-  "common": [
-    "jungle_bark[axis=x]",
-    "jungle_bark[axis=y]",
-    "jungle_bark[axis=z]"
+  "removed": [
+    {
+      "axis": "x"
+    },
+    {
+      "axis": "y"
+    },
+    {
+      "axis": "z"
+    }
   ]
 }

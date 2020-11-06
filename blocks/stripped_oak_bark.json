@@ -1,7 +1,13 @@
 {
-  "common": [
-    "stripped_oak_bark[axis=x]",
-    "stripped_oak_bark[axis=y]",
-    "stripped_oak_bark[axis=z]"
+  "removed": [
+    {
+      "axis": "x"
+    },
+    {
+      "axis": "y"
+    },
+    {
+      "axis": "z"
+    }
   ]
 }

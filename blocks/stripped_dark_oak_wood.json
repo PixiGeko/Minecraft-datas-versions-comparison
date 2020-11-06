@@ -1,7 +1,10 @@
 {
-  "removed": [
+  "added": [
     {
       "axis": "x"
+    },
+    {
+      "axis": "y"
     },
     {
       "axis": "z"

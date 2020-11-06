@@ -1,3 +1,46 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "added": [
+        "acacia_wood",
+        "birch_wood",
+        "dark_oak_wood",
+        "jungle_wood",
+        "nether_portal",
+        "oak_wood",
+        "spawner",
+        "spruce_wood",
+        "stripped_acacia_wood",
+        "stripped_birch_wood",
+        "stripped_dark_oak_wood",
+        "stripped_jungle_wood",
+        "stripped_oak_wood",
+        "stripped_spruce_wood"
+      ],
+      "removed": [
+        "acacia_bark",
+        "birch_bark",
+        "dark_oak_bark",
+        "jungle_bark",
+        "mob_spawner",
+        "oak_bark",
+        "portal",
+        "spruce_bark",
+        "stripped_acacia_bark",
+        "stripped_birch_bark",
+        "stripped_dark_oak_bark",
+        "stripped_jungle_bark",
+        "stripped_oak_bark",
+        "stripped_spruce_bark"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
+        "block",
+        "item",
+        "recipe"
+      ]
+    }
+  }
 }

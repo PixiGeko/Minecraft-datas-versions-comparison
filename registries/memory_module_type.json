@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:golem_spawn_conditions",
+    "minecraft:secondary_job_site"
+  ],
   "common": [
     "minecraft:breed_target",
     "minecraft:dummy",

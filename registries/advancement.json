@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:recipes/building_blocks/cut_red_sandstone_slab",
+    "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting",
+    "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting",
+    "minecraft:recipes/building_blocks/cut_sandstone_slab",
+    "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting",
+    "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

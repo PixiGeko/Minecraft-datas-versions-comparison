@@ -1,3 +1,22 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "added": [
+        "cut_red_sandstone_slab",
+        "cut_sandstone_slab"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "activity",
+        "advancement",
+        "block",
+        "item",
+        "loot_table",
+        "memory_module_type",
+        "recipe",
+        "sensor_type"
+      ]
+    }
+  }
 }

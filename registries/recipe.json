@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:cut_red_sandstone_slab",
+    "minecraft:cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting",
+    "minecraft:cut_red_sandstone_slab_from_red_sandstone_stonecutting",
+    "minecraft:cut_sandstone_slab",
+    "minecraft:cut_sandstone_slab_from_cut_sandstone_stonecutting",
+    "minecraft:cut_sandstone_slab_from_sandstone_stonecutting"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

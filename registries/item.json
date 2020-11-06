@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:cut_red_sandstone_slab",
+    "minecraft:cut_sandstone_slab"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

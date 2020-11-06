@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:secondary_pois"
+  ],
   "common": [
     "minecraft:dummy",
     "minecraft:hurt_by",

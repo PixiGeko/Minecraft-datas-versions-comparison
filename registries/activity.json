@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:play"
+  ],
   "common": [
     "minecraft:core",
     "minecraft:idle",

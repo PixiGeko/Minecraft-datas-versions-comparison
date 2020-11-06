@@ -1,14 +1,4 @@
 {
-  "added": [
-    "minecraft:block.honey_block.break",
-    "minecraft:block.honey_block.fall",
-    "minecraft:block.honey_block.hit",
-    "minecraft:block.honey_block.place",
-    "minecraft:block.honey_block.slide",
-    "minecraft:block.honey_block.step",
-    "minecraft:entity.iron_golem.damage",
-    "minecraft:entity.iron_golem.repair"
-  ],
   "common": [
     "minecraft:ambient.cave",
     "minecraft:ambient.underwater.enter",
@@ -105,6 +95,12 @@
     "minecraft:block.gravel.place",
     "minecraft:block.gravel.step",
     "minecraft:block.grindstone.use",
+    "minecraft:block.honey_block.break",
+    "minecraft:block.honey_block.fall",
+    "minecraft:block.honey_block.hit",
+    "minecraft:block.honey_block.place",
+    "minecraft:block.honey_block.slide",
+    "minecraft:block.honey_block.step",
     "minecraft:block.iron_door.close",
     "minecraft:block.iron_door.open",
     "minecraft:block.iron_trapdoor.close",
@@ -412,8 +408,10 @@
     "minecraft:entity.illusioner.prepare_blindness",
     "minecraft:entity.illusioner.prepare_mirror",
     "minecraft:entity.iron_golem.attack",
+    "minecraft:entity.iron_golem.damage",
     "minecraft:entity.iron_golem.death",
     "minecraft:entity.iron_golem.hurt",
+    "minecraft:entity.iron_golem.repair",
     "minecraft:entity.iron_golem.step",
     "minecraft:entity.item.break",
     "minecraft:entity.item.pickup",
@@ -816,8 +814,5 @@
     "minecraft:ui.toast.out",
     "minecraft:weather.rain",
     "minecraft:weather.rain.above"
-  ],
-  "removed": [
-    "minecraft:entity.parrot.imitate.panda"
   ]
 }

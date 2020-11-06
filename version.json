@@ -1,37 +1,7 @@
 {
   "files": {
-    "blocks": {
-      "added": [
-        "beehive",
-        "honeycomb_block",
-        "honey_block"
-      ],
-      "removed": [
-        "bee_hive"
-      ]
-    },
-    "commands": {
-      "added": [
-        "spectate"
-      ]
-    },
     "registries": {
-      "added": [
-        "block_placer_type",
-        "block_state_provider_type",
-        "foliage_placer_type",
-        "tree_decorator_type"
-      ],
       "changed": [
-        "advancement",
-        "block",
-        "command",
-        "feature",
-        "item",
-        "loot_table",
-        "point_of_interest_type",
-        "recipe",
-        "sound_event",
         "tag"
       ]
     }

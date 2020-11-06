@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:spectate"
-  ],
   "common": [
     "minecraft:advancement",
     "minecraft:ban",
@@ -54,6 +51,7 @@
     "minecraft:setidletimeout",
     "minecraft:setworldspawn",
     "minecraft:spawnpoint",
+    "minecraft:spectate",
     "minecraft:spreadplayers",
     "minecraft:stop",
     "minecraft:stopsound",

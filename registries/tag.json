@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:items/lectern_books"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -100,8 +103,5 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
-  ],
-  "removed": [
-    "minecraft:blocks/dirt_like"
   ]
 }

@@ -1,9 +1,4 @@
 {
-  "added": [
-    "minecraft:beehive",
-    "minecraft:honey_block",
-    "minecraft:honeycomb_block"
-  ],
   "common": [
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -38,6 +33,7 @@
     "minecraft:beacon",
     "minecraft:bedrock",
     "minecraft:bee_nest",
+    "minecraft:beehive",
     "minecraft:beetroots",
     "minecraft:bell",
     "minecraft:birch_button",
@@ -284,6 +280,8 @@
     "minecraft:grindstone",
     "minecraft:hay_block",
     "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:honey_block",
+    "minecraft:honeycomb_block",
     "minecraft:hopper",
     "minecraft:horn_coral",
     "minecraft:horn_coral_block",
@@ -682,8 +680,5 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
-  ],
-  "removed": [
-    "minecraft:bee_hive"
   ]
 }

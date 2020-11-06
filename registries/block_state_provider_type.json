@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:forest_flower_provider",
     "minecraft:plain_flower_provider",
     "minecraft:simple_state_provider",

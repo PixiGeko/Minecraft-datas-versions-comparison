@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:beehive",
+    "minecraft:honey_block",
+    "minecraft:honeycomb_block"
+  ],
   "common": [
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -32,7 +37,6 @@
     "minecraft:barrier",
     "minecraft:beacon",
     "minecraft:bedrock",
-    "minecraft:bee_hive",
     "minecraft:bee_nest",
     "minecraft:beetroots",
     "minecraft:bell",
@@ -678,5 +682,8 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
+  ],
+  "removed": [
+    "minecraft:bee_hive"
   ]
 }

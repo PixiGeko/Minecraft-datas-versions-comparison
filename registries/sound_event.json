@@ -1,4 +1,14 @@
 {
+  "added": [
+    "minecraft:block.honey_block.break",
+    "minecraft:block.honey_block.fall",
+    "minecraft:block.honey_block.hit",
+    "minecraft:block.honey_block.place",
+    "minecraft:block.honey_block.slide",
+    "minecraft:block.honey_block.step",
+    "minecraft:entity.iron_golem.damage",
+    "minecraft:entity.iron_golem.repair"
+  ],
   "common": [
     "minecraft:ambient.cave",
     "minecraft:ambient.underwater.enter",
@@ -478,7 +488,6 @@
     "minecraft:entity.parrot.imitate.husk",
     "minecraft:entity.parrot.imitate.illusioner",
     "minecraft:entity.parrot.imitate.magma_cube",
-    "minecraft:entity.parrot.imitate.panda",
     "minecraft:entity.parrot.imitate.phantom",
     "minecraft:entity.parrot.imitate.pillager",
     "minecraft:entity.parrot.imitate.polar_bear",
@@ -807,5 +816,8 @@
     "minecraft:ui.toast.out",
     "minecraft:weather.rain",
     "minecraft:weather.rain.above"
+  ],
+  "removed": [
+    "minecraft:entity.parrot.imitate.panda"
   ]
 }

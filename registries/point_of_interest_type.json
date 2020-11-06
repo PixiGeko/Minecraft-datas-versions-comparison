@@ -1,7 +1,9 @@
 {
+  "added": [
+    "minecraft:beehive"
+  ],
   "common": [
     "minecraft:armorer",
-    "minecraft:bee_hive",
     "minecraft:bee_nest",
     "minecraft:butcher",
     "minecraft:cartographer",
@@ -20,5 +22,8 @@
     "minecraft:toolsmith",
     "minecraft:unemployed",
     "minecraft:weaponsmith"
+  ],
+  "removed": [
+    "minecraft:bee_hive"
   ]
 }

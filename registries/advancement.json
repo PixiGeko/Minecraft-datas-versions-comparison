@@ -1,4 +1,15 @@
 {
+  "added": [
+    "minecraft:recipes/building_blocks/stripped_acacia_wood",
+    "minecraft:recipes/building_blocks/stripped_birch_wood",
+    "minecraft:recipes/building_blocks/stripped_dark_oak_wood",
+    "minecraft:recipes/building_blocks/stripped_jungle_wood",
+    "minecraft:recipes/building_blocks/stripped_oak_wood",
+    "minecraft:recipes/building_blocks/stripped_spruce_wood",
+    "minecraft:recipes/decorations/beehive",
+    "minecraft:recipes/decorations/honeycomb_block",
+    "minecraft:recipes/decorations/honey_block"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",
@@ -370,7 +381,6 @@
     "minecraft:recipes/decorations/anvil",
     "minecraft:recipes/decorations/armor_stand",
     "minecraft:recipes/decorations/barrel",
-    "minecraft:recipes/decorations/bee_hive",
     "minecraft:recipes/decorations/birch_fence",
     "minecraft:recipes/decorations/birch_sign",
     "minecraft:recipes/decorations/black_banner",
@@ -813,5 +823,8 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
+  ],
+  "removed": [
+    "minecraft:recipes/decorations/bee_hive"
   ]
 }

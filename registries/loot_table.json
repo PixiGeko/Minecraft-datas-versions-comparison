@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:blocks/beehive",
+    "minecraft:blocks/honeycomb_block",
+    "minecraft:blocks/honey_block"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",
@@ -29,7 +34,6 @@
     "minecraft:blocks/barrel",
     "minecraft:blocks/beacon",
     "minecraft:blocks/beetroots",
-    "minecraft:blocks/bee_hive",
     "minecraft:blocks/bee_nest",
     "minecraft:blocks/bell",
     "minecraft:blocks/birch_button",
@@ -754,5 +758,8 @@
     "minecraft:gameplay/hero_of_the_village/shepherd_gift",
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift"
+  ],
+  "removed": [
+    "minecraft:blocks/bee_hive"
   ]
 }

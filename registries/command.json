@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:spectate"
+  ],
   "common": [
     "minecraft:advancement",
     "minecraft:ban",

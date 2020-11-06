@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:beehive",
+    "minecraft:honey_block",
+    "minecraft:honeycomb_block"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -34,7 +39,6 @@
     "minecraft:bat_spawn_egg",
     "minecraft:beacon",
     "minecraft:bedrock",
-    "minecraft:bee_hive",
     "minecraft:bee_nest",
     "minecraft:bee_spawn_egg",
     "minecraft:beef",
@@ -882,5 +886,8 @@
     "minecraft:zombie_pigman_spawn_egg",
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg"
+  ],
+  "removed": [
+    "minecraft:bee_hive"
   ]
 }

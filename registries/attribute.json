@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:generic.armor",
     "minecraft:generic.armor_toughness",
     "minecraft:generic.attack_damage",

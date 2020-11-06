@@ -1,17 +1,3 @@
 {
-  "files": {
-    "registries": {
-      "added": [
-        "attribute"
-      ],
-      "changed": [
-        "loot_table",
-        "structure_processor",
-        "tag"
-      ],
-      "removed": [
-        "attributes"
-      ]
-    }
-  }
+  "files": {}
 }

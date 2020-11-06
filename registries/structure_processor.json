@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:lava_submerged_block"
-  ],
   "common": [
     "minecraft:blackstone_replace",
     "minecraft:block_age",
@@ -9,6 +6,7 @@
     "minecraft:block_rot",
     "minecraft:gravity",
     "minecraft:jigsaw_replacement",
+    "minecraft:lava_submerged_block",
     "minecraft:nop",
     "minecraft:rule"
   ]

@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/nether_portal"
-  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",
@@ -396,6 +393,7 @@
     "minecraft:blocks/nether_brick_stairs",
     "minecraft:blocks/nether_brick_wall",
     "minecraft:blocks/nether_gold_ore",
+    "minecraft:blocks/nether_portal",
     "minecraft:blocks/nether_quartz_ore",
     "minecraft:blocks/nether_sprouts",
     "minecraft:blocks/nether_wart",

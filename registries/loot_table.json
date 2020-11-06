@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:chests/pillager_outpost"
-  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",
@@ -621,6 +618,7 @@
     "minecraft:chests/jungle_temple",
     "minecraft:chests/jungle_temple_dispenser",
     "minecraft:chests/nether_bridge",
+    "minecraft:chests/pillager_outpost",
     "minecraft:chests/shipwreck_map",
     "minecraft:chests/shipwreck_supply",
     "minecraft:chests/shipwreck_treasure",

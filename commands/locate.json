@@ -1,7 +1,4 @@
 {
-  "added": [
-    "locate Pillager_Outpost"
-  ],
   "common": [
     "locate Buried_Treasure",
     "locate Desert_Pyramid",
@@ -13,6 +10,7 @@
     "locate Mineshaft",
     "locate Monument",
     "locate Ocean_Ruin",
+    "locate Pillager_Outpost",
     "locate Shipwreck",
     "locate Stronghold",
     "locate Swamp_Hut",

@@ -1,12 +1,10 @@
 {
-  "added": [
-    "minecraft:cartography_table"
-  ],
   "common": [
     "minecraft:anvil",
     "minecraft:beacon",
     "minecraft:blast_furnace",
     "minecraft:brewing_stand",
+    "minecraft:cartography_table",
     "minecraft:crafting",
     "minecraft:enchantment",
     "minecraft:furnace",
@@ -25,8 +23,5 @@
     "minecraft:shulker_box",
     "minecraft:smoker",
     "minecraft:stonecutter"
-  ],
-  "removed": [
-    "minecraft:cartography"
   ]
 }

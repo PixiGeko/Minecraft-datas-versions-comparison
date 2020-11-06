@@ -1,11 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/leaves",
-    "minecraft:fluids/lava",
-    "minecraft:fluids/water",
-    "minecraft:items/fishes",
-    "minecraft:items/leaves"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -23,6 +16,7 @@
     "minecraft:blocks/flower_pots",
     "minecraft:blocks/ice",
     "minecraft:blocks/jungle_logs",
+    "minecraft:blocks/leaves",
     "minecraft:blocks/live_coral_blocks",
     "minecraft:blocks/logs",
     "minecraft:blocks/oak_logs",
@@ -41,6 +35,8 @@
     "minecraft:blocks/wooden_slabs",
     "minecraft:blocks/wooden_stairs",
     "minecraft:blocks/wool",
+    "minecraft:fluids/lava",
+    "minecraft:fluids/water",
     "minecraft:items/acacia_logs",
     "minecraft:items/anvil",
     "minecraft:items/banners",
@@ -54,7 +50,9 @@
     "minecraft:items/dark_oak_logs",
     "minecraft:items/dead_coral_blocks",
     "minecraft:items/doors",
+    "minecraft:items/fishes",
     "minecraft:items/jungle_logs",
+    "minecraft:items/leaves",
     "minecraft:items/live_coral_blocks",
     "minecraft:items/logs",
     "minecraft:items/oak_logs",

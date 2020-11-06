@@ -1,6 +1,8 @@
 {
+  "added": [
+    "bossbar add <id> <name>"
+  ],
   "common": [
-    "bossbar create <id> <name>",
     "bossbar get <id> max",
     "bossbar get <id> players",
     "bossbar get <id> value",
@@ -24,5 +26,8 @@
     "bossbar set <id> style progress",
     "bossbar set <id> value <value>",
     "bossbar set <id> visible <visible>"
+  ],
+  "removed": [
+    "bossbar create <id> <name>"
   ]
 }

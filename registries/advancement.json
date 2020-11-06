@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:recipes/building_blocks/prismarine_brick_slab",
+    "minecraft:recipes/building_blocks/prismarine_brick_stairs"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/kill_all_mobs",
@@ -167,8 +171,6 @@
     "minecraft:recipes/building_blocks/polished_granite",
     "minecraft:recipes/building_blocks/prismarine",
     "minecraft:recipes/building_blocks/prismarine_bricks",
-    "minecraft:recipes/building_blocks/prismarine_bricks_slab",
-    "minecraft:recipes/building_blocks/prismarine_bricks_stairs",
     "minecraft:recipes/building_blocks/prismarine_slab",
     "minecraft:recipes/building_blocks/prismarine_stairs",
     "minecraft:recipes/building_blocks/purple_concrete_powder",
@@ -570,5 +572,9 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
+  ],
+  "removed": [
+    "minecraft:recipes/building_blocks/prismarine_bricks_slab",
+    "minecraft:recipes/building_blocks/prismarine_bricks_stairs"
   ]
 }

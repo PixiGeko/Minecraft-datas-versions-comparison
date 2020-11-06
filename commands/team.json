@@ -1,4 +1,8 @@
 {
+  "added": [
+    "team option <team> prefix <prefix>",
+    "team option <team> suffix <suffix>"
+  ],
   "common": [
     "team add <team> <displayName>",
     "team empty <team>",

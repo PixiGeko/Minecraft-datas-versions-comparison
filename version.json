@@ -2,19 +2,31 @@
   "files": {
     "blocks": {
       "added": [
-        "seagrass",
-        "tall_seagrass"
+        "kelp_plant",
+        "prismarine_brick_slab",
+        "prismarine_brick_stairs"
+      ],
+      "changed": [
+        "kelp"
       ],
       "removed": [
-        "sea_grass",
-        "tall_sea_grass"
+        "kelp_top",
+        "prismarine_bricks_slab",
+        "prismarine_bricks_stairs"
+      ]
+    },
+    "commands": {
+      "changed": [
+        "bossbar",
+        "team"
       ]
     },
     "registries": {
       "changed": [
+        "advancement",
         "block",
         "item",
-        "tag"
+        "recipe"
       ]
     }
   }

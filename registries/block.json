@@ -1,7 +1,8 @@
 {
   "added": [
-    "minecraft:seagrass",
-    "minecraft:tall_seagrass"
+    "minecraft:kelp_plant",
+    "minecraft:prismarine_brick_slab",
+    "minecraft:prismarine_brick_stairs"
   ],
   "common": [
     "minecraft:acacia_bark",
@@ -264,7 +265,6 @@
     "minecraft:jungle_stairs",
     "minecraft:jungle_trapdoor",
     "minecraft:kelp",
-    "minecraft:kelp_top",
     "minecraft:ladder",
     "minecraft:lapis_block",
     "minecraft:lapis_ore",
@@ -421,8 +421,6 @@
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_bricks",
-    "minecraft:prismarine_bricks_slab",
-    "minecraft:prismarine_bricks_stairs",
     "minecraft:prismarine_slab",
     "minecraft:prismarine_stairs",
     "minecraft:pumpkin",
@@ -483,6 +481,7 @@
     "minecraft:sandstone_stairs",
     "minecraft:sea_lantern",
     "minecraft:sea_pickle",
+    "minecraft:seagrass",
     "minecraft:shulker_box",
     "minecraft:sign",
     "minecraft:skeleton_skull",
@@ -528,6 +527,7 @@
     "minecraft:sugar_cane",
     "minecraft:sunflower",
     "minecraft:tall_grass",
+    "minecraft:tall_seagrass",
     "minecraft:terracotta",
     "minecraft:tnt",
     "minecraft:torch",
@@ -576,7 +576,8 @@
     "minecraft:zombie_wall_head"
   ],
   "removed": [
-    "minecraft:sea_grass",
-    "minecraft:tall_sea_grass"
+    "minecraft:kelp_top",
+    "minecraft:prismarine_bricks_slab",
+    "minecraft:prismarine_bricks_stairs"
   ]
 }

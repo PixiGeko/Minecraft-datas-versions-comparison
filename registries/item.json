@@ -1,7 +1,10 @@
 {
   "added": [
-    "minecraft:pufferfish_spawn_egg",
-    "minecraft:seagrass"
+    "minecraft:cod_spawn_egg",
+    "minecraft:kelp",
+    "minecraft:prismarine_brick_slab",
+    "minecraft:prismarine_brick_stairs",
+    "minecraft:salmon_spawn_egg"
   ],
   "common": [
     "minecraft:acacia_bark",
@@ -154,7 +157,6 @@
     "minecraft:cocoa_beans",
     "minecraft:cod",
     "minecraft:cod_bucket",
-    "minecraft:cod_mob_spawn_egg",
     "minecraft:command_block",
     "minecraft:command_block_minecart",
     "minecraft:comparator",
@@ -384,7 +386,6 @@
     "minecraft:jungle_slab",
     "minecraft:jungle_stairs",
     "minecraft:jungle_trapdoor",
-    "minecraft:kelp_top",
     "minecraft:knowledge_book",
     "minecraft:ladder",
     "minecraft:lapis_block",
@@ -564,14 +565,13 @@
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_bricks",
-    "minecraft:prismarine_bricks_slab",
-    "minecraft:prismarine_bricks_stairs",
     "minecraft:prismarine_crystals",
     "minecraft:prismarine_shard",
     "minecraft:prismarine_slab",
     "minecraft:prismarine_stairs",
     "minecraft:pufferfish",
     "minecraft:pufferfish_bucket",
+    "minecraft:pufferfish_spawn_egg",
     "minecraft:pumpkin",
     "minecraft:pumpkin_pie",
     "minecraft:pumpkin_seeds",
@@ -634,7 +634,6 @@
     "minecraft:saddle",
     "minecraft:salmon",
     "minecraft:salmon_bucket",
-    "minecraft:salmon_mob_spawn_egg",
     "minecraft:sand",
     "minecraft:sandstone",
     "minecraft:sandstone_slab",
@@ -642,6 +641,7 @@
     "minecraft:scute",
     "minecraft:sea_lantern",
     "minecraft:sea_pickle",
+    "minecraft:seagrass",
     "minecraft:shears",
     "minecraft:sheep_spawn_egg",
     "minecraft:shield",
@@ -778,7 +778,10 @@
     "minecraft:zombie_villager_spawn_egg"
   ],
   "removed": [
-    "minecraft:puffer_fish_spawn_egg",
-    "minecraft:sea_grass"
+    "minecraft:cod_mob_spawn_egg",
+    "minecraft:kelp_top",
+    "minecraft:prismarine_bricks_slab",
+    "minecraft:prismarine_bricks_stairs",
+    "minecraft:salmon_mob_spawn_egg"
   ]
 }

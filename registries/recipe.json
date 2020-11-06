@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:prismarine_brick_slab",
+    "minecraft:prismarine_brick_stairs"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -390,8 +394,6 @@
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_bricks",
-    "minecraft:prismarine_bricks_slab",
-    "minecraft:prismarine_bricks_stairs",
     "minecraft:prismarine_slab",
     "minecraft:prismarine_stairs",
     "minecraft:pumpkin_pie",
@@ -523,5 +525,9 @@
     "minecraft:yellow_stained_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
+  ],
+  "removed": [
+    "minecraft:prismarine_bricks_slab",
+    "minecraft:prismarine_bricks_stairs"
   ]
 }

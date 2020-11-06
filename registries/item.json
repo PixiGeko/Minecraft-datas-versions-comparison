@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:leather_horse_armor"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -440,6 +437,7 @@
     "minecraft:leather_boots",
     "minecraft:leather_chestplate",
     "minecraft:leather_helmet",
+    "minecraft:leather_horse_armor",
     "minecraft:leather_leggings",
     "minecraft:lectern",
     "minecraft:lever",

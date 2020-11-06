@@ -1,11 +1,15 @@
 {
   "files": {
+    "blocks": {
+      "changed": [
+        "note_block"
+      ]
+    },
     "registries": {
       "changed": [
-        "advancement",
-        "item",
-        "recipe",
-        "sound_event"
+        "particle_type",
+        "sound_event",
+        "tag"
       ]
     }
   }

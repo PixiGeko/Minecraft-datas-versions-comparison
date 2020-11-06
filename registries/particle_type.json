@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:falling_lava",
+    "minecraft:falling_water",
+    "minecraft:landing_lava"
+  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",

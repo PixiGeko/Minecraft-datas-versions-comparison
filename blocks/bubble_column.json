@@ -1,0 +1,10 @@
+{
+  "added": [
+    {
+      "drag": true
+    },
+    {
+      "drag": false
+    }
+  ]
+}

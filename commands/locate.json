@@ -1,20 +1,15 @@
 {
-  "added": [
-    "locate Desert_Pyramid",
-    "locate Igloo",
-    "locate Jungle_Pyramid",
-    "locate Swamp_Hut"
-  ],
   "common": [
+    "locate Desert_Pyramid",
     "locate EndCity",
     "locate Fortress",
+    "locate Igloo",
+    "locate Jungle_Pyramid",
     "locate Mansion",
     "locate Mineshaft",
     "locate Monument",
     "locate Stronghold",
+    "locate Swamp_Hut",
     "locate Village"
-  ],
-  "removed": [
-    "locate Temple"
   ]
 }

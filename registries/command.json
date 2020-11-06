@@ -1,7 +1,4 @@
 {
-  "added": [
-    "enchant"
-  ],
   "common": [
     "advancement",
     "ban",
@@ -17,6 +14,7 @@
     "deop",
     "difficulty",
     "effect",
+    "enchant",
     "execute",
     "experience",
     "fill",

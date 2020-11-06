@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:no_op"
+  ],
   "common": [
     "minecraft:acacia_tree",
     "minecraft:bamboo",

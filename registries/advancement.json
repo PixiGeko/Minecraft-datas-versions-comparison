@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:adventure/honey_block_slide",
+    "minecraft:husbandry/safely_harvest_honey",
+    "minecraft:husbandry/silk_touch_nest"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

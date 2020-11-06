@@ -478,7 +478,6 @@
     "minecraft:entity.parrot.imitate.drowned",
     "minecraft:entity.parrot.imitate.elder_guardian",
     "minecraft:entity.parrot.imitate.ender_dragon",
-    "minecraft:entity.parrot.imitate.enderman",
     "minecraft:entity.parrot.imitate.endermite",
     "minecraft:entity.parrot.imitate.evoker",
     "minecraft:entity.parrot.imitate.ghast",
@@ -813,8 +812,6 @@
     "minecraft:weather.rain.above"
   ],
   "removed": [
-    "minecraft:entity.parrot.imitate.polar_bear",
-    "minecraft:entity.parrot.imitate.wolf",
-    "minecraft:entity.parrot.imitate.zombie_pigman"
+    "minecraft:entity.parrot.imitate.enderman"
   ]
 }

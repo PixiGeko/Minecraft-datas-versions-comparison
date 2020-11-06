@@ -2,8 +2,6 @@
   "files": {
     "registries": {
       "changed": [
-        "advancement",
-        "recipe",
         "sound_event",
         "tag"
       ]

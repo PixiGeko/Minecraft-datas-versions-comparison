@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:blocks/infiniburn_end",
+    "minecraft:blocks/infiniburn_nether",
+    "minecraft:blocks/infiniburn_overworld"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

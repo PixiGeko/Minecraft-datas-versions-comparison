@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:blocks/nether_portal"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",

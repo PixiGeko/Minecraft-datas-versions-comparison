@@ -1,7 +1,4 @@
 {
-  "added": [
-    "locate New_Village"
-  ],
   "common": [
     "locate Buried_Treasure",
     "locate Desert_Pyramid",
@@ -12,6 +9,7 @@
     "locate Mansion",
     "locate Mineshaft",
     "locate Monument",
+    "locate New_Village",
     "locate Ocean_Ruin",
     "locate Pillager_Outpost",
     "locate Shipwreck",

@@ -1,16 +1,3 @@
 {
-  "files": {
-    "commands": {
-      "changed": [
-        "locate"
-      ]
-    },
-    "registries": {
-      "changed": [
-        "advancement",
-        "loot_table",
-        "recipe"
-      ]
-    }
-  }
+  "files": {}
 }

@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting"
-  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",
@@ -99,6 +96,7 @@
     "minecraft:recipes/building_blocks/chiseled_sandstone",
     "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting",
     "minecraft:recipes/building_blocks/chiseled_stone_bricks",
+    "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting",
     "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting",
     "minecraft:recipes/building_blocks/clay",
     "minecraft:recipes/building_blocks/coal_block",

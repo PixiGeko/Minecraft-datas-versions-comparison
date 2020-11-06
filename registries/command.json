@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:locatebiome"
-  ],
   "common": [
     "minecraft:advancement",
     "minecraft:ban",
@@ -31,6 +28,7 @@
     "minecraft:kill",
     "minecraft:list",
     "minecraft:locate",
+    "minecraft:locatebiome",
     "minecraft:loot",
     "minecraft:me",
     "minecraft:msg",

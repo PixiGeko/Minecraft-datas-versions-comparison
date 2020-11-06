@@ -1,10 +1,4 @@
 {
-  "added": [
-    "minecraft:crimson_forest",
-    "minecraft:nether_wastes",
-    "minecraft:soul_sand_valley",
-    "minecraft:warped_forest"
-  ],
   "common": [
     "minecraft:badlands",
     "minecraft:badlands_plateau",
@@ -14,6 +8,7 @@
     "minecraft:birch_forest",
     "minecraft:birch_forest_hills",
     "minecraft:cold_ocean",
+    "minecraft:crimson_forest",
     "minecraft:dark_forest",
     "minecraft:dark_forest_hills",
     "minecraft:deep_cold_ocean",
@@ -51,6 +46,7 @@
     "minecraft:mountains",
     "minecraft:mushroom_field_shore",
     "minecraft:mushroom_fields",
+    "minecraft:nether_wastes",
     "minecraft:ocean",
     "minecraft:plains",
     "minecraft:river",
@@ -65,6 +61,7 @@
     "minecraft:snowy_taiga_hills",
     "minecraft:snowy_taiga_mountains",
     "minecraft:snowy_tundra",
+    "minecraft:soul_sand_valley",
     "minecraft:stone_shore",
     "minecraft:sunflower_plains",
     "minecraft:swamp",
@@ -77,11 +74,9 @@
     "minecraft:the_end",
     "minecraft:the_void",
     "minecraft:warm_ocean",
+    "minecraft:warped_forest",
     "minecraft:wooded_badlands_plateau",
     "minecraft:wooded_hills",
     "minecraft:wooded_mountains"
-  ],
-  "removed": [
-    "minecraft:nether"
   ]
 }

@@ -1,15 +1,8 @@
 {
-  "added": [
-    "minecraft:basalt_pillar",
-    "minecraft:huge_fungi",
-    "minecraft:nether_forest_vegetation",
-    "minecraft:nether_fossil",
-    "minecraft:no_surface_ore",
-    "minecraft:weeping_vines"
-  ],
   "common": [
     "minecraft:acacia_tree",
     "minecraft:bamboo",
+    "minecraft:basalt_pillar",
     "minecraft:block_pile",
     "minecraft:blue_ice",
     "minecraft:bonus_chest",
@@ -37,6 +30,7 @@
     "minecraft:freeze_top_layer",
     "minecraft:glowstone_blob",
     "minecraft:huge_brown_mushroom",
+    "minecraft:huge_fungi",
     "minecraft:huge_red_mushroom",
     "minecraft:ice_patch",
     "minecraft:ice_spike",
@@ -51,7 +45,10 @@
     "minecraft:mineshaft",
     "minecraft:monster_room",
     "minecraft:nether_bridge",
+    "minecraft:nether_forest_vegetation",
+    "minecraft:nether_fossil",
     "minecraft:no_op",
+    "minecraft:no_surface_ore",
     "minecraft:normal_tree",
     "minecraft:ocean_monument",
     "minecraft:ocean_ruin",
@@ -72,6 +69,7 @@
     "minecraft:village",
     "minecraft:vines",
     "minecraft:void_start_platform",
+    "minecraft:weeping_vines",
     "minecraft:woodland_mansion"
   ]
 }

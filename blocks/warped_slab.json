@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "warped_slab[type=top,waterlogged=true]",
+    "warped_slab[type=top,waterlogged=false]",
+    "warped_slab[type=bottom,waterlogged=true]",
+    "warped_slab[type=bottom,waterlogged=false]",
+    "warped_slab[type=double,waterlogged=true]",
+    "warped_slab[type=double,waterlogged=false]"
   ]
 }

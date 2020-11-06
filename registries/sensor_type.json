@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:hoglin_specific_sensor",
+    "minecraft:nearest_items",
+    "minecraft:piglin_specific_sensor"
+  ],
   "common": [
     "minecraft:dummy",
     "minecraft:golem_last_seen",

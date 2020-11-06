@@ -1,4 +1,11 @@
 {
+  "added": [
+    "minecraft:admire_item",
+    "minecraft:avoid",
+    "minecraft:celebrate",
+    "minecraft:fight",
+    "minecraft:ride"
+  ],
   "common": [
     "minecraft:core",
     "minecraft:hide",

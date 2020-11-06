@@ -1,13 +1,7 @@
 {
-  "added": [
-    {
-      "axis": "x"
-    },
-    {
-      "axis": "y"
-    },
-    {
-      "axis": "z"
-    }
+  "common": [
+    "basalt[axis=x]",
+    "basalt[axis=y]",
+    "basalt[axis=z]"
   ]
 }

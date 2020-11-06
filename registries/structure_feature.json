@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:nether_fossil"
-  ],
   "common": [
     "minecraft:buried_treasure",
     "minecraft:desert_pyramid",
@@ -12,6 +9,7 @@
     "minecraft:mansion",
     "minecraft:mineshaft",
     "minecraft:monument",
+    "minecraft:nether_fossil",
     "minecraft:ocean_ruin",
     "minecraft:pillager_outpost",
     "minecraft:shipwreck",

@@ -1,8 +1,4 @@
 {
-  "added": [
-    "gamerule doPatrolSpawning <value>",
-    "gamerule doTraderSpawning <value>"
-  ],
   "common": [
     "gamerule announceAdvancements <value>",
     "gamerule commandBlockOutput <value>",
@@ -16,7 +12,9 @@
     "gamerule doLimitedCrafting <value>",
     "gamerule doMobLoot <value>",
     "gamerule doMobSpawning <value>",
+    "gamerule doPatrolSpawning <value>",
     "gamerule doTileDrops <value>",
+    "gamerule doTraderSpawning <value>",
     "gamerule doWeatherCycle <value>",
     "gamerule drowningDamage <value>",
     "gamerule fallDamage <value>",

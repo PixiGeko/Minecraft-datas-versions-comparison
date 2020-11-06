@@ -2,23 +2,60 @@
   "files": {
     "blocks": {
       "added": [
+        "blue_ice",
+        "brain_coral",
+        "brain_coral_block",
+        "brain_coral_fan",
+        "bubble_coral",
+        "bubble_coral_block",
+        "bubble_coral_fan",
+        "conduit",
+        "dead_brain_coral_block",
+        "dead_bubble_coral_block",
+        "dead_fire_coral_block",
+        "dead_horn_coral_block",
+        "dead_tube_coral_block",
+        "fire_coral",
+        "fire_coral_block",
+        "fire_coral_fan",
+        "horn_coral",
+        "horn_coral_block",
+        "horn_coral_fan",
+        "sea_pickle",
+        "tube_coral",
+        "tube_coral_block",
+        "tube_coral_fan"
+      ],
+      "removed": [
+        "blue_coral",
         "blue_coral_fan",
+        "blue_coral_plant",
+        "blue_dead_coral",
+        "pink_coral",
         "pink_coral_fan",
+        "pink_coral_plant",
+        "pink_dead_coral",
+        "purple_coral",
         "purple_coral_fan",
+        "purple_coral_plant",
+        "purple_dead_coral",
+        "red_coral",
         "red_coral_fan",
-        "yellow_coral_fan"
-      ]
-    },
-    "commands": {
-      "changed": [
-        "locate"
+        "red_coral_plant",
+        "red_dead_coral",
+        "yellow_coral",
+        "yellow_coral_fan",
+        "yellow_coral_plant",
+        "yellow_dead_coral"
       ]
     },
     "registries": {
       "changed": [
         "advancement",
         "block",
-        "item"
+        "item",
+        "recipe",
+        "tag"
       ]
     }
   }

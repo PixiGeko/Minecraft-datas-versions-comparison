@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:blue_ice",
+    "minecraft:cactus_green",
+    "minecraft:conduit",
+    "minecraft:lime_dye_from_smelting"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",

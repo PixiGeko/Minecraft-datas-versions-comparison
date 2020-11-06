@@ -1,0 +1,36 @@
+{
+  "added": [
+    {
+      "pickles": 1,
+      "waterlogged": true
+    },
+    {
+      "pickles": 1,
+      "waterlogged": false
+    },
+    {
+      "pickles": 2,
+      "waterlogged": true
+    },
+    {
+      "pickles": 2,
+      "waterlogged": false
+    },
+    {
+      "pickles": 3,
+      "waterlogged": true
+    },
+    {
+      "pickles": 3,
+      "waterlogged": false
+    },
+    {
+      "pickles": 4,
+      "waterlogged": true
+    },
+    {
+      "pickles": 4,
+      "waterlogged": false
+    }
+  ]
+}

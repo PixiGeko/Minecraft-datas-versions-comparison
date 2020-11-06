@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:recipes/decorations/grindstone"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

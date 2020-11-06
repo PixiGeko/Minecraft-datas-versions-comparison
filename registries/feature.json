@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:huge_fungus"
-  ],
   "common": [
     "minecraft:acacia_tree",
     "minecraft:bamboo",
@@ -33,6 +30,7 @@
     "minecraft:freeze_top_layer",
     "minecraft:glowstone_blob",
     "minecraft:huge_brown_mushroom",
+    "minecraft:huge_fungus",
     "minecraft:huge_red_mushroom",
     "minecraft:ice_patch",
     "minecraft:ice_spike",
@@ -73,8 +71,5 @@
     "minecraft:void_start_platform",
     "minecraft:weeping_vines",
     "minecraft:woodland_mansion"
-  ],
-  "removed": [
-    "minecraft:huge_fungi"
   ]
 }

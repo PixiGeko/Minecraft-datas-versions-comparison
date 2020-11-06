@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:zombified_piglin"
-  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
@@ -106,9 +103,7 @@
     "minecraft:wolf",
     "minecraft:zombie",
     "minecraft:zombie_horse",
-    "minecraft:zombie_villager"
-  ],
-  "removed": [
-    "minecraft:zombie_pigman"
+    "minecraft:zombie_villager",
+    "minecraft:zombified_piglin"
   ]
 }

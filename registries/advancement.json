@@ -1,13 +1,14 @@
 {
   "added": [
-    "minecraft:adventure/bullseye",
-    "minecraft:recipes/decorations/crimson_sign",
-    "minecraft:recipes/decorations/warped_sign",
-    "minecraft:recipes/redstone/target"
+    "minecraft:recipes/building_blocks/crimson_hyphae",
+    "minecraft:recipes/building_blocks/stripped_crimson_hyphae",
+    "minecraft:recipes/building_blocks/stripped_warped_hyphae",
+    "minecraft:recipes/building_blocks/warped_hyphae"
   ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",
+    "minecraft:adventure/bullseye",
     "minecraft:adventure/hero_of_the_village",
     "minecraft:adventure/honey_block_slide",
     "minecraft:adventure/kill_all_mobs",
@@ -380,11 +381,6 @@
     "minecraft:recipes/combat/leather_chestplate",
     "minecraft:recipes/combat/leather_helmet",
     "minecraft:recipes/combat/leather_leggings",
-    "minecraft:recipes/combat/netherite_boots",
-    "minecraft:recipes/combat/netherite_chestplate",
-    "minecraft:recipes/combat/netherite_helmet",
-    "minecraft:recipes/combat/netherite_leggings",
-    "minecraft:recipes/combat/netherite_sword",
     "minecraft:recipes/combat/shield",
     "minecraft:recipes/combat/spectral_arrow",
     "minecraft:recipes/combat/stone_sword",
@@ -435,6 +431,7 @@
     "minecraft:recipes/decorations/composter",
     "minecraft:recipes/decorations/crafting_table",
     "minecraft:recipes/decorations/crimson_fence",
+    "minecraft:recipes/decorations/crimson_sign",
     "minecraft:recipes/decorations/cyan_banner",
     "minecraft:recipes/decorations/cyan_bed",
     "minecraft:recipes/decorations/cyan_bed_from_white_bed",
@@ -585,6 +582,7 @@
     "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting",
     "minecraft:recipes/decorations/torch",
     "minecraft:recipes/decorations/warped_fence",
+    "minecraft:recipes/decorations/warped_sign",
     "minecraft:recipes/decorations/white_banner",
     "minecraft:recipes/decorations/white_bed",
     "minecraft:recipes/decorations/white_carpet",
@@ -794,6 +792,7 @@
     "minecraft:recipes/redstone/sticky_piston",
     "minecraft:recipes/redstone/stone_button",
     "minecraft:recipes/redstone/stone_pressure_plate",
+    "minecraft:recipes/redstone/target",
     "minecraft:recipes/redstone/tnt",
     "minecraft:recipes/redstone/trapped_chest",
     "minecraft:recipes/redstone/tripwire_hook",
@@ -820,10 +819,6 @@
     "minecraft:recipes/tools/iron_pickaxe",
     "minecraft:recipes/tools/iron_shovel",
     "minecraft:recipes/tools/lead",
-    "minecraft:recipes/tools/netherite_axe",
-    "minecraft:recipes/tools/netherite_hoe",
-    "minecraft:recipes/tools/netherite_pickaxe",
-    "minecraft:recipes/tools/netherite_shovel",
     "minecraft:recipes/tools/shears",
     "minecraft:recipes/tools/stone_axe",
     "minecraft:recipes/tools/stone_hoe",
@@ -865,5 +860,16 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
+  ],
+  "removed": [
+    "minecraft:recipes/combat/netherite_boots",
+    "minecraft:recipes/combat/netherite_chestplate",
+    "minecraft:recipes/combat/netherite_helmet",
+    "minecraft:recipes/combat/netherite_leggings",
+    "minecraft:recipes/combat/netherite_sword",
+    "minecraft:recipes/tools/netherite_axe",
+    "minecraft:recipes/tools/netherite_hoe",
+    "minecraft:recipes/tools/netherite_pickaxe",
+    "minecraft:recipes/tools/netherite_shovel"
   ]
 }

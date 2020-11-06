@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:target_hit"
+    "minecraft:interact_with_smithing_table"
   ],
   "common": [
     "minecraft:animals_bred",
@@ -65,6 +65,7 @@
     "minecraft:sprint_one_cm",
     "minecraft:swim_one_cm",
     "minecraft:talked_to_villager",
+    "minecraft:target_hit",
     "minecraft:time_since_death",
     "minecraft:time_since_rest",
     "minecraft:traded_with_villager",

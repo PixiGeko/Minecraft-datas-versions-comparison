@@ -1,6 +1,8 @@
 {
   "added": [
-    "minecraft:nearest_visible_warped_fungus"
+    "minecraft:admiring_disabled",
+    "minecraft:attack_cooling_down",
+    "minecraft:nearest_repellent"
   ],
   "common": [
     "minecraft:admiring_item",
@@ -40,7 +42,6 @@
     "minecraft:nearest_visible_baby_hoglin",
     "minecraft:nearest_visible_baby_piglin",
     "minecraft:nearest_visible_player",
-    "minecraft:nearest_visible_soul_fire_item",
     "minecraft:nearest_visible_targetable_player",
     "minecraft:nearest_visible_wanted_item",
     "minecraft:nearest_visible_wither_skeleton",
@@ -54,10 +55,11 @@
     "minecraft:visible_adult_piglin_count",
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
-    "minecraft:walk_target",
-    "minecraft:was_hit_by_player"
+    "minecraft:walk_target"
   ],
   "removed": [
-    "minecraft:nearest_visible_warped_fungi"
+    "minecraft:nearest_visible_soul_fire_item",
+    "minecraft:nearest_visible_warped_fungus",
+    "minecraft:was_hit_by_player"
   ]
 }

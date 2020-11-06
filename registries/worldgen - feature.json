@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:geode"
+  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",

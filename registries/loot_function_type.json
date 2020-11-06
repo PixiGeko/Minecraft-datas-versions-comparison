@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:set_banner_pattern"
+  ],
   "common": [
     "minecraft:apply_bonus",
     "minecraft:copy_name",

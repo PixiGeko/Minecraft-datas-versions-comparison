@@ -1,5 +1,31 @@
 {
-  "common": [
+  "added": [
+    "powered_rail[powered=true,shape=north_south,waterlogged=true]",
+    "powered_rail[powered=true,shape=north_south,waterlogged=false]",
+    "powered_rail[powered=true,shape=east_west,waterlogged=true]",
+    "powered_rail[powered=true,shape=east_west,waterlogged=false]",
+    "powered_rail[powered=true,shape=ascending_east,waterlogged=true]",
+    "powered_rail[powered=true,shape=ascending_east,waterlogged=false]",
+    "powered_rail[powered=true,shape=ascending_west,waterlogged=true]",
+    "powered_rail[powered=true,shape=ascending_west,waterlogged=false]",
+    "powered_rail[powered=true,shape=ascending_north,waterlogged=true]",
+    "powered_rail[powered=true,shape=ascending_north,waterlogged=false]",
+    "powered_rail[powered=true,shape=ascending_south,waterlogged=true]",
+    "powered_rail[powered=true,shape=ascending_south,waterlogged=false]",
+    "powered_rail[powered=false,shape=north_south,waterlogged=true]",
+    "powered_rail[powered=false,shape=north_south,waterlogged=false]",
+    "powered_rail[powered=false,shape=east_west,waterlogged=true]",
+    "powered_rail[powered=false,shape=east_west,waterlogged=false]",
+    "powered_rail[powered=false,shape=ascending_east,waterlogged=true]",
+    "powered_rail[powered=false,shape=ascending_east,waterlogged=false]",
+    "powered_rail[powered=false,shape=ascending_west,waterlogged=true]",
+    "powered_rail[powered=false,shape=ascending_west,waterlogged=false]",
+    "powered_rail[powered=false,shape=ascending_north,waterlogged=true]",
+    "powered_rail[powered=false,shape=ascending_north,waterlogged=false]",
+    "powered_rail[powered=false,shape=ascending_south,waterlogged=true]",
+    "powered_rail[powered=false,shape=ascending_south,waterlogged=false]"
+  ],
+  "removed": [
     "powered_rail[powered=true,shape=north_south]",
     "powered_rail[powered=true,shape=east_west]",
     "powered_rail[powered=true,shape=ascending_east]",

@@ -1,4 +1,13 @@
 {
+  "added": [
+    "minecraft:blocks/candles",
+    "minecraft:blocks/candle_cakes",
+    "minecraft:blocks/cauldrons",
+    "minecraft:blocks/crystal_sound_blocks",
+    "minecraft:items/candles",
+    "minecraft:items/ignored_by_piglin_babies",
+    "minecraft:items/piglin_food"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

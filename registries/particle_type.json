@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:soul"
+    "minecraft:reverse_portal"
   ],
   "common": [
     "minecraft:ambient_entity_effect",
@@ -63,6 +63,7 @@
     "minecraft:rain",
     "minecraft:smoke",
     "minecraft:sneeze",
+    "minecraft:soul",
     "minecraft:soul_fire_flame",
     "minecraft:spit",
     "minecraft:splash",

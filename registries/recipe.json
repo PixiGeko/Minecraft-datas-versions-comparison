@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:polished_basalt",
+    "minecraft:respawn_anchor"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

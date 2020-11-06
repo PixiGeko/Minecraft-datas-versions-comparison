@@ -2,24 +2,18 @@
   "files": {
     "blocks": {
       "added": [
-        "nether_gold_ore",
-        "twisting_vines",
-        "twisting_vines_plant"
-      ]
-    },
-    "commands": {
-      "changed": [
-        "locate"
+        "polished_basalt",
+        "respawn_anchor"
       ]
     },
     "registries": {
       "changed": [
+        "advancement",
         "block",
-        "enchantment",
-        "feature",
         "item",
         "loot_table",
         "particle_type",
+        "recipe",
         "sound_event",
         "tag"
       ]

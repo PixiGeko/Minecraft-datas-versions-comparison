@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:recipes/building_blocks/polished_basalt",
+    "minecraft:recipes/decorations/respawn_anchor"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

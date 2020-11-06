@@ -1,9 +1,6 @@
 {
   "added": [
-    "minecraft:blocks/gold_ores",
-    "minecraft:blocks/soul_speed_blocks",
-    "minecraft:items/gold_ores",
-    "minecraft:items/piglin_repellents"
+    "minecraft:blocks/soul_fire_base_blocks"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -31,6 +28,7 @@
     "minecraft:blocks/fire",
     "minecraft:blocks/flowers",
     "minecraft:blocks/flower_pots",
+    "minecraft:blocks/gold_ores",
     "minecraft:blocks/hoglin_repellents",
     "minecraft:blocks/ice",
     "minecraft:blocks/impermeable",
@@ -49,6 +47,7 @@
     "minecraft:blocks/signs",
     "minecraft:blocks/slabs",
     "minecraft:blocks/small_flowers",
+    "minecraft:blocks/soul_speed_blocks",
     "minecraft:blocks/spruce_logs",
     "minecraft:blocks/stairs",
     "minecraft:blocks/standing_signs",
@@ -97,12 +96,14 @@
     "minecraft:items/fences",
     "minecraft:items/fishes",
     "minecraft:items/flowers",
+    "minecraft:items/gold_ores",
     "minecraft:items/jungle_logs",
     "minecraft:items/leaves",
     "minecraft:items/lectern_books",
     "minecraft:items/logs",
     "minecraft:items/music_discs",
     "minecraft:items/oak_logs",
+    "minecraft:items/piglin_repellents",
     "minecraft:items/planks",
     "minecraft:items/rails",
     "minecraft:items/sand",

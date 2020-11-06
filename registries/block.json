@@ -1,8 +1,7 @@
 {
   "added": [
-    "minecraft:nether_gold_ore",
-    "minecraft:twisting_vines",
-    "minecraft:twisting_vines_plant"
+    "minecraft:polished_basalt",
+    "minecraft:respawn_anchor"
   ],
   "common": [
     "minecraft:acacia_button",
@@ -423,6 +422,7 @@
     "minecraft:nether_brick_stairs",
     "minecraft:nether_brick_wall",
     "minecraft:nether_bricks",
+    "minecraft:nether_gold_ore",
     "minecraft:nether_portal",
     "minecraft:nether_quartz_ore",
     "minecraft:nether_sprouts",
@@ -685,6 +685,8 @@
     "minecraft:tube_coral_fan",
     "minecraft:tube_coral_wall_fan",
     "minecraft:turtle_egg",
+    "minecraft:twisting_vines",
+    "minecraft:twisting_vines_plant",
     "minecraft:vine",
     "minecraft:void_air",
     "minecraft:wall_torch",

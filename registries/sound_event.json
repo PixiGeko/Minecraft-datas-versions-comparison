@@ -1,7 +1,9 @@
 {
   "added": [
-    "minecraft:block.vine.step",
-    "minecraft:particle.soul_escape"
+    "minecraft:block.respawn_anchor.ambient",
+    "minecraft:block.respawn_anchor.charge",
+    "minecraft:block.respawn_anchor.deplete",
+    "minecraft:block.respawn_anchor.set_spawn"
   ],
   "common": [
     "minecraft:ambient.cave",
@@ -281,6 +283,7 @@
     "minecraft:block.tripwire.click_off",
     "minecraft:block.tripwire.click_on",
     "minecraft:block.tripwire.detach",
+    "minecraft:block.vine.step",
     "minecraft:block.wart_block.break",
     "minecraft:block.wart_block.fall",
     "minecraft:block.wart_block.hit",
@@ -920,6 +923,7 @@
     "minecraft:music_disc.strad",
     "minecraft:music_disc.wait",
     "minecraft:music_disc.ward",
+    "minecraft:particle.soul_escape",
     "minecraft:ui.button.click",
     "minecraft:ui.cartography_table.take_result",
     "minecraft:ui.loom.select_pattern",

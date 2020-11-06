@@ -1,7 +1,7 @@
 {
   "added": [
-    "minecraft:nether_gold_ore",
-    "minecraft:twisting_vines"
+    "minecraft:polished_basalt",
+    "minecraft:respawn_anchor"
   ],
   "common": [
     "minecraft:acacia_boat",
@@ -573,6 +573,7 @@
     "minecraft:nether_brick_stairs",
     "minecraft:nether_brick_wall",
     "minecraft:nether_bricks",
+    "minecraft:nether_gold_ore",
     "minecraft:nether_quartz_ore",
     "minecraft:nether_sprouts",
     "minecraft:nether_star",
@@ -879,6 +880,7 @@
     "minecraft:turtle_egg",
     "minecraft:turtle_helmet",
     "minecraft:turtle_spawn_egg",
+    "minecraft:twisting_vines",
     "minecraft:vex_spawn_egg",
     "minecraft:villager_spawn_egg",
     "minecraft:vindicator_spawn_egg",

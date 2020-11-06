@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:soul_speed"
-  ],
   "common": [
     "minecraft:aqua_affinity",
     "minecraft:bane_of_arthropods",
@@ -36,6 +33,7 @@
     "minecraft:sharpness",
     "minecraft:silk_touch",
     "minecraft:smite",
+    "minecraft:soul_speed",
     "minecraft:sweeping",
     "minecraft:thorns",
     "minecraft:unbreaking",

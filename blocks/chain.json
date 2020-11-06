@@ -1,5 +1,13 @@
 {
-  "common": [
+  "added": [
+    "chain[axis=x,waterlogged=true]",
+    "chain[axis=x,waterlogged=false]",
+    "chain[axis=y,waterlogged=true]",
+    "chain[axis=y,waterlogged=false]",
+    "chain[axis=z,waterlogged=true]",
+    "chain[axis=z,waterlogged=false]"
+  ],
+  "removed": [
     "chain[waterlogged=true]",
     "chain[waterlogged=false]"
   ]

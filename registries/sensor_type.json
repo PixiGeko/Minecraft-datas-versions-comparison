@@ -14,8 +14,5 @@
     "minecraft:secondary_pois",
     "minecraft:villager_babies",
     "minecraft:villager_hostiles"
-  ],
-  "removed": [
-    "minecraft:interactable_doors"
   ]
 }

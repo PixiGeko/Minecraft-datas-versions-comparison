@@ -2,21 +2,12 @@
   "files": {
     "blocks": {
       "changed": [
-        "lantern",
-        "soul_lantern"
-      ]
-    },
-    "commands": {
-      "changed": [
-        "setworldspawn",
-        "spawnpoint"
+        "chain"
       ]
     },
     "registries": {
-      "changed": [
-        "memory_module_type",
-        "parser_type",
-        "sensor_type"
+      "added": [
+        "biome"
       ]
     }
   }

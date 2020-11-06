@@ -1,5 +1,9 @@
 {
-  "common": [
+  "added": [
+    "bubble_coral_fan[waterlogged=true]",
+    "bubble_coral_fan[waterlogged=false]"
+  ],
+  "removed": [
     "bubble_coral_fan[facing=north]",
     "bubble_coral_fan[facing=south]",
     "bubble_coral_fan[facing=west]",

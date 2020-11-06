@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:blocks/impermeable",
+    "minecraft:blocks/wall_corals"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -8,16 +12,13 @@
     "minecraft:blocks/carpets",
     "minecraft:blocks/corals",
     "minecraft:blocks/coral_blocks",
-    "minecraft:blocks/coral_fans",
     "minecraft:blocks/dark_oak_logs",
-    "minecraft:blocks/dead_coral_blocks",
     "minecraft:blocks/doors",
     "minecraft:blocks/enderman_holdable",
     "minecraft:blocks/flower_pots",
     "minecraft:blocks/ice",
     "minecraft:blocks/jungle_logs",
     "minecraft:blocks/leaves",
-    "minecraft:blocks/live_coral_blocks",
     "minecraft:blocks/logs",
     "minecraft:blocks/oak_logs",
     "minecraft:blocks/planks",
@@ -44,16 +45,11 @@
     "minecraft:items/boats",
     "minecraft:items/buttons",
     "minecraft:items/carpets",
-    "minecraft:items/corals",
-    "minecraft:items/coral_blocks",
-    "minecraft:items/coral_fans",
     "minecraft:items/dark_oak_logs",
-    "minecraft:items/dead_coral_blocks",
     "minecraft:items/doors",
     "minecraft:items/fishes",
     "minecraft:items/jungle_logs",
     "minecraft:items/leaves",
-    "minecraft:items/live_coral_blocks",
     "minecraft:items/logs",
     "minecraft:items/oak_logs",
     "minecraft:items/planks",
@@ -70,5 +66,15 @@
     "minecraft:items/wooden_slabs",
     "minecraft:items/wooden_stairs",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:blocks/coral_fans",
+    "minecraft:blocks/dead_coral_blocks",
+    "minecraft:blocks/live_coral_blocks",
+    "minecraft:items/corals",
+    "minecraft:items/coral_blocks",
+    "minecraft:items/coral_fans",
+    "minecraft:items/dead_coral_blocks",
+    "minecraft:items/live_coral_blocks"
   ]
 }

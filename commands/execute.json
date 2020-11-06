@@ -1,8 +1,4 @@
 {
-  "added": [
-    "execute positioned as <targets>",
-    "execute rotated as <targets>"
-  ],
   "common": [
     "execute align <axes>",
     "execute anchored <anchor>",
@@ -23,7 +19,9 @@
     "execute in overworld",
     "execute in the_end",
     "execute in the_nether",
+    "execute positioned as <targets>",
     "execute positioned <pos>",
+    "execute rotated as <targets>",
     "execute rotated <rot>",
     "execute run",
     "execute store result block <pos> <path> byte <scale>",
@@ -62,9 +60,5 @@
     "execute unless score <target> <targetObjective> > <source> <sourceObjective>",
     "execute unless score <target> <targetObjective> >= <source> <sourceObjective>",
     "execute unless score <target> <targetObjective> matches <range>"
-  ],
-  "removed": [
-    "execute positioned as <entities>",
-    "execute rotated as <entities>"
   ]
 }

@@ -1,8 +1,14 @@
 {
   "files": {
+    "commands": {
+      "changed": [
+        "gamerule"
+      ]
+    },
     "registries": {
       "changed": [
-        "memory_module_type"
+        "recipe",
+        "recipe_serializer"
       ]
     }
   }

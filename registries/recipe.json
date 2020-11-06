@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:repair_item"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

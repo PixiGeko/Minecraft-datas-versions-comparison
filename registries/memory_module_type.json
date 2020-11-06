@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:last_slept",
-    "minecraft:last_worked_at_poi"
-  ],
   "common": [
     "minecraft:breed_target",
     "minecraft:cant_reach_walk_target_since",
@@ -16,6 +12,8 @@
     "minecraft:interactable_doors",
     "minecraft:interaction_target",
     "minecraft:job_site",
+    "minecraft:last_slept",
+    "minecraft:last_worked_at_poi",
     "minecraft:look_target",
     "minecraft:meeting_point",
     "minecraft:mobs",
@@ -28,8 +26,5 @@
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
     "minecraft:walk_target"
-  ],
-  "removed": [
-    "minecraft:golem_spawn_conditions"
   ]
 }

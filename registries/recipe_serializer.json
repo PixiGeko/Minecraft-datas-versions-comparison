@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:crafting_special_repairitem"
+  ],
   "common": [
     "minecraft:blasting",
     "minecraft:campfire_cooking",

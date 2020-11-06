@@ -1,4 +1,7 @@
 {
+  "added": [
+    "gamerule disableRaids <value>"
+  ],
   "common": [
     "gamerule announceAdvancements <value>",
     "gamerule commandBlockOutput <value>",

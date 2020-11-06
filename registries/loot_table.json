@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/soul_lantern",
-    "minecraft:blocks/soul_torch"
-  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",
@@ -592,8 +588,10 @@
     "minecraft:blocks/snow_block",
     "minecraft:blocks/soul_campfire",
     "minecraft:blocks/soul_fire",
+    "minecraft:blocks/soul_lantern",
     "minecraft:blocks/soul_sand",
     "minecraft:blocks/soul_soil",
+    "minecraft:blocks/soul_torch",
     "minecraft:blocks/spawner",
     "minecraft:blocks/sponge",
     "minecraft:blocks/spruce_button",
@@ -849,9 +847,5 @@
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
     "minecraft:gameplay/piglin_bartering"
-  ],
-  "removed": [
-    "minecraft:blocks/soul_fire_lantern",
-    "minecraft:blocks/soul_fire_torch"
   ]
 }

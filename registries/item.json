@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:soul_lantern",
-    "minecraft:soul_torch"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -818,8 +814,10 @@
     "minecraft:snow_block",
     "minecraft:snowball",
     "minecraft:soul_campfire",
+    "minecraft:soul_lantern",
     "minecraft:soul_sand",
     "minecraft:soul_soil",
+    "minecraft:soul_torch",
     "minecraft:spawner",
     "minecraft:spectral_arrow",
     "minecraft:spider_eye",
@@ -977,9 +975,5 @@
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg",
     "minecraft:zombified_piglin_spawn_egg"
-  ],
-  "removed": [
-    "minecraft:soul_fire_lantern",
-    "minecraft:soul_fire_torch"
   ]
 }

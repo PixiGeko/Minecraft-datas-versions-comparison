@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "hanging": true
-    },
-    {
-      "hanging": false
-    }
+  "common": [
+    "soul_lantern[hanging=true]",
+    "soul_lantern[hanging=false]"
   ]
 }

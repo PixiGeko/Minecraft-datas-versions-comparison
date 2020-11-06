@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:tree"
-  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",
@@ -67,19 +64,12 @@
     "minecraft:spring_feature",
     "minecraft:stronghold",
     "minecraft:swamp_hut",
+    "minecraft:tree",
     "minecraft:twisting_vines",
     "minecraft:village",
     "minecraft:vines",
     "minecraft:void_start_platform",
     "minecraft:weeping_vines",
     "minecraft:woodland_mansion"
-  ],
-  "removed": [
-    "minecraft:dark_oak_tree",
-    "minecraft:fancy_tree",
-    "minecraft:jungle_ground_bush",
-    "minecraft:mega_jungle_tree",
-    "minecraft:mega_spruce_tree",
-    "minecraft:normal_tree"
   ]
 }

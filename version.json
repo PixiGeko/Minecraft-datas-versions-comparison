@@ -1,38 +1,8 @@
 {
   "files": {
     "blocks": {
-      "added": [
-        "soul_lantern",
-        "soul_torch",
-        "soul_wall_torch"
-      ],
-      "removed": [
-        "soul_fire_lantern",
-        "soul_fire_torch",
-        "soul_fire_wall_torch"
-      ]
-    },
-    "commands": {
-      "added": [
-        "attribute"
-      ]
-    },
-    "registries": {
-      "added": [
-        "feature_size_type"
-      ],
       "changed": [
-        "advancement",
-        "block",
-        "command",
-        "feature",
-        "foliage_placer_type",
-        "item",
-        "loot_table",
-        "recipe",
-        "sound_event",
-        "tag",
-        "trunk_placer_type"
+        "chain"
       ]
     }
   }

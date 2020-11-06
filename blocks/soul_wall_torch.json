@@ -1,16 +1,8 @@
 {
-  "added": [
-    {
-      "facing": "north"
-    },
-    {
-      "facing": "south"
-    },
-    {
-      "facing": "west"
-    },
-    {
-      "facing": "east"
-    }
+  "common": [
+    "soul_wall_torch[facing=north]",
+    "soul_wall_torch[facing=south]",
+    "soul_wall_torch[facing=west]",
+    "soul_wall_torch[facing=east]"
   ]
 }

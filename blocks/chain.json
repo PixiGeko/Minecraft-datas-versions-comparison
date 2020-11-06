@@ -1,5 +1,9 @@
 {
-  "common": [
+  "added": [
+    "chain[waterlogged=true]",
+    "chain[waterlogged=false]"
+  ],
+  "removed": [
     "chain"
   ]
 }

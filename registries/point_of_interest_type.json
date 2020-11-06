@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:nether_portal"
-  ],
   "common": [
     "minecraft:armorer",
     "minecraft:bee_hive",
@@ -17,6 +14,7 @@
     "minecraft:librarian",
     "minecraft:mason",
     "minecraft:meeting",
+    "minecraft:nether_portal",
     "minecraft:nitwit",
     "minecraft:shepherd",
     "minecraft:toolsmith",

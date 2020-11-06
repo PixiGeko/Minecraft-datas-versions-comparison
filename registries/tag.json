@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:entity_types/beehive_inhabitors"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -58,6 +55,7 @@
     "minecraft:blocks/wooden_stairs",
     "minecraft:blocks/wooden_trapdoors",
     "minecraft:blocks/wool",
+    "minecraft:entity_types/beehive_inhabitors",
     "minecraft:entity_types/raiders",
     "minecraft:entity_types/skeletons",
     "minecraft:fluids/lava",

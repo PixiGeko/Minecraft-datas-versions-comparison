@@ -1,3 +1,22 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "added": [
+        "stripped_acacia_bark",
+        "stripped_birch_bark",
+        "stripped_dark_oak_bark",
+        "stripped_jungle_bark",
+        "stripped_oak_bark",
+        "stripped_spruce_bark"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
+        "block",
+        "item",
+        "recipe"
+      ]
+    }
+  }
 }

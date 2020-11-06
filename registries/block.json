@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:stripped_acacia_bark",
+    "minecraft:stripped_birch_bark",
+    "minecraft:stripped_dark_oak_bark",
+    "minecraft:stripped_jungle_bark",
+    "minecraft:stripped_oak_bark",
+    "minecraft:stripped_spruce_bark"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_button",

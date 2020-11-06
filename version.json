@@ -2,13 +2,7 @@
   "files": {
     "commands": {
       "changed": [
-        "execute",
-        "teleport"
-      ]
-    },
-    "registries": {
-      "changed": [
-        "tag"
+        "execute"
       ]
     }
   }

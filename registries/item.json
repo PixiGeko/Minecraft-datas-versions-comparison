@@ -1,11 +1,11 @@
 {
   "added": [
-    "minecraft:cod_bucket",
-    "minecraft:cod_mob_spawn_egg",
-    "minecraft:puffer_fish_spawn_egg",
-    "minecraft:pufferfish_bucket",
-    "minecraft:salmon_bucket",
-    "minecraft:salmon_mob_spawn_egg"
+    "minecraft:blue_coral",
+    "minecraft:dead_coral",
+    "minecraft:pink_coral",
+    "minecraft:purple_coral",
+    "minecraft:red_coral",
+    "minecraft:yellow_coral"
   ],
   "common": [
     "minecraft:acacia_bark",
@@ -149,6 +149,8 @@
     "minecraft:cobweb",
     "minecraft:cocoa_beans",
     "minecraft:cod",
+    "minecraft:cod_bucket",
+    "minecraft:cod_mob_spawn_egg",
     "minecraft:command_block",
     "minecraft:command_block_minecart",
     "minecraft:comparator",
@@ -547,7 +549,9 @@
     "minecraft:prismarine_shard",
     "minecraft:prismarine_slab",
     "minecraft:prismarine_stairs",
+    "minecraft:puffer_fish_spawn_egg",
     "minecraft:pufferfish",
+    "minecraft:pufferfish_bucket",
     "minecraft:pumpkin",
     "minecraft:pumpkin_pie",
     "minecraft:pumpkin_seeds",
@@ -609,6 +613,8 @@
     "minecraft:rotten_flesh",
     "minecraft:saddle",
     "minecraft:salmon",
+    "minecraft:salmon_bucket",
+    "minecraft:salmon_mob_spawn_egg",
     "minecraft:sand",
     "minecraft:sandstone",
     "minecraft:sandstone_slab",

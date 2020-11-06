@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:blue_coral",
+    "minecraft:dead_coral",
+    "minecraft:pink_coral",
+    "minecraft:purple_coral",
+    "minecraft:red_coral",
+    "minecraft:yellow_coral"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_button",

@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:dried_kelp_block",
-    "minecraft:dried_kelp_from_smelting"
-  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -159,6 +155,8 @@
     "minecraft:diorite",
     "minecraft:dispenser",
     "minecraft:dried_kelp",
+    "minecraft:dried_kelp_block",
+    "minecraft:dried_kelp_from_smelting",
     "minecraft:dropper",
     "minecraft:emerald",
     "minecraft:emerald_block",

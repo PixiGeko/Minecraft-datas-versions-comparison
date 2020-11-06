@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:blocks/coral",
+    "minecraft:items/coral"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

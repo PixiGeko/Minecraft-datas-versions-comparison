@@ -1,4 +1,28 @@
 {
+  "added": [
+    "minecraft:recipes/decorations/barrel",
+    "minecraft:recipes/decorations/blast_furnace",
+    "minecraft:recipes/decorations/smoker",
+    "minecraft:recipes/food/baked_potato_from_smoking",
+    "minecraft:recipes/food/cooked_beef_from_smoking",
+    "minecraft:recipes/food/cooked_chicken_from_smoking",
+    "minecraft:recipes/food/cooked_cod_from_smoking",
+    "minecraft:recipes/food/cooked_mutton_from_smoking",
+    "minecraft:recipes/food/cooked_porkchop_from_smoking",
+    "minecraft:recipes/food/cooked_rabbit_from_smoking",
+    "minecraft:recipes/food/cooked_salmon_from_smoking",
+    "minecraft:recipes/food/dried_kelp_from_smoking",
+    "minecraft:recipes/misc/coal_from_blasting",
+    "minecraft:recipes/misc/diamond_from_blasting",
+    "minecraft:recipes/misc/emerald_from_blasting",
+    "minecraft:recipes/misc/gold_ingot_from_blasting",
+    "minecraft:recipes/misc/gold_nugget_from_blasting",
+    "minecraft:recipes/misc/iron_ingot_from_blasting",
+    "minecraft:recipes/misc/iron_nugget_from_blasting",
+    "minecraft:recipes/misc/lapis_from_blasting",
+    "minecraft:recipes/misc/quartz_from_blasting",
+    "minecraft:recipes/redstone/redstone_from_blasting"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

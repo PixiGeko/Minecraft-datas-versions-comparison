@@ -1,4 +1,28 @@
 {
+  "added": [
+    "minecraft:baked_potato_from_smoking",
+    "minecraft:barrel",
+    "minecraft:blast_furnace",
+    "minecraft:coal_from_blasting",
+    "minecraft:cooked_beef_from_smoking",
+    "minecraft:cooked_chicken_from_smoking",
+    "minecraft:cooked_cod_from_smoking",
+    "minecraft:cooked_mutton_from_smoking",
+    "minecraft:cooked_porkchop_from_smoking",
+    "minecraft:cooked_rabbit_from_smoking",
+    "minecraft:cooked_salmon_from_smoking",
+    "minecraft:diamond_from_blasting",
+    "minecraft:dried_kelp_from_smoking",
+    "minecraft:emerald_from_blasting",
+    "minecraft:gold_ingot_from_blasting",
+    "minecraft:gold_nugget_from_blasting",
+    "minecraft:iron_ingot_from_blasting",
+    "minecraft:iron_nugget_from_blasting",
+    "minecraft:lapis_from_blasting",
+    "minecraft:quartz_from_blasting",
+    "minecraft:redstone_from_blasting",
+    "minecraft:smoker"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

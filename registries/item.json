@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:sweet_berries"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -801,6 +798,7 @@
     "minecraft:sugar_cane",
     "minecraft:sunflower",
     "minecraft:suspicious_stew",
+    "minecraft:sweet_berries",
     "minecraft:tall_grass",
     "minecraft:terracotta",
     "minecraft:tipped_arrow",

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "chunk"
+  ],
   "common": [
     "advancement",
     "ban",

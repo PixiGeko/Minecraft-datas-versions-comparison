@@ -1,5 +1,9 @@
 {
-  "common": [
+  "added": [
+    "horn_coral[waterlogged=true]",
+    "horn_coral[waterlogged=false]"
+  ],
+  "removed": [
     "horn_coral"
   ]
 }

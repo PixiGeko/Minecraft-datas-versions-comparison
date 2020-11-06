@@ -1,0 +1,10 @@
+{
+  "added": [
+    {
+      "waterlogged": true
+    },
+    {
+      "waterlogged": false
+    }
+  ]
+}

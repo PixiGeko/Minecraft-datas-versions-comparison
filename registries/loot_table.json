@@ -1,11 +1,7 @@
 {
   "added": [
-    "minecraft:blocks/chain",
-    "minecraft:chests/bastion_bridge",
-    "minecraft:chests/bastion_hoglin_stable",
-    "minecraft:chests/bastion_other",
-    "minecraft:chests/bastion_treasure",
-    "minecraft:chests/ruined_portal"
+    "minecraft:blocks/soul_lantern",
+    "minecraft:blocks/soul_torch"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -118,6 +114,7 @@
     "minecraft:blocks/cartography_table",
     "minecraft:blocks/carved_pumpkin",
     "minecraft:blocks/cauldron",
+    "minecraft:blocks/chain",
     "minecraft:blocks/chest",
     "minecraft:blocks/chipped_anvil",
     "minecraft:blocks/chiseled_nether_bricks",
@@ -595,8 +592,6 @@
     "minecraft:blocks/snow_block",
     "minecraft:blocks/soul_campfire",
     "minecraft:blocks/soul_fire",
-    "minecraft:blocks/soul_fire_lantern",
-    "minecraft:blocks/soul_fire_torch",
     "minecraft:blocks/soul_sand",
     "minecraft:blocks/soul_soil",
     "minecraft:blocks/spawner",
@@ -708,6 +703,10 @@
     "minecraft:blocks/yellow_wool",
     "minecraft:blocks/zombie_head",
     "minecraft:chests/abandoned_mineshaft",
+    "minecraft:chests/bastion_bridge",
+    "minecraft:chests/bastion_hoglin_stable",
+    "minecraft:chests/bastion_other",
+    "minecraft:chests/bastion_treasure",
     "minecraft:chests/buried_treasure",
     "minecraft:chests/desert_pyramid",
     "minecraft:chests/end_city_treasure",
@@ -716,6 +715,7 @@
     "minecraft:chests/jungle_temple_dispenser",
     "minecraft:chests/nether_bridge",
     "minecraft:chests/pillager_outpost",
+    "minecraft:chests/ruined_portal",
     "minecraft:chests/shipwreck_map",
     "minecraft:chests/shipwreck_supply",
     "minecraft:chests/shipwreck_treasure",
@@ -849,5 +849,9 @@
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
     "minecraft:gameplay/piglin_bartering"
+  ],
+  "removed": [
+    "minecraft:blocks/soul_fire_lantern",
+    "minecraft:blocks/soul_fire_torch"
   ]
 }

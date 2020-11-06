@@ -1,6 +1,7 @@
 {
   "added": [
-    "minecraft:items/creeper_drop_music_discs"
+    "minecraft:blocks/pressure_plates",
+    "minecraft:blocks/stone_pressure_plates"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -96,6 +97,7 @@
     "minecraft:items/buttons",
     "minecraft:items/carpets",
     "minecraft:items/coals",
+    "minecraft:items/creeper_drop_music_discs",
     "minecraft:items/crimson_stems",
     "minecraft:items/dark_oak_logs",
     "minecraft:items/doors",

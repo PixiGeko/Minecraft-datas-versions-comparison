@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:attribute"
+  ],
   "common": [
     "minecraft:advancement",
     "minecraft:ban",

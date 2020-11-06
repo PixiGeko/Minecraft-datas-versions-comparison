@@ -1,6 +1,16 @@
 {
   "added": [
-    "minecraft:recipes/decorations/chain"
+    "minecraft:recipes/decorations/blackstone_wall",
+    "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting",
+    "minecraft:recipes/decorations/polished_blackstone_brick_wall",
+    "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting",
+    "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting",
+    "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting",
+    "minecraft:recipes/decorations/polished_blackstone_wall",
+    "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting",
+    "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting",
+    "minecraft:recipes/decorations/soul_lantern",
+    "minecraft:recipes/decorations/soul_torch"
   ],
   "common": [
     "minecraft:adventure/adventuring_time",
@@ -82,8 +92,6 @@
     "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting",
     "minecraft:recipes/building_blocks/blackstone_stairs",
     "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting",
-    "minecraft:recipes/building_blocks/blackstone_wall",
-    "minecraft:recipes/building_blocks/blackstone_wall_from_blackstone_stonecutting",
     "minecraft:recipes/building_blocks/black_concrete_powder",
     "minecraft:recipes/building_blocks/black_stained_glass",
     "minecraft:recipes/building_blocks/black_terracotta",
@@ -265,10 +273,6 @@
     "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting",
     "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting",
     "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting",
-    "minecraft:recipes/building_blocks/polished_blackstone_brick_wall",
-    "minecraft:recipes/building_blocks/polished_blackstone_brick_wall_from_blackstone_stonecutting",
-    "minecraft:recipes/building_blocks/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting",
-    "minecraft:recipes/building_blocks/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting",
     "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting",
     "minecraft:recipes/building_blocks/polished_blackstone_slab",
     "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting",
@@ -276,9 +280,6 @@
     "minecraft:recipes/building_blocks/polished_blackstone_stairs",
     "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting",
     "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting",
-    "minecraft:recipes/building_blocks/polished_blackstone_wall",
-    "minecraft:recipes/building_blocks/polished_blackstone_wall_from_blackstone_stonecutting",
-    "minecraft:recipes/building_blocks/polished_blackstone_wall_from_polished_blackstone_stonecutting",
     "minecraft:recipes/building_blocks/polished_diorite",
     "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting",
     "minecraft:recipes/building_blocks/polished_diorite_slab",
@@ -469,6 +470,7 @@
     "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane",
     "minecraft:recipes/decorations/campfire",
     "minecraft:recipes/decorations/cartography_table",
+    "minecraft:recipes/decorations/chain",
     "minecraft:recipes/decorations/chest",
     "minecraft:recipes/decorations/cobblestone_wall",
     "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting",
@@ -619,8 +621,6 @@
     "minecraft:recipes/decorations/smoker",
     "minecraft:recipes/decorations/snow",
     "minecraft:recipes/decorations/soul_campfire",
-    "minecraft:recipes/decorations/soul_fire_lantern",
-    "minecraft:recipes/decorations/soul_fire_torch",
     "minecraft:recipes/decorations/spruce_fence",
     "minecraft:recipes/decorations/spruce_sign",
     "minecraft:recipes/decorations/stonecutter",
@@ -910,5 +910,18 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
+  ],
+  "removed": [
+    "minecraft:recipes/building_blocks/blackstone_wall",
+    "minecraft:recipes/building_blocks/blackstone_wall_from_blackstone_stonecutting",
+    "minecraft:recipes/building_blocks/polished_blackstone_brick_wall",
+    "minecraft:recipes/building_blocks/polished_blackstone_brick_wall_from_blackstone_stonecutting",
+    "minecraft:recipes/building_blocks/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting",
+    "minecraft:recipes/building_blocks/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting",
+    "minecraft:recipes/building_blocks/polished_blackstone_wall",
+    "minecraft:recipes/building_blocks/polished_blackstone_wall_from_blackstone_stonecutting",
+    "minecraft:recipes/building_blocks/polished_blackstone_wall_from_polished_blackstone_stonecutting",
+    "minecraft:recipes/decorations/soul_fire_lantern",
+    "minecraft:recipes/decorations/soul_fire_torch"
   ]
 }

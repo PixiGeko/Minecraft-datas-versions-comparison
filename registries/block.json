@@ -1,6 +1,8 @@
 {
   "added": [
-    "minecraft:chain"
+    "minecraft:soul_lantern",
+    "minecraft:soul_torch",
+    "minecraft:soul_wall_torch"
   ],
   "common": [
     "minecraft:acacia_button",
@@ -125,6 +127,7 @@
     "minecraft:carved_pumpkin",
     "minecraft:cauldron",
     "minecraft:cave_air",
+    "minecraft:chain",
     "minecraft:chain_command_block",
     "minecraft:chest",
     "minecraft:chipped_anvil",
@@ -640,9 +643,6 @@
     "minecraft:snow_block",
     "minecraft:soul_campfire",
     "minecraft:soul_fire",
-    "minecraft:soul_fire_lantern",
-    "minecraft:soul_fire_torch",
-    "minecraft:soul_fire_wall_torch",
     "minecraft:soul_sand",
     "minecraft:soul_soil",
     "minecraft:spawner",
@@ -765,5 +765,10 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
+  ],
+  "removed": [
+    "minecraft:soul_fire_lantern",
+    "minecraft:soul_fire_torch",
+    "minecraft:soul_fire_wall_torch"
   ]
 }

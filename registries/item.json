@@ -1,7 +1,7 @@
 {
   "added": [
-    "minecraft:chain",
-    "minecraft:music_disc_pigstep"
+    "minecraft:soul_lantern",
+    "minecraft:soul_torch"
   ],
   "common": [
     "minecraft:acacia_boat",
@@ -142,6 +142,7 @@
     "minecraft:cat_spawn_egg",
     "minecraft:cauldron",
     "minecraft:cave_spider_spawn_egg",
+    "minecraft:chain",
     "minecraft:chain_command_block",
     "minecraft:chainmail_boots",
     "minecraft:chainmail_chestplate",
@@ -569,6 +570,7 @@
     "minecraft:music_disc_far",
     "minecraft:music_disc_mall",
     "minecraft:music_disc_mellohi",
+    "minecraft:music_disc_pigstep",
     "minecraft:music_disc_stal",
     "minecraft:music_disc_strad",
     "minecraft:music_disc_wait",
@@ -816,8 +818,6 @@
     "minecraft:snow_block",
     "minecraft:snowball",
     "minecraft:soul_campfire",
-    "minecraft:soul_fire_lantern",
-    "minecraft:soul_fire_torch",
     "minecraft:soul_sand",
     "minecraft:soul_soil",
     "minecraft:spawner",
@@ -977,5 +977,9 @@
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg",
     "minecraft:zombified_piglin_spawn_egg"
+  ],
+  "removed": [
+    "minecraft:soul_fire_lantern",
+    "minecraft:soul_fire_torch"
   ]
 }

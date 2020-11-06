@@ -1,9 +1,6 @@
 {
-  "added": [
-    "locate Bastion_Remnant",
-    "locate Ruined_Portal"
-  ],
   "common": [
+    "locate Bastion_Remnant",
     "locate Buried_Treasure",
     "locate Desert_Pyramid",
     "locate EndCity",
@@ -16,6 +13,7 @@
     "locate Nether_Fossil",
     "locate Ocean_Ruin",
     "locate Pillager_Outpost",
+    "locate Ruined_Portal",
     "locate Shipwreck",
     "locate Stronghold",
     "locate Swamp_Hut",

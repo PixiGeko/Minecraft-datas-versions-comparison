@@ -1,6 +1,7 @@
 {
   "added": [
-    "minecraft:chain"
+    "minecraft:soul_lantern",
+    "minecraft:soul_torch"
   ],
   "common": [
     "minecraft:acacia_boat",
@@ -121,6 +122,7 @@
     "minecraft:carrot_on_a_stick",
     "minecraft:cartography_table",
     "minecraft:cauldron",
+    "minecraft:chain",
     "minecraft:charcoal",
     "minecraft:chest",
     "minecraft:chest_minecart",
@@ -744,8 +746,6 @@
     "minecraft:snow",
     "minecraft:snow_block",
     "minecraft:soul_campfire",
-    "minecraft:soul_fire_lantern",
-    "minecraft:soul_fire_torch",
     "minecraft:spectral_arrow",
     "minecraft:sponge",
     "minecraft:spruce_boat",
@@ -852,5 +852,9 @@
     "minecraft:yellow_stained_glass_pane_from_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
+  ],
+  "removed": [
+    "minecraft:soul_fire_lantern",
+    "minecraft:soul_fire_torch"
   ]
 }

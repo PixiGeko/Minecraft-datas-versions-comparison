@@ -1,9 +1,4 @@
 {
-  "added": [
-    "minecraft:ravager",
-    "minecraft:trader_llama",
-    "minecraft:wandering_trader"
-  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
@@ -70,6 +65,7 @@
     "minecraft:potion",
     "minecraft:pufferfish",
     "minecraft:rabbit",
+    "minecraft:ravager",
     "minecraft:salmon",
     "minecraft:sheep",
     "minecraft:shulker",
@@ -88,12 +84,14 @@
     "minecraft:stray",
     "minecraft:tnt",
     "minecraft:tnt_minecart",
+    "minecraft:trader_llama",
     "minecraft:trident",
     "minecraft:tropical_fish",
     "minecraft:turtle",
     "minecraft:vex",
     "minecraft:villager",
     "minecraft:vindicator",
+    "minecraft:wandering_trader",
     "minecraft:witch",
     "minecraft:wither",
     "minecraft:wither_skeleton",
@@ -103,8 +101,5 @@
     "minecraft:zombie_horse",
     "minecraft:zombie_pigman",
     "minecraft:zombie_villager"
-  ],
-  "removed": [
-    "minecraft:illager_beast"
   ]
 }

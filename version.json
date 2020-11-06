@@ -2,14 +2,7 @@
   "files": {
     "registries": {
       "changed": [
-        "advancement",
-        "entity_type",
-        "item",
-        "loot_table",
-        "particle_type",
-        "recipe",
-        "sound_event",
-        "tag"
+        "particle_type"
       ]
     }
   }

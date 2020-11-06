@@ -1,13 +1,10 @@
 {
-  "added": [
-    "minecraft:admiring_disabled",
-    "minecraft:attack_cooling_down",
-    "minecraft:nearest_repellent"
-  ],
   "common": [
+    "minecraft:admiring_disabled",
     "minecraft:admiring_item",
     "minecraft:angry_at",
     "minecraft:ate_recently",
+    "minecraft:attack_cooling_down",
     "minecraft:attack_target",
     "minecraft:avoid_target",
     "minecraft:breed_target",
@@ -34,6 +31,7 @@
     "minecraft:nearest_hostile",
     "minecraft:nearest_player_holding_wanted_item",
     "minecraft:nearest_players",
+    "minecraft:nearest_repellent",
     "minecraft:nearest_targetable_player_not_wearing_gold",
     "minecraft:nearest_visible_adult_hoglin",
     "minecraft:nearest_visible_adult_hoglins",
@@ -56,10 +54,5 @@
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
     "minecraft:walk_target"
-  ],
-  "removed": [
-    "minecraft:nearest_visible_soul_fire_item",
-    "minecraft:nearest_visible_warped_fungus",
-    "minecraft:was_hit_by_player"
   ]
 }

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:soul_speed"
+  ],
   "common": [
     "minecraft:aqua_affinity",
     "minecraft:bane_of_arthropods",

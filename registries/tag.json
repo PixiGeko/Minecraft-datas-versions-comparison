@@ -1,7 +1,9 @@
 {
   "added": [
-    "minecraft:blocks/hoglin_repellents",
-    "minecraft:blocks/piglin_repellents"
+    "minecraft:blocks/gold_ores",
+    "minecraft:blocks/soul_speed_blocks",
+    "minecraft:items/gold_ores",
+    "minecraft:items/piglin_repellents"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -29,6 +31,7 @@
     "minecraft:blocks/fire",
     "minecraft:blocks/flowers",
     "minecraft:blocks/flower_pots",
+    "minecraft:blocks/hoglin_repellents",
     "minecraft:blocks/ice",
     "minecraft:blocks/impermeable",
     "minecraft:blocks/jungle_logs",
@@ -36,6 +39,7 @@
     "minecraft:blocks/logs",
     "minecraft:blocks/nylium",
     "minecraft:blocks/oak_logs",
+    "minecraft:blocks/piglin_repellents",
     "minecraft:blocks/planks",
     "minecraft:blocks/portals",
     "minecraft:blocks/rails",

@@ -1,5 +1,10 @@
 {
   "added": [
+    "minecraft:block.vine.step",
+    "minecraft:particle.soul_escape"
+  ],
+  "common": [
+    "minecraft:ambient.cave",
     "minecraft:ambient.crimson_forest.additions",
     "minecraft:ambient.crimson_forest.loop",
     "minecraft:ambient.crimson_forest.mood",
@@ -9,19 +14,15 @@
     "minecraft:ambient.soul_sand_valley.additions",
     "minecraft:ambient.soul_sand_valley.loop",
     "minecraft:ambient.soul_sand_valley.mood",
-    "minecraft:ambient.warped_forest.additions",
-    "minecraft:ambient.warped_forest.loop",
-    "minecraft:ambient.warped_forest.mood",
-    "minecraft:block.smithing_table.use"
-  ],
-  "common": [
-    "minecraft:ambient.cave",
     "minecraft:ambient.underwater.enter",
     "minecraft:ambient.underwater.exit",
     "minecraft:ambient.underwater.loop",
     "minecraft:ambient.underwater.loop.additions",
     "minecraft:ambient.underwater.loop.additions.rare",
     "minecraft:ambient.underwater.loop.additions.ultra_rare",
+    "minecraft:ambient.warped_forest.additions",
+    "minecraft:ambient.warped_forest.loop",
+    "minecraft:ambient.warped_forest.mood",
     "minecraft:block.ancient_debris.break",
     "minecraft:block.ancient_debris.fall",
     "minecraft:block.ancient_debris.hit",
@@ -243,6 +244,7 @@
     "minecraft:block.slime_block.hit",
     "minecraft:block.slime_block.place",
     "minecraft:block.slime_block.step",
+    "minecraft:block.smithing_table.use",
     "minecraft:block.smoker.smoke",
     "minecraft:block.snow.break",
     "minecraft:block.snow.fall",

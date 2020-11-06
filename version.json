@@ -2,22 +2,24 @@
   "files": {
     "blocks": {
       "added": [
-        "crimson_hyphae",
-        "stripped_crimson_hyphae",
-        "stripped_warped_hyphae",
-        "warped_hyphae"
+        "nether_gold_ore",
+        "twisting_vines",
+        "twisting_vines_plant"
+      ]
+    },
+    "commands": {
+      "changed": [
+        "locate"
       ]
     },
     "registries": {
       "changed": [
-        "advancement",
         "block",
-        "custom_stat",
+        "enchantment",
+        "feature",
         "item",
         "loot_table",
-        "memory_module_type",
-        "menu",
-        "recipe",
+        "particle_type",
         "sound_event",
         "tag"
       ]

@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:bamboo",
     "minecraft:birch_tree",
     "minecraft:blue_ice",
@@ -57,7 +57,6 @@
     "minecraft:monster_room",
     "minecraft:nether_bridge",
     "minecraft:nether_spring",
-    "minecraft:new_village",
     "minecraft:normal_tree",
     "minecraft:ocean_monument",
     "minecraft:ocean_ruin",
@@ -92,5 +91,8 @@
     "minecraft:void_start_platform",
     "minecraft:waterlily",
     "minecraft:woodland_mansion"
+  ],
+  "removed": [
+    "minecraft:new_village"
   ]
 }

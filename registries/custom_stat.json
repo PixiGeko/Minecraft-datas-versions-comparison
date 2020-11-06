@@ -1,5 +1,9 @@
 {
   "added": [
+    "minecraft:interact_with_campfire",
+    "minecraft:interact_with_lectern"
+  ],
+  "common": [
     "minecraft:animals_bred",
     "minecraft:aviate_one_cm",
     "minecraft:boat_one_cm",

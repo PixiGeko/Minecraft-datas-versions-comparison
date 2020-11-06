@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:buried_treasure",
     "minecraft:desert_pyramid",
     "minecraft:endcity",
@@ -9,12 +9,14 @@
     "minecraft:mansion",
     "minecraft:mineshaft",
     "minecraft:monument",
-    "minecraft:new_village",
     "minecraft:ocean_ruin",
     "minecraft:pillager_outpost",
     "minecraft:shipwreck",
     "minecraft:stronghold",
     "minecraft:swamp_hut",
     "minecraft:village"
+  ],
+  "removed": [
+    "minecraft:new_village"
   ]
 }

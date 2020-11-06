@@ -9,12 +9,14 @@
     "locate Mansion",
     "locate Mineshaft",
     "locate Monument",
-    "locate New_Village",
     "locate Ocean_Ruin",
     "locate Pillager_Outpost",
     "locate Shipwreck",
     "locate Stronghold",
     "locate Swamp_Hut",
     "locate Village"
+  ],
+  "removed": [
+    "locate New_Village"
   ]
 }

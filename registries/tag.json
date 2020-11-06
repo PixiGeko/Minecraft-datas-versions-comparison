@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:blocks/wooden_fences",
+    "minecraft:items/coals",
+    "minecraft:items/wooden_fences"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

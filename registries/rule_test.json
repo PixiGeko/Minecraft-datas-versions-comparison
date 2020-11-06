@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:always_true",
     "minecraft:block_match",
     "minecraft:blockstate_match",

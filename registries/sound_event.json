@@ -1,5 +1,27 @@
 {
   "added": [
+    "minecraft:block.barrel.close",
+    "minecraft:block.barrel.open",
+    "minecraft:block.blastfurnace.fire_crackle",
+    "minecraft:block.campfire.crackle",
+    "minecraft:block.composter.empty",
+    "minecraft:block.composter.fill",
+    "minecraft:block.composter.fill_success",
+    "minecraft:block.composter.ready",
+    "minecraft:block.crop.break",
+    "minecraft:block.nether_wart.break",
+    "minecraft:block.smoker.smoke",
+    "minecraft:block.sweet_berry_bush.break",
+    "minecraft:block.sweet_berry_bush.place",
+    "minecraft:entity.player.hurt_sweet_berry_bush",
+    "minecraft:item.book.page_turn",
+    "minecraft:item.book.put",
+    "minecraft:item.crop.plant",
+    "minecraft:item.nether_wart.plant",
+    "minecraft:item.sweet_berries.pick_from_bush",
+    "minecraft:ui.cartography_table.take_result"
+  ],
+  "common": [
     "minecraft:ambient.cave",
     "minecraft:ambient.underwater.enter",
     "minecraft:ambient.underwater.exit",

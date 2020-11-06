@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "bell[attachment=floor,facing=north]",
     "bell[attachment=floor,facing=south]",
     "bell[attachment=floor,facing=west]",
@@ -16,19 +16,5 @@
     "bell[attachment=double_wall,facing=south]",
     "bell[attachment=double_wall,facing=west]",
     "bell[attachment=double_wall,facing=east]"
-  ],
-  "removed": [
-    "bell[face=floor,facing=north]",
-    "bell[face=floor,facing=south]",
-    "bell[face=floor,facing=west]",
-    "bell[face=floor,facing=east]",
-    "bell[face=wall,facing=north]",
-    "bell[face=wall,facing=south]",
-    "bell[face=wall,facing=west]",
-    "bell[face=wall,facing=east]",
-    "bell[face=ceiling,facing=north]",
-    "bell[face=ceiling,facing=south]",
-    "bell[face=ceiling,facing=west]",
-    "bell[face=ceiling,facing=east]"
   ]
 }

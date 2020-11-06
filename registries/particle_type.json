@@ -1,5 +1,9 @@
 {
   "added": [
+    "minecraft:campfire_cosy_smoke",
+    "minecraft:campfire_signal_smoke"
+  ],
+  "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
     "minecraft:barrier",

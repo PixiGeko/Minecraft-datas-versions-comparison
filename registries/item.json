@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:campfire",
+    "minecraft:composter"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

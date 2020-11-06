@@ -1,5 +1,8 @@
 {
   "added": [
+    "minecraft:campfire"
+  ],
+  "common": [
     "minecraft:banner",
     "minecraft:barrel",
     "minecraft:beacon",

@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:block_ignore",
     "minecraft:block_rot",
     "minecraft:gravity",

@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:btp",
     "minecraft:ecp",
     "minecraft:iglu",
@@ -54,6 +54,9 @@
     "minecraft:tedp",
     "minecraft:tejp",
     "minecraft:tesh",
+    "minecraft:wmp"
+  ],
+  "removed": [
     "minecraft:vibh",
     "minecraft:vidf",
     "minecraft:vif",
@@ -66,7 +69,6 @@
     "minecraft:vist",
     "minecraft:vistart",
     "minecraft:vitrh",
-    "minecraft:viw",
-    "minecraft:wmp"
+    "minecraft:viw"
   ]
 }

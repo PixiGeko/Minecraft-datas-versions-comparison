@@ -1,16 +1,3 @@
 {
-  "files": {
-    "registries": {
-      "changed": [
-        "activity",
-        "entity_type",
-        "item",
-        "loot_table",
-        "memory_module_type",
-        "sensor_type",
-        "sound_event",
-        "tag"
-      ]
-    }
-  }
+  "files": {}
 }

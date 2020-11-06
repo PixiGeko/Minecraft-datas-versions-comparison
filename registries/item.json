@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:piglin_spawn_egg"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -631,6 +628,7 @@
     "minecraft:phantom_membrane",
     "minecraft:phantom_spawn_egg",
     "minecraft:pig_spawn_egg",
+    "minecraft:piglin_spawn_egg",
     "minecraft:pillager_spawn_egg",
     "minecraft:pink_banner",
     "minecraft:pink_bed",

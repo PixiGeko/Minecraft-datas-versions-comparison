@@ -1,7 +1,4 @@
 {
-  "added": [
-    "chunk"
-  ],
   "common": [
     "advancement",
     "ban",
@@ -69,5 +66,8 @@
     "whitelist",
     "worldborder",
     "xp"
+  ],
+  "removed": [
+    "chunk"
   ]
 }

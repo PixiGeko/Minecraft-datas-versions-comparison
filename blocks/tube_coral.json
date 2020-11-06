@@ -1,9 +1,9 @@
 {
   "added": [
-    "tube_coral[waterlogged=true]",
-    "tube_coral[waterlogged=false]"
+    "tube_coral"
   ],
   "removed": [
-    "tube_coral"
+    "tube_coral[waterlogged=true]",
+    "tube_coral[waterlogged=false]"
   ]
 }

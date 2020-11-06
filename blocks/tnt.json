@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "tnt"
+  ],
+  "removed": [
     "tnt[unstable=true]",
     "tnt[unstable=false]"
   ]

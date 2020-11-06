@@ -1,9 +1,9 @@
 {
   "added": [
-    "horn_coral[waterlogged=true]",
-    "horn_coral[waterlogged=false]"
+    "horn_coral"
   ],
   "removed": [
-    "horn_coral"
+    "horn_coral[waterlogged=true]",
+    "horn_coral[waterlogged=false]"
   ]
 }

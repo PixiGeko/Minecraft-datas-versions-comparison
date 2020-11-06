@@ -1,9 +1,9 @@
 {
   "added": [
-    "bubble_coral[waterlogged=true]",
-    "bubble_coral[waterlogged=false]"
+    "bubble_coral"
   ],
   "removed": [
-    "bubble_coral"
+    "bubble_coral[waterlogged=true]",
+    "bubble_coral[waterlogged=false]"
   ]
 }

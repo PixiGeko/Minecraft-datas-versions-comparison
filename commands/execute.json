@@ -1,6 +1,8 @@
 {
   "added": [
-    "execute in <dimension>"
+    "execute in overworld",
+    "execute in the_end",
+    "execute in the_nether"
   ],
   "common": [
     "execute align <axes>",
@@ -66,8 +68,6 @@
     "execute unless score <target> <targetObjective> matches <range>"
   ],
   "removed": [
-    "execute in overworld",
-    "execute in the_end",
-    "execute in the_nether"
+    "execute in <dimension>"
   ]
 }

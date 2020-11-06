@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/coral_plants",
-    "minecraft:blocks/underwater_bonemeals"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -72,5 +68,9 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:blocks/coral_plants",
+    "minecraft:blocks/underwater_bonemeals"
   ]
 }

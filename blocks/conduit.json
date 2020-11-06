@@ -1,9 +1,9 @@
 {
   "added": [
-    "conduit[waterlogged=true]",
-    "conduit[waterlogged=false]"
+    "conduit"
   ],
   "removed": [
-    "conduit"
+    "conduit[waterlogged=true]",
+    "conduit[waterlogged=false]"
   ]
 }

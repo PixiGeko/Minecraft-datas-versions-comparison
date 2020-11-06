@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:locatebiome"
+  ],
   "common": [
     "minecraft:advancement",
     "minecraft:ban",

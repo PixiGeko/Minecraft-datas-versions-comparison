@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:crimson_forest",
+    "minecraft:nether_wastes",
+    "minecraft:soul_sand_valley",
+    "minecraft:warped_forest"
+  ],
   "common": [
     "minecraft:badlands",
     "minecraft:badlands_plateau",
@@ -45,7 +51,6 @@
     "minecraft:mountains",
     "minecraft:mushroom_field_shore",
     "minecraft:mushroom_fields",
-    "minecraft:nether",
     "minecraft:ocean",
     "minecraft:plains",
     "minecraft:river",
@@ -75,5 +80,8 @@
     "minecraft:wooded_badlands_plateau",
     "minecraft:wooded_hills",
     "minecraft:wooded_mountains"
+  ],
+  "removed": [
+    "minecraft:nether"
   ]
 }

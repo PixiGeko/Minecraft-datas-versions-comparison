@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:nether_forest",
+    "minecraft:soul_sand_valley"
+  ],
   "common": [
     "minecraft:badlands",
     "minecraft:default",

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:fire"
+  ],
   "common": [
     "minecraft:carving_mask",
     "minecraft:chance_heightmap",
@@ -25,7 +28,6 @@
     "minecraft:end_gateway",
     "minecraft:end_island",
     "minecraft:forest_rock",
-    "minecraft:hell_fire",
     "minecraft:iceberg",
     "minecraft:lava_lake",
     "minecraft:light_gem_chance",
@@ -38,5 +40,8 @@
     "minecraft:top_solid_heightmap_noise_biased",
     "minecraft:top_solid_heightmap_range",
     "minecraft:water_lake"
+  ],
+  "removed": [
+    "minecraft:hell_fire"
   ]
 }

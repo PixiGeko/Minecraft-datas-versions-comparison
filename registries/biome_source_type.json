@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:multi_noise"
+  ],
   "common": [
     "minecraft:checkerboard",
     "minecraft:fixed",

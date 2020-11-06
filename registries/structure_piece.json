@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:nefos"
+  ],
   "common": [
     "minecraft:btp",
     "minecraft:ecp",

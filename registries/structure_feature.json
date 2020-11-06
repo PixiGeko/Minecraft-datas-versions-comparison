@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:nether_fossil"
+  ],
   "common": [
     "minecraft:buried_treasure",
     "minecraft:desert_pyramid",

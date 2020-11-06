@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:ash",
+    "minecraft:crimson_spore",
+    "minecraft:soul_fire_flame",
+    "minecraft:warped_spore"
+  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",

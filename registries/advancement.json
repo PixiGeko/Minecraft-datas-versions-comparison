@@ -1,4 +1,41 @@
 {
+  "added": [
+    "minecraft:recipes/building_blocks/crimson_planks",
+    "minecraft:recipes/building_blocks/crimson_slab",
+    "minecraft:recipes/building_blocks/crimson_stairs",
+    "minecraft:recipes/building_blocks/netherite_block",
+    "minecraft:recipes/building_blocks/warped_planks",
+    "minecraft:recipes/building_blocks/warped_slab",
+    "minecraft:recipes/building_blocks/warped_stairs",
+    "minecraft:recipes/combat/netherite_boots",
+    "minecraft:recipes/combat/netherite_chestplate",
+    "minecraft:recipes/combat/netherite_helmet",
+    "minecraft:recipes/combat/netherite_leggings",
+    "minecraft:recipes/combat/netherite_sword",
+    "minecraft:recipes/decorations/composter",
+    "minecraft:recipes/decorations/crimson_fence",
+    "minecraft:recipes/decorations/soul_fire_lantern",
+    "minecraft:recipes/decorations/soul_fire_torch",
+    "minecraft:recipes/decorations/warped_fence",
+    "minecraft:recipes/misc/netherite_ingot",
+    "minecraft:recipes/misc/netherite_ingot_from_netherite_block",
+    "minecraft:recipes/misc/netherite_scrap",
+    "minecraft:recipes/misc/netherite_scrap_from_blasting",
+    "minecraft:recipes/redstone/crimson_button",
+    "minecraft:recipes/redstone/crimson_door",
+    "minecraft:recipes/redstone/crimson_fence_gate",
+    "minecraft:recipes/redstone/crimson_pressure_plate",
+    "minecraft:recipes/redstone/crimson_trapdoor",
+    "minecraft:recipes/redstone/warped_button",
+    "minecraft:recipes/redstone/warped_door",
+    "minecraft:recipes/redstone/warped_fence_gate",
+    "minecraft:recipes/redstone/warped_pressure_plate",
+    "minecraft:recipes/redstone/warped_trapdoor",
+    "minecraft:recipes/tools/netherite_axe",
+    "minecraft:recipes/tools/netherite_hoe",
+    "minecraft:recipes/tools/netherite_pickaxe",
+    "minecraft:recipes/tools/netherite_shovel"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",
@@ -630,7 +667,6 @@
     "minecraft:recipes/misc/coal",
     "minecraft:recipes/misc/coal_from_blasting",
     "minecraft:recipes/misc/coal_from_smelting",
-    "minecraft:recipes/misc/composter",
     "minecraft:recipes/misc/conduit",
     "minecraft:recipes/misc/creeper_banner_pattern",
     "minecraft:recipes/misc/cyan_dye",
@@ -825,5 +861,8 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
+  ],
+  "removed": [
+    "minecraft:recipes/misc/composter"
   ]
 }

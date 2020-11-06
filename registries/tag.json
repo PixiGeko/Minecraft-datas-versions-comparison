@@ -1,4 +1,13 @@
 {
+  "added": [
+    "minecraft:blocks/crimson_stems",
+    "minecraft:blocks/fire",
+    "minecraft:blocks/nylium",
+    "minecraft:blocks/warped_stems",
+    "minecraft:blocks/wart_blocks",
+    "minecraft:items/crimson_stems",
+    "minecraft:items/warped_stems"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

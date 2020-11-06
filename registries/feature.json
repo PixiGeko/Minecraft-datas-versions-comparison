@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:basalt_pillar",
+    "minecraft:huge_fungi",
+    "minecraft:nether_forest_vegetation",
+    "minecraft:nether_fossil",
+    "minecraft:no_surface_ore",
+    "minecraft:weeping_vines"
+  ],
   "common": [
     "minecraft:acacia_tree",
     "minecraft:bamboo",

@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:cave_air",
+    "minecraft:void_air"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_button",

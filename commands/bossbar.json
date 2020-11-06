@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "bossbar create <id> <name>",
     "bossbar get <id> max",
     "bossbar get <id> players",

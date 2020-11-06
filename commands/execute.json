@@ -1,10 +1,4 @@
 {
-  "added": [
-    "execute store result bossbar <id> max",
-    "execute store result bossbar <id> value",
-    "execute store success bossbar <id> max",
-    "execute store success bossbar <id> value"
-  ],
   "common": [
     "execute align <axes>",
     "execute anchored <anchor>",
@@ -36,6 +30,8 @@
     "execute store result block <pos> <path> int <scale>",
     "execute store result block <pos> <path> long <scale>",
     "execute store result block <pos> <path> short <scale>",
+    "execute store result bossbar <id> max",
+    "execute store result bossbar <id> value",
     "execute store result entity <target> <path> byte <scale>",
     "execute store result entity <target> <path> double <scale>",
     "execute store result entity <target> <path> float <scale>",
@@ -49,6 +45,8 @@
     "execute store success block <pos> <path> int <scale>",
     "execute store success block <pos> <path> long <scale>",
     "execute store success block <pos> <path> short <scale>",
+    "execute store success bossbar <id> max",
+    "execute store success bossbar <id> value",
     "execute store success entity <target> <path> byte <scale>",
     "execute store success entity <target> <path> double <scale>",
     "execute store success entity <target> <path> float <scale>",

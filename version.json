@@ -1,17 +1,26 @@
 {
   "files": {
+    "blocks": {
+      "added": [
+        "cave_air",
+        "void_air"
+      ]
+    },
     "commands": {
       "added": [
-        "bossbar"
+        "enchant"
       ],
       "changed": [
-        "execute",
-        "setidletimeout"
+        "locate"
       ]
     },
     "registries": {
       "changed": [
-        "command"
+        "advancement",
+        "block",
+        "command",
+        "recipe",
+        "tag"
       ]
     }
   }

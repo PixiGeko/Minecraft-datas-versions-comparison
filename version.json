@@ -1,8 +1,9 @@
 {
   "files": {
-    "blocks": {
+    "registries": {
       "changed": [
-        "chain"
+        "custom_stat",
+        "tag"
       ]
     }
   }

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:blocks/prevent_mob_spawning_inside"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

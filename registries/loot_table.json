@@ -1,4 +1,21 @@
 {
+  "added": [
+    "minecraft:blocks/barrel",
+    "minecraft:blocks/bell",
+    "minecraft:blocks/blast_furnace",
+    "minecraft:blocks/cartography_table",
+    "minecraft:blocks/fletching_table",
+    "minecraft:blocks/grindstone",
+    "minecraft:blocks/lectern",
+    "minecraft:blocks/smithing_table",
+    "minecraft:blocks/smoker",
+    "minecraft:blocks/stonecutter",
+    "minecraft:entities/armor_stand",
+    "minecraft:entities/cat",
+    "minecraft:entities/cat_morning_gift",
+    "minecraft:entities/player",
+    "minecraft:entities/wither"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",

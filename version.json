@@ -1,3 +1,32 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "added": [
+        "barrel",
+        "bell",
+        "blast_furnace",
+        "cartography_table",
+        "fletching_table",
+        "grindstone",
+        "lectern",
+        "smithing_table",
+        "smoker",
+        "stonecutter"
+      ]
+    },
+    "commands": {
+      "changed": [
+        "drop"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
+        "block",
+        "item",
+        "loot_table",
+        "tag"
+      ]
+    }
+  }
 }

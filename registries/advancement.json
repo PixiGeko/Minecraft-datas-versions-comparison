@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:husbandry/complete_catalogue"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

@@ -1,4 +1,17 @@
 {
+  "added": [
+    "minecraft:barrel",
+    "minecraft:bell",
+    "minecraft:blast_furnace",
+    "minecraft:cartography_table",
+    "minecraft:cat_spawn_egg",
+    "minecraft:fletching_table",
+    "minecraft:grindstone",
+    "minecraft:lectern",
+    "minecraft:smithing_table",
+    "minecraft:smoker",
+    "minecraft:stonecutter"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

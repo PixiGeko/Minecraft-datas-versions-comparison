@@ -1,6 +1,5 @@
 {
   "common": [
-    "drop block <targetPos> distribute award <loot_table>",
     "drop block <targetPos> distribute fish <loot_table> <pos> mainhand",
     "drop block <targetPos> distribute fish <loot_table> <pos> offhand",
     "drop block <targetPos> distribute fish <loot_table> <pos> <tool>",
@@ -9,7 +8,6 @@
     "drop block <targetPos> distribute mine <pos> mainhand",
     "drop block <targetPos> distribute mine <pos> offhand",
     "drop block <targetPos> distribute mine <pos> <tool>",
-    "drop block <targetPos> insert <slot> award <loot_table>",
     "drop block <targetPos> insert <slot> fish <loot_table> <pos> mainhand",
     "drop block <targetPos> insert <slot> fish <loot_table> <pos> offhand",
     "drop block <targetPos> insert <slot> fish <loot_table> <pos> <tool>",
@@ -18,7 +16,6 @@
     "drop block <targetPos> insert <slot> mine <pos> mainhand",
     "drop block <targetPos> insert <slot> mine <pos> offhand",
     "drop block <targetPos> insert <slot> mine <pos> <tool>",
-    "drop block <targetPos> insert <slot> replace award <loot_table>",
     "drop block <targetPos> insert <slot> replace fish <loot_table> <pos> mainhand",
     "drop block <targetPos> insert <slot> replace fish <loot_table> <pos> offhand",
     "drop block <targetPos> insert <slot> replace fish <loot_table> <pos> <tool>",
@@ -27,7 +24,6 @@
     "drop block <targetPos> insert <slot> replace mine <pos> mainhand",
     "drop block <targetPos> insert <slot> replace mine <pos> offhand",
     "drop block <targetPos> insert <slot> replace mine <pos> <tool>",
-    "drop block <targetPos> insert <slot> <count> award <loot_table>",
     "drop block <targetPos> insert <slot> <count> fish <loot_table> <pos> mainhand",
     "drop block <targetPos> insert <slot> <count> fish <loot_table> <pos> offhand",
     "drop block <targetPos> insert <slot> <count> fish <loot_table> <pos> <tool>",
@@ -36,7 +32,6 @@
     "drop block <targetPos> insert <slot> <count> mine <pos> mainhand",
     "drop block <targetPos> insert <slot> <count> mine <pos> offhand",
     "drop block <targetPos> insert <slot> <count> mine <pos> <tool>",
-    "drop block <targetPos> insert <slot> <count> replace award <loot_table>",
     "drop block <targetPos> insert <slot> <count> replace fish <loot_table> <pos> mainhand",
     "drop block <targetPos> insert <slot> <count> replace fish <loot_table> <pos> offhand",
     "drop block <targetPos> insert <slot> <count> replace fish <loot_table> <pos> <tool>",
@@ -45,7 +40,6 @@
     "drop block <targetPos> insert <slot> <count> replace mine <pos> mainhand",
     "drop block <targetPos> insert <slot> <count> replace mine <pos> offhand",
     "drop block <targetPos> insert <slot> <count> replace mine <pos> <tool>",
-    "drop entity <entities> <slot> award <loot_table>",
     "drop entity <entities> <slot> fish <loot_table> <pos> mainhand",
     "drop entity <entities> <slot> fish <loot_table> <pos> offhand",
     "drop entity <entities> <slot> fish <loot_table> <pos> <tool>",
@@ -54,7 +48,6 @@
     "drop entity <entities> <slot> mine <pos> mainhand",
     "drop entity <entities> <slot> mine <pos> offhand",
     "drop entity <entities> <slot> mine <pos> <tool>",
-    "drop entity <entities> <slot> <count> award <loot_table>",
     "drop entity <entities> <slot> <count> fish <loot_table> <pos> mainhand",
     "drop entity <entities> <slot> <count> fish <loot_table> <pos> offhand",
     "drop entity <entities> <slot> <count> fish <loot_table> <pos> <tool>",
@@ -63,7 +56,6 @@
     "drop entity <entities> <slot> <count> mine <pos> mainhand",
     "drop entity <entities> <slot> <count> mine <pos> offhand",
     "drop entity <entities> <slot> <count> mine <pos> <tool>",
-    "drop player <players> award <loot_table>",
     "drop player <players> fish <loot_table> <pos> mainhand",
     "drop player <players> fish <loot_table> <pos> offhand",
     "drop player <players> fish <loot_table> <pos> <tool>",
@@ -72,7 +64,6 @@
     "drop player <players> mine <pos> mainhand",
     "drop player <players> mine <pos> offhand",
     "drop player <players> mine <pos> <tool>",
-    "drop world <targetPos> award <loot_table>",
     "drop world <targetPos> fish <loot_table> <pos> mainhand",
     "drop world <targetPos> fish <loot_table> <pos> offhand",
     "drop world <targetPos> fish <loot_table> <pos> <tool>",
@@ -81,5 +72,16 @@
     "drop world <targetPos> mine <pos> mainhand",
     "drop world <targetPos> mine <pos> offhand",
     "drop world <targetPos> mine <pos> <tool>"
+  ],
+  "removed": [
+    "drop block <targetPos> distribute award <loot_table>",
+    "drop block <targetPos> insert <slot> award <loot_table>",
+    "drop block <targetPos> insert <slot> replace award <loot_table>",
+    "drop block <targetPos> insert <slot> <count> award <loot_table>",
+    "drop block <targetPos> insert <slot> <count> replace award <loot_table>",
+    "drop entity <entities> <slot> award <loot_table>",
+    "drop entity <entities> <slot> <count> award <loot_table>",
+    "drop player <players> award <loot_table>",
+    "drop world <targetPos> award <loot_table>"
   ]
 }

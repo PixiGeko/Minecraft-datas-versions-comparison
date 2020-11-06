@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:blocks/beds",
+    "minecraft:items/beds"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

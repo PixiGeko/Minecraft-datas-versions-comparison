@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:glistering_melon_slice",
-    "minecraft:melon"
-  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -187,6 +183,7 @@
     "minecraft:glass",
     "minecraft:glass_bottle",
     "minecraft:glass_pane",
+    "minecraft:glistering_melon_slice",
     "minecraft:glowstone",
     "minecraft:golden_apple",
     "minecraft:golden_axe",
@@ -334,6 +331,7 @@
     "minecraft:map",
     "minecraft:map_cloning",
     "minecraft:map_extending",
+    "minecraft:melon",
     "minecraft:melon_seeds",
     "minecraft:minecart",
     "minecraft:mossy_cobblestone",
@@ -525,9 +523,5 @@
     "minecraft:yellow_stained_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
-  ],
-  "removed": [
-    "minecraft:melon_block",
-    "minecraft:speckled_melon"
   ]
 }

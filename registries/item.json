@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:glistering_melon_slice",
-    "minecraft:melon_slice"
-  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -284,6 +280,7 @@
     "minecraft:glass",
     "minecraft:glass_bottle",
     "minecraft:glass_pane",
+    "minecraft:glistering_melon_slice",
     "minecraft:glowstone",
     "minecraft:glowstone_dust",
     "minecraft:gold_block",
@@ -458,6 +455,7 @@
     "minecraft:map",
     "minecraft:melon",
     "minecraft:melon_seeds",
+    "minecraft:melon_slice",
     "minecraft:milk_bucket",
     "minecraft:minecart",
     "minecraft:mob_spawner",
@@ -776,9 +774,5 @@
     "minecraft:zombie_pigman_spawn_egg",
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg"
-  ],
-  "removed": [
-    "minecraft:melon_block",
-    "minecraft:speckled_melon"
   ]
 }

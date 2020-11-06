@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:melon"
-  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_button",
@@ -322,6 +319,7 @@
     "minecraft:magenta_wall_banner",
     "minecraft:magenta_wool",
     "minecraft:magma_block",
+    "minecraft:melon",
     "minecraft:melon_stem",
     "minecraft:mob_spawner",
     "minecraft:mossy_cobblestone",
@@ -574,8 +572,5 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
-  ],
-  "removed": [
-    "minecraft:melon_block"
   ]
 }

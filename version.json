@@ -1,20 +1,3 @@
 {
-  "files": {
-    "blocks": {
-      "added": [
-        "melon"
-      ],
-      "removed": [
-        "melon_block"
-      ]
-    },
-    "registries": {
-      "changed": [
-        "advancement",
-        "block",
-        "item",
-        "recipe"
-      ]
-    }
-  }
+  "files": {}
 }

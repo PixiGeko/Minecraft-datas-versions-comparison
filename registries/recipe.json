@@ -1,7 +1,7 @@
 {
   "added": [
-    "minecraft:prismarine_brick_slab",
-    "minecraft:prismarine_brick_stairs"
+    "minecraft:glistering_melon_slice",
+    "minecraft:melon"
   ],
   "common": [
     "minecraft:acacia_bark",
@@ -334,7 +334,6 @@
     "minecraft:map",
     "minecraft:map_cloning",
     "minecraft:map_extending",
-    "minecraft:melon_block",
     "minecraft:melon_seeds",
     "minecraft:minecart",
     "minecraft:mossy_cobblestone",
@@ -394,6 +393,8 @@
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_bricks",
+    "minecraft:prismarine_brick_slab",
+    "minecraft:prismarine_brick_stairs",
     "minecraft:prismarine_slab",
     "minecraft:prismarine_stairs",
     "minecraft:pumpkin_pie",
@@ -460,7 +461,6 @@
     "minecraft:slime_block",
     "minecraft:snow",
     "minecraft:snow_block",
-    "minecraft:speckled_melon",
     "minecraft:spectral_arrow",
     "minecraft:sponge",
     "minecraft:spruce_bark",
@@ -527,7 +527,7 @@
     "minecraft:yellow_wool"
   ],
   "removed": [
-    "minecraft:prismarine_bricks_slab",
-    "minecraft:prismarine_bricks_stairs"
+    "minecraft:melon_block",
+    "minecraft:speckled_melon"
   ]
 }

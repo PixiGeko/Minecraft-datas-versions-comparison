@@ -2,23 +2,10 @@
   "files": {
     "blocks": {
       "added": [
-        "kelp_plant",
-        "prismarine_brick_slab",
-        "prismarine_brick_stairs"
-      ],
-      "changed": [
-        "kelp"
+        "melon"
       ],
       "removed": [
-        "kelp_top",
-        "prismarine_bricks_slab",
-        "prismarine_bricks_stairs"
-      ]
-    },
-    "commands": {
-      "changed": [
-        "bossbar",
-        "team"
+        "melon_block"
       ]
     },
     "registries": {

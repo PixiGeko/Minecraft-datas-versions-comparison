@@ -1,7 +1,7 @@
 {
   "added": [
-    "minecraft:recipes/building_blocks/prismarine_brick_slab",
-    "minecraft:recipes/building_blocks/prismarine_brick_stairs"
+    "minecraft:recipes/brewing/glistering_melon_slice",
+    "minecraft:recipes/building_blocks/melon"
   ],
   "common": [
     "minecraft:adventure/adventuring_time",
@@ -54,7 +54,6 @@
     "minecraft:recipes/brewing/glass_bottle",
     "minecraft:recipes/brewing/golden_carrot",
     "minecraft:recipes/brewing/magma_cream",
-    "minecraft:recipes/brewing/speckled_melon",
     "minecraft:recipes/building_blocks/acacia_bark",
     "minecraft:recipes/building_blocks/acacia_planks",
     "minecraft:recipes/building_blocks/acacia_slab",
@@ -147,7 +146,6 @@
     "minecraft:recipes/building_blocks/magenta_terracotta",
     "minecraft:recipes/building_blocks/magenta_wool",
     "minecraft:recipes/building_blocks/magma_block",
-    "minecraft:recipes/building_blocks/melon_block",
     "minecraft:recipes/building_blocks/mossy_cobblestone",
     "minecraft:recipes/building_blocks/mossy_stone_bricks",
     "minecraft:recipes/building_blocks/nether_bricks",
@@ -171,6 +169,8 @@
     "minecraft:recipes/building_blocks/polished_granite",
     "minecraft:recipes/building_blocks/prismarine",
     "minecraft:recipes/building_blocks/prismarine_bricks",
+    "minecraft:recipes/building_blocks/prismarine_brick_slab",
+    "minecraft:recipes/building_blocks/prismarine_brick_stairs",
     "minecraft:recipes/building_blocks/prismarine_slab",
     "minecraft:recipes/building_blocks/prismarine_stairs",
     "minecraft:recipes/building_blocks/purple_concrete_powder",
@@ -574,7 +574,7 @@
     "minecraft:story/upgrade_tools"
   ],
   "removed": [
-    "minecraft:recipes/building_blocks/prismarine_bricks_slab",
-    "minecraft:recipes/building_blocks/prismarine_bricks_stairs"
+    "minecraft:recipes/brewing/speckled_melon",
+    "minecraft:recipes/building_blocks/melon_block"
   ]
 }

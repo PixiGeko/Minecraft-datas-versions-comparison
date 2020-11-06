@@ -1,8 +1,6 @@
 {
   "added": [
-    "minecraft:kelp_plant",
-    "minecraft:prismarine_brick_slab",
-    "minecraft:prismarine_brick_stairs"
+    "minecraft:melon"
   ],
   "common": [
     "minecraft:acacia_bark",
@@ -265,6 +263,7 @@
     "minecraft:jungle_stairs",
     "minecraft:jungle_trapdoor",
     "minecraft:kelp",
+    "minecraft:kelp_plant",
     "minecraft:ladder",
     "minecraft:lapis_block",
     "minecraft:lapis_ore",
@@ -323,7 +322,6 @@
     "minecraft:magenta_wall_banner",
     "minecraft:magenta_wool",
     "minecraft:magma_block",
-    "minecraft:melon_block",
     "minecraft:melon_stem",
     "minecraft:mob_spawner",
     "minecraft:mossy_cobblestone",
@@ -420,6 +418,8 @@
     "minecraft:potted_white_tulip",
     "minecraft:powered_rail",
     "minecraft:prismarine",
+    "minecraft:prismarine_brick_slab",
+    "minecraft:prismarine_brick_stairs",
     "minecraft:prismarine_bricks",
     "minecraft:prismarine_slab",
     "minecraft:prismarine_stairs",
@@ -576,8 +576,6 @@
     "minecraft:zombie_wall_head"
   ],
   "removed": [
-    "minecraft:kelp_top",
-    "minecraft:prismarine_bricks_slab",
-    "minecraft:prismarine_bricks_stairs"
+    "minecraft:melon_block"
   ]
 }

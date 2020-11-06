@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "kelp[age=0]",
     "kelp[age=1]",
     "kelp[age=2]",
@@ -26,8 +26,5 @@
     "kelp[age=23]",
     "kelp[age=24]",
     "kelp[age=25]"
-  ],
-  "removed": [
-    "kelp"
   ]
 }

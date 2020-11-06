@@ -1,10 +1,7 @@
 {
   "added": [
-    "minecraft:cod_spawn_egg",
-    "minecraft:kelp",
-    "minecraft:prismarine_brick_slab",
-    "minecraft:prismarine_brick_stairs",
-    "minecraft:salmon_spawn_egg"
+    "minecraft:glistering_melon_slice",
+    "minecraft:melon_slice"
   ],
   "common": [
     "minecraft:acacia_bark",
@@ -157,6 +154,7 @@
     "minecraft:cocoa_beans",
     "minecraft:cod",
     "minecraft:cod_bucket",
+    "minecraft:cod_spawn_egg",
     "minecraft:command_block",
     "minecraft:command_block_minecart",
     "minecraft:comparator",
@@ -386,6 +384,7 @@
     "minecraft:jungle_slab",
     "minecraft:jungle_stairs",
     "minecraft:jungle_trapdoor",
+    "minecraft:kelp",
     "minecraft:knowledge_book",
     "minecraft:ladder",
     "minecraft:lapis_block",
@@ -458,7 +457,6 @@
     "minecraft:magma_cube_spawn_egg",
     "minecraft:map",
     "minecraft:melon",
-    "minecraft:melon_block",
     "minecraft:melon_seeds",
     "minecraft:milk_bucket",
     "minecraft:minecart",
@@ -564,6 +562,8 @@
     "minecraft:potion",
     "minecraft:powered_rail",
     "minecraft:prismarine",
+    "minecraft:prismarine_brick_slab",
+    "minecraft:prismarine_brick_stairs",
     "minecraft:prismarine_bricks",
     "minecraft:prismarine_crystals",
     "minecraft:prismarine_shard",
@@ -634,6 +634,7 @@
     "minecraft:saddle",
     "minecraft:salmon",
     "minecraft:salmon_bucket",
+    "minecraft:salmon_spawn_egg",
     "minecraft:sand",
     "minecraft:sandstone",
     "minecraft:sandstone_slab",
@@ -664,7 +665,6 @@
     "minecraft:snow_block",
     "minecraft:snowball",
     "minecraft:soul_sand",
-    "minecraft:speckled_melon",
     "minecraft:spectral_arrow",
     "minecraft:spider_eye",
     "minecraft:spider_spawn_egg",
@@ -778,10 +778,7 @@
     "minecraft:zombie_villager_spawn_egg"
   ],
   "removed": [
-    "minecraft:cod_mob_spawn_egg",
-    "minecraft:kelp_top",
-    "minecraft:prismarine_bricks_slab",
-    "minecraft:prismarine_bricks_stairs",
-    "minecraft:salmon_mob_spawn_egg"
+    "minecraft:melon_block",
+    "minecraft:speckled_melon"
   ]
 }

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:target_hit"
+  ],
   "common": [
     "minecraft:animals_bred",
     "minecraft:aviate_one_cm",

@@ -1,4 +1,11 @@
 {
+  "added": [
+    "minecraft:crimson_fungus",
+    "minecraft:crying_obsidian",
+    "minecraft:target",
+    "minecraft:warped_fungus",
+    "minecraft:zombified_piglin_spawn_egg"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -193,7 +200,6 @@
     "minecraft:crimson_door",
     "minecraft:crimson_fence",
     "minecraft:crimson_fence_gate",
-    "minecraft:crimson_fungi",
     "minecraft:crimson_nylium",
     "minecraft:crimson_planks",
     "minecraft:crimson_pressure_plate",
@@ -879,7 +885,6 @@
     "minecraft:warped_door",
     "minecraft:warped_fence",
     "minecraft:warped_fence_gate",
-    "minecraft:warped_fungi",
     "minecraft:warped_nylium",
     "minecraft:warped_planks",
     "minecraft:warped_pressure_plate",
@@ -934,8 +939,12 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_horse_spawn_egg",
-    "minecraft:zombie_pigman_spawn_egg",
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg"
+  ],
+  "removed": [
+    "minecraft:crimson_fungi",
+    "minecraft:warped_fungi",
+    "minecraft:zombie_pigman_spawn_egg"
   ]
 }

@@ -1,4 +1,15 @@
 {
+  "added": [
+    "minecraft:blocks/crimson_fungus",
+    "minecraft:blocks/crying_obsidian",
+    "minecraft:blocks/potted_crimson_fungus",
+    "minecraft:blocks/potted_crimson_roots",
+    "minecraft:blocks/potted_warped_fungus",
+    "minecraft:blocks/potted_warped_roots",
+    "minecraft:blocks/target",
+    "minecraft:blocks/warped_fungus",
+    "minecraft:entities/zombified_piglin"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",
@@ -135,7 +146,6 @@
     "minecraft:blocks/crimson_door",
     "minecraft:blocks/crimson_fence",
     "minecraft:blocks/crimson_fence_gate",
-    "minecraft:blocks/crimson_fungi",
     "minecraft:blocks/crimson_nylium",
     "minecraft:blocks/crimson_planks",
     "minecraft:blocks/crimson_pressure_plate",
@@ -619,7 +629,6 @@
     "minecraft:blocks/warped_door",
     "minecraft:blocks/warped_fence",
     "minecraft:blocks/warped_fence_gate",
-    "minecraft:blocks/warped_fungi",
     "minecraft:blocks/warped_nylium",
     "minecraft:blocks/warped_planks",
     "minecraft:blocks/warped_pressure_plate",
@@ -779,7 +788,6 @@
     "minecraft:entities/wolf",
     "minecraft:entities/zombie",
     "minecraft:entities/zombie_horse",
-    "minecraft:entities/zombie_pigman",
     "minecraft:entities/zombie_villager",
     "minecraft:gameplay/cat_morning_gift",
     "minecraft:gameplay/fishing/fish",
@@ -800,5 +808,10 @@
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
     "minecraft:gameplay/piglin_bartering"
+  ],
+  "removed": [
+    "minecraft:blocks/crimson_fungi",
+    "minecraft:blocks/warped_fungi",
+    "minecraft:entities/zombie_pigman"
   ]
 }

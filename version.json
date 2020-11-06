@@ -1,3 +1,36 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "added": [
+        "crimson_fungus",
+        "crying_obsidian",
+        "potted_crimson_fungus",
+        "potted_crimson_roots",
+        "potted_warped_fungus",
+        "potted_warped_roots",
+        "target",
+        "warped_fungus"
+      ],
+      "removed": [
+        "crimson_fungi",
+        "warped_fungi"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
+        "block",
+        "custom_stat",
+        "entity_type",
+        "feature",
+        "item",
+        "loot_table",
+        "memory_module_type",
+        "particle_type",
+        "recipe",
+        "sound_event",
+        "tag"
+      ]
+    }
+  }
 }

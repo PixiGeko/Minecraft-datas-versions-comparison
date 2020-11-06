@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:dripping_obsidian_tear",
+    "minecraft:falling_obsidian_tear",
+    "minecraft:landing_obsidian_tear"
+  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",

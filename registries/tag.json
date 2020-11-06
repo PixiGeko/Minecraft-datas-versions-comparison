@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:blocks/climbable",
+    "minecraft:entity_types/impact_projectiles"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

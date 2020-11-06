@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:nearest_visible_warped_fungus"
+  ],
   "common": [
     "minecraft:admiring_item",
     "minecraft:angry_at",
@@ -40,7 +43,6 @@
     "minecraft:nearest_visible_soul_fire_item",
     "minecraft:nearest_visible_targetable_player",
     "minecraft:nearest_visible_wanted_item",
-    "minecraft:nearest_visible_warped_fungi",
     "minecraft:nearest_visible_wither_skeleton",
     "minecraft:nearest_visible_zombified_piglin",
     "minecraft:opened_doors",
@@ -54,5 +56,8 @@
     "minecraft:visible_villager_babies",
     "minecraft:walk_target",
     "minecraft:was_hit_by_player"
+  ],
+  "removed": [
+    "minecraft:nearest_visible_warped_fungi"
   ]
 }

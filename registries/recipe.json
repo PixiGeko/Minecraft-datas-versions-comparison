@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:crimson_sign",
+    "minecraft:target",
+    "minecraft:warped_sign"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

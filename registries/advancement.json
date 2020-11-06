@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:adventure/bullseye",
+    "minecraft:recipes/decorations/crimson_sign",
+    "minecraft:recipes/decorations/warped_sign",
+    "minecraft:recipes/redstone/target"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

@@ -1,10 +1,3 @@
 {
-  "files": {
-    "registries": {
-      "changed": [
-        "sound_event",
-        "tag"
-      ]
-    }
-  }
+  "files": {}
 }

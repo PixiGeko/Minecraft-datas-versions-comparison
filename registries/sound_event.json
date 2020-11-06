@@ -810,8 +810,5 @@
     "minecraft:ui.toast.out",
     "minecraft:weather.rain",
     "minecraft:weather.rain.above"
-  ],
-  "removed": [
-    "minecraft:entity.parrot.imitate.enderman"
   ]
 }

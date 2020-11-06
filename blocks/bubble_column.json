@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "drag": true
-    },
-    {
-      "drag": false
-    }
+  "common": [
+    "bubble_column[drag=true]",
+    "bubble_column[drag=false]"
   ]
 }

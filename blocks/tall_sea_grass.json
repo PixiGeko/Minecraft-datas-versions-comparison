@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "half": "upper"
-    },
-    {
-      "half": "lower"
-    }
+  "common": [
+    "tall_sea_grass[half=upper]",
+    "tall_sea_grass[half=lower]"
   ]
 }

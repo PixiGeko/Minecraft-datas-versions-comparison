@@ -1,112 +1,42 @@
 {
-  "added": [
-    {
-      "age": 0
-    },
-    {
-      "age": 1
-    },
-    {
-      "age": 2
-    },
-    {
-      "age": 3
-    },
-    {
-      "age": 4
-    },
-    {
-      "age": 5
-    },
-    {
-      "age": 6
-    },
-    {
-      "age": 7
-    },
-    {
-      "age": 8
-    },
-    {
-      "age": 9
-    },
-    {
-      "age": 10
-    },
-    {
-      "age": 11
-    },
-    {
-      "age": 12
-    },
-    {
-      "age": 13
-    },
-    {
-      "age": 14
-    },
-    {
-      "age": 15
-    },
-    {
-      "age": 16
-    },
-    {
-      "age": 17
-    },
-    {
-      "age": 18
-    },
-    {
-      "age": 19
-    },
-    {
-      "age": 20
-    },
-    {
-      "age": 21
-    },
-    {
-      "age": 22
-    },
-    {
-      "age": 23
-    },
-    {
-      "age": 24
-    },
-    {
-      "age": 25
-    },
-    {
-      "age": 26
-    },
-    {
-      "age": 27
-    },
-    {
-      "age": 28
-    },
-    {
-      "age": 29
-    },
-    {
-      "age": 30
-    },
-    {
-      "age": 31
-    },
-    {
-      "age": 32
-    },
-    {
-      "age": 33
-    },
-    {
-      "age": 34
-    },
-    {
-      "age": 35
-    }
+  "common": [
+    "kelp_top[age=0]",
+    "kelp_top[age=1]",
+    "kelp_top[age=2]",
+    "kelp_top[age=3]",
+    "kelp_top[age=4]",
+    "kelp_top[age=5]",
+    "kelp_top[age=6]",
+    "kelp_top[age=7]",
+    "kelp_top[age=8]",
+    "kelp_top[age=9]",
+    "kelp_top[age=10]",
+    "kelp_top[age=11]",
+    "kelp_top[age=12]",
+    "kelp_top[age=13]",
+    "kelp_top[age=14]",
+    "kelp_top[age=15]",
+    "kelp_top[age=16]",
+    "kelp_top[age=17]",
+    "kelp_top[age=18]",
+    "kelp_top[age=19]",
+    "kelp_top[age=20]",
+    "kelp_top[age=21]",
+    "kelp_top[age=22]",
+    "kelp_top[age=23]",
+    "kelp_top[age=24]",
+    "kelp_top[age=25]"
+  ],
+  "removed": [
+    "kelp_top[age=26]",
+    "kelp_top[age=27]",
+    "kelp_top[age=28]",
+    "kelp_top[age=29]",
+    "kelp_top[age=30]",
+    "kelp_top[age=31]",
+    "kelp_top[age=32]",
+    "kelp_top[age=33]",
+    "kelp_top[age=34]",
+    "kelp_top[age=35]"
   ]
 }

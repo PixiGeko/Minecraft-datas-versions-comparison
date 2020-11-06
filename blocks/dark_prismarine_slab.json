@@ -1,13 +1,7 @@
 {
-  "added": [
-    {
-      "type": "top"
-    },
-    {
-      "type": "bottom"
-    },
-    {
-      "type": "double"
-    }
+  "common": [
+    "dark_prismarine_slab[type=top]",
+    "dark_prismarine_slab[type=bottom]",
+    "dark_prismarine_slab[type=double]"
   ]
 }

@@ -1,34 +1,13 @@
 {
   "files": {
     "blocks": {
-      "added": [
-        "bubble_column",
-        "dark_prismarine_slab",
-        "dark_prismarine_stairs",
-        "dried_kelp_block",
-        "kelp",
-        "kelp_top",
-        "prismarine_bricks_slab",
-        "prismarine_bricks_stairs",
-        "prismarine_slab",
-        "prismarine_stairs",
-        "sea_grass",
-        "stripped_acacia_log",
-        "stripped_birch_log",
-        "stripped_dark_oak_log",
-        "stripped_jungle_log",
-        "stripped_oak_log",
-        "stripped_spruce_log",
-        "tall_sea_grass",
-        "turtle_egg"
+      "changed": [
+        "kelp_top"
       ]
     },
     "registries": {
       "changed": [
-        "advancement",
-        "block",
         "item",
-        "recipe",
         "tag"
       ]
     }

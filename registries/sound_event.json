@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:ui.stonecutter.select_recipe",
+    "minecraft:ui.stonecutter.take_result"
+  ],
   "common": [
     "minecraft:ambient.cave",
     "minecraft:ambient.underwater.enter",

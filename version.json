@@ -1,3 +1,19 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "changed": [
+        "stonecutter"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
+        "menu",
+        "recipe",
+        "recipe_serializer",
+        "recipe_type",
+        "sound_event"
+      ]
+    }
+  }
 }

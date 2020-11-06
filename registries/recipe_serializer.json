@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:stonecutting"
+  ],
   "common": [
     "minecraft:blasting",
     "minecraft:campfire_cooking",

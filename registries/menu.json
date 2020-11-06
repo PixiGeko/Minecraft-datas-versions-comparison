@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:stonecutter"
+  ],
   "common": [
     "minecraft:anvil",
     "minecraft:beacon",

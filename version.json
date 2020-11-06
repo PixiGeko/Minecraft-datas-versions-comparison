@@ -1,13 +1,8 @@
 {
   "files": {
-    "commands": {
+    "blocks": {
       "changed": [
-        "team"
-      ]
-    },
-    "registries": {
-      "changed": [
-        "tag"
+        "tnt"
       ]
     }
   }

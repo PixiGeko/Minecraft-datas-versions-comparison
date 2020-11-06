@@ -1,10 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/trapdoors",
-    "minecraft:blocks/wooden_trapdoors",
-    "minecraft:items/trapdoors",
-    "minecraft:items/wooden_trapdoors"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -32,6 +26,7 @@
     "minecraft:blocks/spruce_logs",
     "minecraft:blocks/stairs",
     "minecraft:blocks/stone_bricks",
+    "minecraft:blocks/trapdoors",
     "minecraft:blocks/valid_spawn",
     "minecraft:blocks/wall_corals",
     "minecraft:blocks/wooden_buttons",
@@ -39,6 +34,7 @@
     "minecraft:blocks/wooden_pressure_plates",
     "minecraft:blocks/wooden_slabs",
     "minecraft:blocks/wooden_stairs",
+    "minecraft:blocks/wooden_trapdoors",
     "minecraft:blocks/wool",
     "minecraft:fluids/lava",
     "minecraft:fluids/water",
@@ -64,11 +60,13 @@
     "minecraft:items/spruce_logs",
     "minecraft:items/stairs",
     "minecraft:items/stone_bricks",
+    "minecraft:items/trapdoors",
     "minecraft:items/wooden_buttons",
     "minecraft:items/wooden_doors",
     "minecraft:items/wooden_pressure_plates",
     "minecraft:items/wooden_slabs",
     "minecraft:items/wooden_stairs",
+    "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
   ]
 }

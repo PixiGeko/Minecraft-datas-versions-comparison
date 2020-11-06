@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/portals"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -31,6 +28,7 @@
     "minecraft:blocks/logs",
     "minecraft:blocks/oak_logs",
     "minecraft:blocks/planks",
+    "minecraft:blocks/portals",
     "minecraft:blocks/rails",
     "minecraft:blocks/sand",
     "minecraft:blocks/saplings",

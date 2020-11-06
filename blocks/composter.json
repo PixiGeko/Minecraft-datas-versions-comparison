@@ -1,31 +1,13 @@
 {
-  "added": [
-    {
-      "level": 0
-    },
-    {
-      "level": 1
-    },
-    {
-      "level": 2
-    },
-    {
-      "level": 3
-    },
-    {
-      "level": 4
-    },
-    {
-      "level": 5
-    },
-    {
-      "level": 6
-    },
-    {
-      "level": 7
-    },
-    {
-      "level": 8
-    }
+  "common": [
+    "composter[level=0]",
+    "composter[level=1]",
+    "composter[level=2]",
+    "composter[level=3]",
+    "composter[level=4]",
+    "composter[level=5]",
+    "composter[level=6]",
+    "composter[level=7]",
+    "composter[level=8]"
   ]
 }

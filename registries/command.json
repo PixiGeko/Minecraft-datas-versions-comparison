@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:teammsg",
-    "minecraft:tm"
-  ],
   "common": [
     "minecraft:advancement",
     "minecraft:ban",
@@ -61,11 +57,13 @@
     "minecraft:summon",
     "minecraft:tag",
     "minecraft:team",
+    "minecraft:teammsg",
     "minecraft:teleport",
     "minecraft:tell",
     "minecraft:tellraw",
     "minecraft:time",
     "minecraft:title",
+    "minecraft:tm",
     "minecraft:tp",
     "minecraft:trigger",
     "minecraft:w",

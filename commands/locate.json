@@ -15,8 +15,5 @@
     "locate Stronghold",
     "locate Swamp_Hut",
     "locate Village"
-  ],
-  "removed": [
-    "locate New_Village"
   ]
 }

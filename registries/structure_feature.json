@@ -15,8 +15,5 @@
     "minecraft:stronghold",
     "minecraft:swamp_hut",
     "minecraft:village"
-  ],
-  "removed": [
-    "minecraft:new_village"
   ]
 }

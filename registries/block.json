@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:campfire",
-    "minecraft:composter"
-  ],
   "common": [
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -112,6 +108,7 @@
     "minecraft:bubble_coral_wall_fan",
     "minecraft:cactus",
     "minecraft:cake",
+    "minecraft:campfire",
     "minecraft:carrots",
     "minecraft:cartography_table",
     "minecraft:carved_pumpkin",
@@ -138,6 +135,7 @@
     "minecraft:cocoa",
     "minecraft:command_block",
     "minecraft:comparator",
+    "minecraft:composter",
     "minecraft:conduit",
     "minecraft:cornflower",
     "minecraft:cracked_stone_bricks",

@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:campfire"
-  ],
   "common": [
     "minecraft:banner",
     "minecraft:barrel",
@@ -10,6 +7,7 @@
     "minecraft:bell",
     "minecraft:blast_furnace",
     "minecraft:brewing_stand",
+    "minecraft:campfire",
     "minecraft:chest",
     "minecraft:command_block",
     "minecraft:comparator",

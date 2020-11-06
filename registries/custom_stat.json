@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:interact_with_campfire",
-    "minecraft:interact_with_lectern"
-  ],
   "common": [
     "minecraft:animals_bred",
     "minecraft:aviate_one_cm",
@@ -34,8 +30,10 @@
     "minecraft:interact_with_beacon",
     "minecraft:interact_with_blast_furnace",
     "minecraft:interact_with_brewingstand",
+    "minecraft:interact_with_campfire",
     "minecraft:interact_with_crafting_table",
     "minecraft:interact_with_furnace",
+    "minecraft:interact_with_lectern",
     "minecraft:interact_with_smoker",
     "minecraft:jump",
     "minecraft:leave_game",

@@ -91,8 +91,5 @@
     "minecraft:void_start_platform",
     "minecraft:waterlily",
     "minecraft:woodland_mansion"
-  ],
-  "removed": [
-    "minecraft:new_village"
   ]
 }

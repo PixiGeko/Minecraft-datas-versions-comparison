@@ -1,9 +1,4 @@
 {
-  "added": [
-    "minecraft:nearest_visible_adult",
-    "minecraft:nearest_visible_nemesis",
-    "minecraft:universal_anger"
-  ],
   "common": [
     "minecraft:admiring_disabled",
     "minecraft:admiring_item",
@@ -40,12 +35,14 @@
     "minecraft:nearest_players",
     "minecraft:nearest_repellent",
     "minecraft:nearest_targetable_player_not_wearing_gold",
+    "minecraft:nearest_visible_adult",
     "minecraft:nearest_visible_adult_hoglins",
     "minecraft:nearest_visible_adult_piglin",
     "minecraft:nearest_visible_adult_piglins",
     "minecraft:nearest_visible_baby_hoglin",
     "minecraft:nearest_visible_baby_piglin",
     "minecraft:nearest_visible_huntable_hoglin",
+    "minecraft:nearest_visible_nemesis",
     "minecraft:nearest_visible_player",
     "minecraft:nearest_visible_targetable_player",
     "minecraft:nearest_visible_wanted_item",
@@ -56,13 +53,11 @@
     "minecraft:potential_job_site",
     "minecraft:ride_target",
     "minecraft:secondary_job_site",
+    "minecraft:universal_anger",
     "minecraft:visible_adult_hoglin_count",
     "minecraft:visible_adult_piglin_count",
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
     "minecraft:walk_target"
-  ],
-  "removed": [
-    "minecraft:nearest_visible_wither_skeleton"
   ]
 }

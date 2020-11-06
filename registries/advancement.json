@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:recipes/food/honey_bottle"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

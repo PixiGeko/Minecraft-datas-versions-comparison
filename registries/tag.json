@@ -1,11 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/logs_that_burn",
-    "minecraft:blocks/non_flammable_wood",
-    "minecraft:blocks/strider_warm_blocks",
-    "minecraft:items/logs_that_burn",
-    "minecraft:items/non_flammable_wood"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -39,6 +32,8 @@
     "minecraft:blocks/jungle_logs",
     "minecraft:blocks/leaves",
     "minecraft:blocks/logs",
+    "minecraft:blocks/logs_that_burn",
+    "minecraft:blocks/non_flammable_wood",
     "minecraft:blocks/nylium",
     "minecraft:blocks/oak_logs",
     "minecraft:blocks/piglin_repellents",
@@ -57,6 +52,7 @@
     "minecraft:blocks/stairs",
     "minecraft:blocks/standing_signs",
     "minecraft:blocks/stone_bricks",
+    "minecraft:blocks/strider_warm_blocks",
     "minecraft:blocks/tall_flowers",
     "minecraft:blocks/trapdoors",
     "minecraft:blocks/underwater_bonemeals",
@@ -106,7 +102,9 @@
     "minecraft:items/leaves",
     "minecraft:items/lectern_books",
     "minecraft:items/logs",
+    "minecraft:items/logs_that_burn",
     "minecraft:items/music_discs",
+    "minecraft:items/non_flammable_wood",
     "minecraft:items/oak_logs",
     "minecraft:items/piglin_repellents",
     "minecraft:items/planks",

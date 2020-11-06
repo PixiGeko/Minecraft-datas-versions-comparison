@@ -1,29 +1,3 @@
 {
-  "files": {
-    "blocks": {
-      "added": [
-        "lodestone"
-      ],
-      "changed": [
-        "jigsaw"
-      ]
-    },
-    "registries": {
-      "added": [
-        "pos_rule_test"
-      ],
-      "changed": [
-        "advancement",
-        "block",
-        "entity_type",
-        "item",
-        "loot_table",
-        "memory_module_type",
-        "point_of_interest_type",
-        "recipe",
-        "sound_event",
-        "tag"
-      ]
-    }
-  }
+  "files": {}
 }

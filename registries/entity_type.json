@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:strider"
-  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
@@ -89,6 +86,7 @@
     "minecraft:spider",
     "minecraft:squid",
     "minecraft:stray",
+    "minecraft:strider",
     "minecraft:tnt",
     "minecraft:tnt_minecart",
     "minecraft:trader_llama",

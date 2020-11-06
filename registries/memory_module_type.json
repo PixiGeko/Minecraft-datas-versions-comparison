@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:opened_doors"
-  ],
   "common": [
     "minecraft:breed_target",
     "minecraft:cant_reach_walk_target_since",
@@ -24,6 +21,7 @@
     "minecraft:nearest_hostile",
     "minecraft:nearest_players",
     "minecraft:nearest_visible_player",
+    "minecraft:opened_doors",
     "minecraft:path",
     "minecraft:secondary_job_site",
     "minecraft:visible_mobs",

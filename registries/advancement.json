@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:recipes/building_blocks/dried_kelp_block",
+    "minecraft:recipes/food/dried_kelp_from_smelting"
+  ],
   "common": [
     "minecraft:recipes/brewing/blaze_powder",
     "minecraft:recipes/brewing/brewing_stand",

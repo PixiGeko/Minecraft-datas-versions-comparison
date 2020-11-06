@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:dried_kelp_block",
+    "minecraft:dried_kelp_from_smelting"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",

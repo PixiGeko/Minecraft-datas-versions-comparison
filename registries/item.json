@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:cod_bucket",
+    "minecraft:cod_mob_spawn_egg",
+    "minecraft:puffer_fish_spawn_egg",
+    "minecraft:pufferfish_bucket",
+    "minecraft:salmon_bucket",
+    "minecraft:salmon_mob_spawn_egg"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",

@@ -1,3 +1,18 @@
 {
-  "files": {}
+  "files": {
+    "registries": {
+      "added": [
+        "attributes",
+        "trunk_placer_type"
+      ],
+      "changed": [
+        "entity_type",
+        "feature",
+        "item",
+        "loot_table",
+        "memory_module_type",
+        "sound_event"
+      ]
+    }
+  }
 }

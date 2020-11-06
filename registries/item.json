@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:zoglin_spawn_egg"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

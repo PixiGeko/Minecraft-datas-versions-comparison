@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:entities/zoglin"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",

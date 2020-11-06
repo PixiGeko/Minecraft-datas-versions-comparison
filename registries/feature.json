@@ -1,6 +1,5 @@
 {
   "common": [
-    "minecraft:acacia_tree",
     "minecraft:bamboo",
     "minecraft:basalt_pillar",
     "minecraft:block_pile",
@@ -72,5 +71,8 @@
     "minecraft:void_start_platform",
     "minecraft:weeping_vines",
     "minecraft:woodland_mansion"
+  ],
+  "removed": [
+    "minecraft:acacia_tree"
   ]
 }

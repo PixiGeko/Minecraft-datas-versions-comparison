@@ -1,4 +1,18 @@
 {
+  "added": [
+    "minecraft:blocks/bamboo_plantable_on",
+    "minecraft:blocks/dirt_like",
+    "minecraft:blocks/signs",
+    "minecraft:blocks/small_flowers",
+    "minecraft:blocks/standing_signs",
+    "minecraft:blocks/walls",
+    "minecraft:blocks/wall_signs",
+    "minecraft:entity_types/skeletons",
+    "minecraft:items/music_discs",
+    "minecraft:items/signs",
+    "minecraft:items/small_flowers",
+    "minecraft:items/walls"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

@@ -1,4 +1,8 @@
 {
+  "added": [
+    "drop",
+    "schedule"
+  ],
   "common": [
     "advancement",
     "ban",

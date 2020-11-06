@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:white_ash"
+  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",

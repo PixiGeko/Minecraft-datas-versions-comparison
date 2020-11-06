@@ -1,6 +1,26 @@
 {
   "added": [
-    "minecraft:entities/zoglin"
+    "minecraft:blocks/blackstone",
+    "minecraft:blocks/blackstone_slab",
+    "minecraft:blocks/blackstone_stairs",
+    "minecraft:blocks/blackstone_wall",
+    "minecraft:blocks/chiseled_nether_bricks",
+    "minecraft:blocks/chiseled_polished_blackstone",
+    "minecraft:blocks/cracked_nether_bricks",
+    "minecraft:blocks/cracked_polished_blackstone_bricks",
+    "minecraft:blocks/gilded_blackstone",
+    "minecraft:blocks/polished_blackstone",
+    "minecraft:blocks/polished_blackstone_bricks",
+    "minecraft:blocks/polished_blackstone_brick_slab",
+    "minecraft:blocks/polished_blackstone_brick_stairs",
+    "minecraft:blocks/polished_blackstone_brick_wall",
+    "minecraft:blocks/polished_blackstone_button",
+    "minecraft:blocks/polished_blackstone_pressure_plate",
+    "minecraft:blocks/polished_blackstone_slab",
+    "minecraft:blocks/polished_blackstone_stairs",
+    "minecraft:blocks/polished_blackstone_wall",
+    "minecraft:blocks/quartz_bricks",
+    "minecraft:blocks/soul_campfire"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -799,6 +819,7 @@
     "minecraft:entities/wither",
     "minecraft:entities/wither_skeleton",
     "minecraft:entities/wolf",
+    "minecraft:entities/zoglin",
     "minecraft:entities/zombie",
     "minecraft:entities/zombie_horse",
     "minecraft:entities/zombie_villager",

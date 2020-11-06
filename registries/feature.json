@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:basalt_columns",
+    "minecraft:delta_feature",
+    "minecraft:netherrack_replace_blobs"
+  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_pillar",
@@ -71,8 +76,5 @@
     "minecraft:void_start_platform",
     "minecraft:weeping_vines",
     "minecraft:woodland_mansion"
-  ],
-  "removed": [
-    "minecraft:acacia_tree"
   ]
 }

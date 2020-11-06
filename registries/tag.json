@@ -1,4 +1,11 @@
 {
+  "added": [
+    "minecraft:blocks/campfires",
+    "minecraft:blocks/guarded_by_piglins",
+    "minecraft:items/furnace_materials",
+    "minecraft:items/soul_fire_base_blocks",
+    "minecraft:items/stone_tool_materials"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

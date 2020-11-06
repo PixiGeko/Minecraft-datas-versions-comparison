@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:basalt_deltas"
+  ],
   "common": [
     "minecraft:badlands",
     "minecraft:badlands_plateau",

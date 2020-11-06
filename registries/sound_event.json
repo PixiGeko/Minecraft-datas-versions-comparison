@@ -1,12 +1,14 @@
 {
   "added": [
-    "minecraft:entity.hoglin.converted_to_zombified",
-    "minecraft:entity.zoglin.ambient",
-    "minecraft:entity.zoglin.angry",
-    "minecraft:entity.zoglin.attack",
-    "minecraft:entity.zoglin.death",
-    "minecraft:entity.zoglin.hurt",
-    "minecraft:entity.zoglin.step"
+    "minecraft:ambient.basalt_deltas.additions",
+    "minecraft:ambient.basalt_deltas.loop",
+    "minecraft:ambient.basalt_deltas.mood",
+    "minecraft:entity.strider.saddle",
+    "minecraft:music.nether.basalt_deltas",
+    "minecraft:music.nether.crimson_forest",
+    "minecraft:music.nether.nether_wastes",
+    "minecraft:music.nether.soul_sand_valley",
+    "minecraft:music.nether.warped_forest"
   ],
   "common": [
     "minecraft:ambient.cave",
@@ -496,6 +498,7 @@
     "minecraft:entity.hoglin.ambient",
     "minecraft:entity.hoglin.angry",
     "minecraft:entity.hoglin.attack",
+    "minecraft:entity.hoglin.converted_to_zombified",
     "minecraft:entity.hoglin.death",
     "minecraft:entity.hoglin.hurt",
     "minecraft:entity.hoglin.retreat",
@@ -849,6 +852,12 @@
     "minecraft:entity.wolf.shake",
     "minecraft:entity.wolf.step",
     "minecraft:entity.wolf.whine",
+    "minecraft:entity.zoglin.ambient",
+    "minecraft:entity.zoglin.angry",
+    "minecraft:entity.zoglin.attack",
+    "minecraft:entity.zoglin.death",
+    "minecraft:entity.zoglin.hurt",
+    "minecraft:entity.zoglin.step",
     "minecraft:entity.zombie.ambient",
     "minecraft:entity.zombie.attack_iron_door",
     "minecraft:entity.zombie.attack_wooden_door",
@@ -930,7 +939,6 @@
     "minecraft:music.end",
     "minecraft:music.game",
     "minecraft:music.menu",
-    "minecraft:music.nether",
     "minecraft:music.under_water",
     "minecraft:music_disc.11",
     "minecraft:music_disc.13",
@@ -956,5 +964,8 @@
     "minecraft:ui.toast.out",
     "minecraft:weather.rain",
     "minecraft:weather.rain.above"
+  ],
+  "removed": [
+    "minecraft:music.nether"
   ]
 }

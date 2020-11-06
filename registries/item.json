@@ -1,6 +1,27 @@
 {
   "added": [
-    "minecraft:zoglin_spawn_egg"
+    "minecraft:blackstone",
+    "minecraft:blackstone_slab",
+    "minecraft:blackstone_stairs",
+    "minecraft:blackstone_wall",
+    "minecraft:chiseled_nether_bricks",
+    "minecraft:chiseled_polished_blackstone",
+    "minecraft:cracked_nether_bricks",
+    "minecraft:cracked_polished_blackstone_bricks",
+    "minecraft:gilded_blackstone",
+    "minecraft:piglin_banner_pattern",
+    "minecraft:polished_blackstone",
+    "minecraft:polished_blackstone_brick_slab",
+    "minecraft:polished_blackstone_brick_stairs",
+    "minecraft:polished_blackstone_brick_wall",
+    "minecraft:polished_blackstone_bricks",
+    "minecraft:polished_blackstone_button",
+    "minecraft:polished_blackstone_pressure_plate",
+    "minecraft:polished_blackstone_slab",
+    "minecraft:polished_blackstone_stairs",
+    "minecraft:polished_blackstone_wall",
+    "minecraft:quartz_bricks",
+    "minecraft:soul_campfire"
   ],
   "common": [
     "minecraft:acacia_boat",
@@ -948,6 +969,7 @@
     "minecraft:yellow_stained_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool",
+    "minecraft:zoglin_spawn_egg",
     "minecraft:zombie_head",
     "minecraft:zombie_horse_spawn_egg",
     "minecraft:zombie_spawn_egg",

@@ -1,4 +1,11 @@
 {
+  "added": [
+    "gamerule doImmediateRespawn <value>",
+    "gamerule doInsomnia <value>",
+    "gamerule drowningDamage <value>",
+    "gamerule fallDamage <value>",
+    "gamerule fireDamage <value>"
+  ],
   "common": [
     "gamerule announceAdvancements <value>",
     "gamerule commandBlockOutput <value>",

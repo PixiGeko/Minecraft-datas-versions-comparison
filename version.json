@@ -1,8 +1,19 @@
 {
   "files": {
+    "blocks": {
+      "changed": [
+        "bell"
+      ]
+    },
+    "commands": {
+      "changed": [
+        "gamerule"
+      ]
+    },
     "registries": {
       "changed": [
-        "memory_module_type"
+        "point_of_interest_type",
+        "tag"
       ]
     }
   }

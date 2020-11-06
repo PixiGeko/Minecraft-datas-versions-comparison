@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:nether_portal"
+  ],
   "common": [
     "minecraft:armorer",
     "minecraft:bee_hive",

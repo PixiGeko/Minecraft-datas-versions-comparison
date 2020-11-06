@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:entity_types/beehive_inhabitors"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

@@ -1,0 +1,7 @@
+{
+  "common": [
+    "jungle_slab[type=top]",
+    "jungle_slab[type=bottom]",
+    "jungle_slab[type=double]"
+  ]
+}

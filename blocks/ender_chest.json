@@ -1,0 +1,8 @@
+{
+  "common": [
+    "ender_chest[facing=north]",
+    "ender_chest[facing=east]",
+    "ender_chest[facing=south]",
+    "ender_chest[facing=west]"
+  ]
+}

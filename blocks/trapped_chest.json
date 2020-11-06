@@ -1,0 +1,16 @@
+{
+  "common": [
+    "trapped_chest[facing=north,type=single]",
+    "trapped_chest[facing=north,type=left]",
+    "trapped_chest[facing=north,type=right]",
+    "trapped_chest[facing=east,type=single]",
+    "trapped_chest[facing=east,type=left]",
+    "trapped_chest[facing=east,type=right]",
+    "trapped_chest[facing=south,type=single]",
+    "trapped_chest[facing=south,type=left]",
+    "trapped_chest[facing=south,type=right]",
+    "trapped_chest[facing=west,type=single]",
+    "trapped_chest[facing=west,type=left]",
+    "trapped_chest[facing=west,type=right]"
+  ]
+}

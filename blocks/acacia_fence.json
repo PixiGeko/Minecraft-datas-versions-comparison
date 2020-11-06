@@ -1,0 +1,20 @@
+{
+  "common": [
+    "acacia_fence[east=true,north=true,south=true,west=true]",
+    "acacia_fence[east=true,north=true,south=true,west=false]",
+    "acacia_fence[east=true,north=true,south=false,west=true]",
+    "acacia_fence[east=true,north=true,south=false,west=false]",
+    "acacia_fence[east=true,north=false,south=true,west=true]",
+    "acacia_fence[east=true,north=false,south=true,west=false]",
+    "acacia_fence[east=true,north=false,south=false,west=true]",
+    "acacia_fence[east=true,north=false,south=false,west=false]",
+    "acacia_fence[east=false,north=true,south=true,west=true]",
+    "acacia_fence[east=false,north=true,south=true,west=false]",
+    "acacia_fence[east=false,north=true,south=false,west=true]",
+    "acacia_fence[east=false,north=true,south=false,west=false]",
+    "acacia_fence[east=false,north=false,south=true,west=true]",
+    "acacia_fence[east=false,north=false,south=true,west=false]",
+    "acacia_fence[east=false,north=false,south=false,west=true]",
+    "acacia_fence[east=false,north=false,south=false,west=false]"
+  ]
+}

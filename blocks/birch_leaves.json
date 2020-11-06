@@ -1,0 +1,8 @@
+{
+  "common": [
+    "birch_leaves[check_decay=true,decayable=true]",
+    "birch_leaves[check_decay=true,decayable=false]",
+    "birch_leaves[check_decay=false,decayable=true]",
+    "birch_leaves[check_decay=false,decayable=false]"
+  ]
+}

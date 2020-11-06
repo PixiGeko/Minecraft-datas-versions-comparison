@@ -1,0 +1,8 @@
+{
+  "common": [
+    "acacia_leaves[check_decay=true,decayable=true]",
+    "acacia_leaves[check_decay=true,decayable=false]",
+    "acacia_leaves[check_decay=false,decayable=true]",
+    "acacia_leaves[check_decay=false,decayable=false]"
+  ]
+}

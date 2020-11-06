@@ -1,0 +1,20 @@
+{
+  "common": [
+    "spruce_fence[east=true,north=true,south=true,west=true]",
+    "spruce_fence[east=true,north=true,south=true,west=false]",
+    "spruce_fence[east=true,north=true,south=false,west=true]",
+    "spruce_fence[east=true,north=true,south=false,west=false]",
+    "spruce_fence[east=true,north=false,south=true,west=true]",
+    "spruce_fence[east=true,north=false,south=true,west=false]",
+    "spruce_fence[east=true,north=false,south=false,west=true]",
+    "spruce_fence[east=true,north=false,south=false,west=false]",
+    "spruce_fence[east=false,north=true,south=true,west=true]",
+    "spruce_fence[east=false,north=true,south=true,west=false]",
+    "spruce_fence[east=false,north=true,south=false,west=true]",
+    "spruce_fence[east=false,north=true,south=false,west=false]",
+    "spruce_fence[east=false,north=false,south=true,west=true]",
+    "spruce_fence[east=false,north=false,south=true,west=false]",
+    "spruce_fence[east=false,north=false,south=false,west=true]",
+    "spruce_fence[east=false,north=false,south=false,west=false]"
+  ]
+}

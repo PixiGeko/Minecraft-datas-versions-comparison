@@ -1,0 +1,12 @@
+{
+  "common": [
+    "locate EndCity",
+    "locate Fortress",
+    "locate Mansion",
+    "locate Mineshaft",
+    "locate Monument",
+    "locate Stronghold",
+    "locate Temple",
+    "locate Village"
+  ]
+}

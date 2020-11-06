@@ -1,0 +1,7 @@
+{
+  "common": [
+    "petrified_oak_slab[type=top]",
+    "petrified_oak_slab[type=bottom]",
+    "petrified_oak_slab[type=double]"
+  ]
+}

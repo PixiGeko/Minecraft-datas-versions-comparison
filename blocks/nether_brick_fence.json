@@ -1,0 +1,20 @@
+{
+  "common": [
+    "nether_brick_fence[east=true,north=true,south=true,west=true]",
+    "nether_brick_fence[east=true,north=true,south=true,west=false]",
+    "nether_brick_fence[east=true,north=true,south=false,west=true]",
+    "nether_brick_fence[east=true,north=true,south=false,west=false]",
+    "nether_brick_fence[east=true,north=false,south=true,west=true]",
+    "nether_brick_fence[east=true,north=false,south=true,west=false]",
+    "nether_brick_fence[east=true,north=false,south=false,west=true]",
+    "nether_brick_fence[east=true,north=false,south=false,west=false]",
+    "nether_brick_fence[east=false,north=true,south=true,west=true]",
+    "nether_brick_fence[east=false,north=true,south=true,west=false]",
+    "nether_brick_fence[east=false,north=true,south=false,west=true]",
+    "nether_brick_fence[east=false,north=true,south=false,west=false]",
+    "nether_brick_fence[east=false,north=false,south=true,west=true]",
+    "nether_brick_fence[east=false,north=false,south=true,west=false]",
+    "nether_brick_fence[east=false,north=false,south=false,west=true]",
+    "nether_brick_fence[east=false,north=false,south=false,west=false]"
+  ]
+}

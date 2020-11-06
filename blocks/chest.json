@@ -1,0 +1,16 @@
+{
+  "common": [
+    "chest[facing=north,type=single]",
+    "chest[facing=north,type=left]",
+    "chest[facing=north,type=right]",
+    "chest[facing=east,type=single]",
+    "chest[facing=east,type=left]",
+    "chest[facing=east,type=right]",
+    "chest[facing=south,type=single]",
+    "chest[facing=south,type=left]",
+    "chest[facing=south,type=right]",
+    "chest[facing=west,type=single]",
+    "chest[facing=west,type=left]",
+    "chest[facing=west,type=right]"
+  ]
+}

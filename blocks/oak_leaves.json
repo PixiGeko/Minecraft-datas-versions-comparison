@@ -1,0 +1,8 @@
+{
+  "common": [
+    "oak_leaves[check_decay=true,decayable=true]",
+    "oak_leaves[check_decay=true,decayable=false]",
+    "oak_leaves[check_decay=false,decayable=true]",
+    "oak_leaves[check_decay=false,decayable=false]"
+  ]
+}

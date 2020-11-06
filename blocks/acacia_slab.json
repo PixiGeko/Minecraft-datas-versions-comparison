@@ -1,0 +1,7 @@
+{
+  "common": [
+    "acacia_slab[type=top]",
+    "acacia_slab[type=bottom]",
+    "acacia_slab[type=double]"
+  ]
+}

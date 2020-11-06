@@ -1,0 +1,8 @@
+{
+  "common": [
+    "dark_oak_leaves[check_decay=true,decayable=true]",
+    "dark_oak_leaves[check_decay=true,decayable=false]",
+    "dark_oak_leaves[check_decay=false,decayable=true]",
+    "dark_oak_leaves[check_decay=false,decayable=false]"
+  ]
+}

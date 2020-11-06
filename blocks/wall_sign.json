@@ -1,0 +1,8 @@
+{
+  "common": [
+    "wall_sign[facing=north]",
+    "wall_sign[facing=east]",
+    "wall_sign[facing=south]",
+    "wall_sign[facing=west]"
+  ]
+}

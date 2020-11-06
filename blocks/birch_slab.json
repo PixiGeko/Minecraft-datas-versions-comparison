@@ -1,0 +1,7 @@
+{
+  "common": [
+    "birch_slab[type=top]",
+    "birch_slab[type=bottom]",
+    "birch_slab[type=double]"
+  ]
+}

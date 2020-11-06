@@ -1,0 +1,20 @@
+{
+  "common": [
+    "black_stained_glass_pane[east=true,north=true,south=true,west=true]",
+    "black_stained_glass_pane[east=true,north=true,south=true,west=false]",
+    "black_stained_glass_pane[east=true,north=true,south=false,west=true]",
+    "black_stained_glass_pane[east=true,north=true,south=false,west=false]",
+    "black_stained_glass_pane[east=true,north=false,south=true,west=true]",
+    "black_stained_glass_pane[east=true,north=false,south=true,west=false]",
+    "black_stained_glass_pane[east=true,north=false,south=false,west=true]",
+    "black_stained_glass_pane[east=true,north=false,south=false,west=false]",
+    "black_stained_glass_pane[east=false,north=true,south=true,west=true]",
+    "black_stained_glass_pane[east=false,north=true,south=true,west=false]",
+    "black_stained_glass_pane[east=false,north=true,south=false,west=true]",
+    "black_stained_glass_pane[east=false,north=true,south=false,west=false]",
+    "black_stained_glass_pane[east=false,north=false,south=true,west=true]",
+    "black_stained_glass_pane[east=false,north=false,south=true,west=false]",
+    "black_stained_glass_pane[east=false,north=false,south=false,west=true]",
+    "black_stained_glass_pane[east=false,north=false,south=false,west=false]"
+  ]
+}

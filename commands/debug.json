@@ -1,0 +1,6 @@
+{
+  "common": [
+    "debug start",
+    "debug stop"
+  ]
+}

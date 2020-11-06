@@ -1,0 +1,8 @@
+{
+  "common": [
+    "jungle_leaves[check_decay=true,decayable=true]",
+    "jungle_leaves[check_decay=true,decayable=false]",
+    "jungle_leaves[check_decay=false,decayable=true]",
+    "jungle_leaves[check_decay=false,decayable=false]"
+  ]
+}

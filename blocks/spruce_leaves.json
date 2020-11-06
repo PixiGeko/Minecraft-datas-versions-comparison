@@ -1,0 +1,8 @@
+{
+  "common": [
+    "spruce_leaves[check_decay=true,decayable=true]",
+    "spruce_leaves[check_decay=true,decayable=false]",
+    "spruce_leaves[check_decay=false,decayable=true]",
+    "spruce_leaves[check_decay=false,decayable=false]"
+  ]
+}

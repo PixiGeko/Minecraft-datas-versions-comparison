@@ -1,0 +1,6 @@
+{
+  "common": [
+    "portal[axis=x]",
+    "portal[axis=z]"
+  ]
+}

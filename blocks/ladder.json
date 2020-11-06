@@ -1,0 +1,8 @@
+{
+  "common": [
+    "ladder[facing=north]",
+    "ladder[facing=east]",
+    "ladder[facing=south]",
+    "ladder[facing=west]"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "common": [
+    "sign[rotation=0]",
+    "sign[rotation=1]",
+    "sign[rotation=2]",
+    "sign[rotation=3]",
+    "sign[rotation=4]",
+    "sign[rotation=5]",
+    "sign[rotation=6]",
+    "sign[rotation=7]",
+    "sign[rotation=8]",
+    "sign[rotation=9]",
+    "sign[rotation=10]",
+    "sign[rotation=11]",
+    "sign[rotation=12]",
+    "sign[rotation=13]",
+    "sign[rotation=14]",
+    "sign[rotation=15]"
+  ]
+}

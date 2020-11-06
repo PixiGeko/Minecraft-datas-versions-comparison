@@ -1,0 +1,7 @@
+{
+  "common": [
+    "nether_brick_slab[type=top]",
+    "nether_brick_slab[type=bottom]",
+    "nether_brick_slab[type=double]"
+  ]
+}

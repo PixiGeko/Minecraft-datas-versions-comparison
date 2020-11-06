@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "facing": "north"
+    },
+    {
+      "facing": "east"
+    },
+    {
+      "facing": "south"
+    },
+    {
+      "facing": "west"
+    }
+  ]
+}

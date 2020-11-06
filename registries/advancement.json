@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:adventure/throw_trident",
+    "minecraft:adventure/very_very_frightening",
+    "minecraft:husbandry/fishy_business",
+    "minecraft:husbandry/tactical_fishing"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/kill_all_mobs",

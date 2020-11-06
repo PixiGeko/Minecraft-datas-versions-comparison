@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "wall_sign[facing=north,waterlogged=true]",
     "wall_sign[facing=north,waterlogged=false]",
     "wall_sign[facing=east,waterlogged=true]",
@@ -8,11 +8,5 @@
     "wall_sign[facing=south,waterlogged=false]",
     "wall_sign[facing=west,waterlogged=true]",
     "wall_sign[facing=west,waterlogged=false]"
-  ],
-  "removed": [
-    "wall_sign[facing=north]",
-    "wall_sign[facing=east]",
-    "wall_sign[facing=south]",
-    "wall_sign[facing=west]"
   ]
 }

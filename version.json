@@ -1,18 +1,24 @@
 {
   "files": {
     "blocks": {
+      "added": [
+        "blue_coral_fan",
+        "pink_coral_fan",
+        "purple_coral_fan",
+        "red_coral_fan",
+        "yellow_coral_fan"
+      ]
+    },
+    "commands": {
       "changed": [
-        "acacia_trapdoor",
-        "birch_trapdoor",
-        "dark_oak_trapdoor",
-        "ender_chest",
-        "iron_trapdoor",
-        "jungle_trapdoor",
-        "ladder",
-        "oak_trapdoor",
-        "sign",
-        "spruce_trapdoor",
-        "wall_sign"
+        "locate"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
+        "block",
+        "item"
       ]
     }
   }

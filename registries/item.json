@@ -1,4 +1,13 @@
 {
+  "added": [
+    "minecraft:blue_coral_fan",
+    "minecraft:drowned_spawn_egg",
+    "minecraft:phantom_membrane",
+    "minecraft:pink_coral_fan",
+    "minecraft:purple_coral_fan",
+    "minecraft:red_coral_fan",
+    "minecraft:yellow_coral_fan"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",

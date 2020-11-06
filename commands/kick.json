@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "kick <targets: entity> <reason: message>"
-  ],
-  "removed": [
-    "kick <targets> <reason>"
   ]
 }

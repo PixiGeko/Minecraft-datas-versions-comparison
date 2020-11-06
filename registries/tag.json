@@ -1,14 +1,11 @@
 {
-  "added": [
-    "minecraft:blocks/base_stone_nether",
-    "minecraft:blocks/base_stone_overworld",
-    "minecraft:items/stone_crafting_materials"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
     "minecraft:blocks/bamboo_plantable_on",
     "minecraft:blocks/banners",
+    "minecraft:blocks/base_stone_nether",
+    "minecraft:blocks/base_stone_overworld",
     "minecraft:blocks/beacon_base_blocks",
     "minecraft:blocks/beds",
     "minecraft:blocks/beehives",
@@ -136,6 +133,7 @@
     "minecraft:items/spruce_logs",
     "minecraft:items/stairs",
     "minecraft:items/stone_bricks",
+    "minecraft:items/stone_crafting_materials",
     "minecraft:items/stone_tool_materials",
     "minecraft:items/tall_flowers",
     "minecraft:items/trapdoors",
@@ -149,8 +147,5 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
-  ],
-  "removed": [
-    "minecraft:items/furnace_materials"
   ]
 }

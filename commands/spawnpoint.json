@@ -1,8 +1,8 @@
 {
   "added": [
-    "spawnpoint <targets: entity> <pos: block_pos>"
+    "spawnpoint <targets: entity> <pos: block_pos> <angle>"
   ],
   "removed": [
-    "spawnpoint <targets> <pos>"
+    "spawnpoint <targets: entity> <pos: block_pos>"
   ]
 }

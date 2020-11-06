@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "brigadier:bool",
     "brigadier:double",
     "brigadier:float",

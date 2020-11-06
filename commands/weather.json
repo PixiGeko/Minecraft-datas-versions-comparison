@@ -1,12 +1,7 @@
 {
-  "added": [
+  "common": [
     "weather clear <duration: integer>",
     "weather rain <duration: integer>",
     "weather thunder <duration: integer>"
-  ],
-  "removed": [
-    "weather clear <duration>",
-    "weather rain <duration>",
-    "weather thunder <duration>"
   ]
 }

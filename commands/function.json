@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "function <name: function>"
-  ],
-  "removed": [
-    "function <name>"
   ]
 }

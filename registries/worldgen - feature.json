@@ -1,5 +1,8 @@
 {
   "added": [
+    "minecraft:no_bonemeal_flower"
+  ],
+  "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",
     "minecraft:basalt_pillar",
@@ -11,7 +14,6 @@
     "minecraft:coral_mushroom",
     "minecraft:coral_tree",
     "minecraft:decorated",
-    "minecraft:decorated_flower",
     "minecraft:delta_feature",
     "minecraft:desert_well",
     "minecraft:disk",
@@ -52,5 +54,8 @@
     "minecraft:vines",
     "minecraft:void_start_platform",
     "minecraft:weeping_vines"
+  ],
+  "removed": [
+    "minecraft:decorated_flower"
   ]
 }

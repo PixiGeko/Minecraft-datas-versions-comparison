@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "teammsg <message: message>"
-  ],
-  "removed": [
-    "teammsg <message>"
   ]
 }

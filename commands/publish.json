@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "publish <port: integer>"
-  ],
-  "removed": [
-    "publish <port>"
   ]
 }

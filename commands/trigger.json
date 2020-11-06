@@ -1,10 +1,6 @@
 {
-  "added": [
+  "common": [
     "trigger <objective: objective> add <value: integer>",
     "trigger <objective: objective> set <value: integer>"
-  ],
-  "removed": [
-    "trigger <objective> add <value>",
-    "trigger <objective> set <value>"
   ]
 }

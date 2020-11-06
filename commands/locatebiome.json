@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "locatebiome <biome: resource_location>"
-  ],
-  "removed": [
-    "locatebiome <biome>"
   ]
 }

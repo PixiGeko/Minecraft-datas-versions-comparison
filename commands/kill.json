@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "kill <targets: entity>"
-  ],
-  "removed": [
-    "kill <targets>"
   ]
 }

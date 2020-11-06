@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "me <action: string>"
-  ],
-  "removed": [
-    "me <action>"
   ]
 }

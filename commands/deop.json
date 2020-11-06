@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "deop <targets: game_profile>"
-  ],
-  "removed": [
-    "deop <targets>"
   ]
 }

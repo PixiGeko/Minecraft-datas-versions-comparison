@@ -1,8 +1,5 @@
 {
-  "added": [
+  "common": [
     "give <targets: entity> <item: item_stack> <count: integer>"
-  ],
-  "removed": [
-    "give <targets> <item> <count>"
   ]
 }

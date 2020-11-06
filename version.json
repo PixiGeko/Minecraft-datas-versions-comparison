@@ -2,12 +2,11 @@
   "files": {
     "blocks": {
       "added": [
-        "blue_coral",
-        "dead_coral",
-        "pink_coral",
-        "purple_coral",
-        "red_coral",
-        "yellow_coral"
+        "blue_coral_plant",
+        "pink_coral_plant",
+        "purple_coral_plant",
+        "red_coral_plant",
+        "yellow_coral_plant"
       ]
     },
     "commands": {
@@ -17,7 +16,6 @@
     },
     "registries": {
       "changed": [
-        "advancement",
         "block",
         "item",
         "tag"

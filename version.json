@@ -1,15 +1,3 @@
 {
-  "files": {
-    "blocks": {
-      "changed": [
-        "kelp_top"
-      ]
-    },
-    "registries": {
-      "changed": [
-        "item",
-        "tag"
-      ]
-    }
-  }
+  "files": {}
 }

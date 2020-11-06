@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:scute"
-  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -608,6 +605,7 @@
     "minecraft:sandstone",
     "minecraft:sandstone_slab",
     "minecraft:sandstone_stairs",
+    "minecraft:scute",
     "minecraft:sea_grass",
     "minecraft:sea_lantern",
     "minecraft:shears",
@@ -739,8 +737,5 @@
     "minecraft:zombie_pigman_spawn_egg",
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg"
-  ],
-  "removed": [
-    "minecraft:turtle_shell_piece"
   ]
 }

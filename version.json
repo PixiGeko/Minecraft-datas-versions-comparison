@@ -2,23 +2,23 @@
   "files": {
     "blocks": {
       "added": [
-        "blue_coral_plant",
-        "pink_coral_plant",
-        "purple_coral_plant",
-        "red_coral_plant",
-        "yellow_coral_plant"
-      ]
-    },
-    "commands": {
-      "changed": [
-        "locate"
+        "blue_dead_coral",
+        "pink_dead_coral",
+        "purple_dead_coral",
+        "red_dead_coral",
+        "shulker_box",
+        "yellow_dead_coral"
+      ],
+      "removed": [
+        "dead_coral"
       ]
     },
     "registries": {
       "changed": [
+        "advancement",
         "block",
         "item",
-        "tag"
+        "recipe"
       ]
     }
   }

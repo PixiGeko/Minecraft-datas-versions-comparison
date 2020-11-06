@@ -1,8 +1,6 @@
 {
-  "added": [
-    "locate Buried_Treasure"
-  ],
   "common": [
+    "locate Buried_Treasure",
     "locate Desert_Pyramid",
     "locate EndCity",
     "locate Fortress",

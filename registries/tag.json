@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/coral_plants",
-    "minecraft:items/coral_plants"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -11,6 +7,7 @@
     "minecraft:blocks/buttons",
     "minecraft:blocks/carpets",
     "minecraft:blocks/coral",
+    "minecraft:blocks/coral_plants",
     "minecraft:blocks/dark_oak_logs",
     "minecraft:blocks/doors",
     "minecraft:blocks/enderman_holdable",
@@ -42,6 +39,7 @@
     "minecraft:items/buttons",
     "minecraft:items/carpets",
     "minecraft:items/coral",
+    "minecraft:items/coral_plants",
     "minecraft:items/dark_oak_logs",
     "minecraft:items/doors",
     "minecraft:items/jungle_logs",

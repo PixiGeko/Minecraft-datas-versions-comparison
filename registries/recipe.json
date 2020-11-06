@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:shulker_box"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -399,7 +402,6 @@
     "minecraft:purple_concrete_powder",
     "minecraft:purple_dye",
     "minecraft:purple_glazed_terracotta",
-    "minecraft:purple_shulker_box",
     "minecraft:purple_stained_glass",
     "minecraft:purple_stained_glass_pane",
     "minecraft:purple_terracotta",
@@ -519,5 +521,8 @@
     "minecraft:yellow_stained_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
+  ],
+  "removed": [
+    "minecraft:purple_shulker_box"
   ]
 }

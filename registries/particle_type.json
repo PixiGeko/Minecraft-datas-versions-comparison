@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:white_ash"
-  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
@@ -73,6 +70,7 @@
     "minecraft:totem_of_undying",
     "minecraft:underwater",
     "minecraft:warped_spore",
+    "minecraft:white_ash",
     "minecraft:witch"
   ]
 }

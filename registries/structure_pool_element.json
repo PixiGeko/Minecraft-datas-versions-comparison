@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:legacy_single_pool_element"
+  ],
   "common": [
     "minecraft:empty_pool_element",
     "minecraft:feature_pool_element",

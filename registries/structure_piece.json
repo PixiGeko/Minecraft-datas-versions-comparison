@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:bastionremnant",
+    "minecraft:runtime",
+    "minecraft:rupo"
+  ],
   "common": [
     "minecraft:btp",
     "minecraft:ecp",

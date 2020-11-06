@@ -1,10 +1,6 @@
 {
   "added": [
-    "minecraft:blocks/campfires",
-    "minecraft:blocks/guarded_by_piglins",
-    "minecraft:items/furnace_materials",
-    "minecraft:items/soul_fire_base_blocks",
-    "minecraft:items/stone_tool_materials"
+    "minecraft:items/creeper_drop_music_discs"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -17,6 +13,7 @@
     "minecraft:blocks/bee_growables",
     "minecraft:blocks/birch_logs",
     "minecraft:blocks/buttons",
+    "minecraft:blocks/campfires",
     "minecraft:blocks/carpets",
     "minecraft:blocks/climbable",
     "minecraft:blocks/corals",
@@ -33,6 +30,7 @@
     "minecraft:blocks/flowers",
     "minecraft:blocks/flower_pots",
     "minecraft:blocks/gold_ores",
+    "minecraft:blocks/guarded_by_piglins",
     "minecraft:blocks/hoglin_repellents",
     "minecraft:blocks/ice",
     "minecraft:blocks/impermeable",
@@ -104,6 +102,7 @@
     "minecraft:items/fences",
     "minecraft:items/fishes",
     "minecraft:items/flowers",
+    "minecraft:items/furnace_materials",
     "minecraft:items/gold_ores",
     "minecraft:items/jungle_logs",
     "minecraft:items/leaves",
@@ -121,9 +120,11 @@
     "minecraft:items/signs",
     "minecraft:items/slabs",
     "minecraft:items/small_flowers",
+    "minecraft:items/soul_fire_base_blocks",
     "minecraft:items/spruce_logs",
     "minecraft:items/stairs",
     "minecraft:items/stone_bricks",
+    "minecraft:items/stone_tool_materials",
     "minecraft:items/tall_flowers",
     "minecraft:items/trapdoors",
     "minecraft:items/walls",

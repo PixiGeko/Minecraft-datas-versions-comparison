@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "blackstone_slab[type=top,waterlogged=true]",
+    "blackstone_slab[type=top,waterlogged=false]",
+    "blackstone_slab[type=bottom,waterlogged=true]",
+    "blackstone_slab[type=bottom,waterlogged=false]",
+    "blackstone_slab[type=double,waterlogged=true]",
+    "blackstone_slab[type=double,waterlogged=false]"
   ]
 }

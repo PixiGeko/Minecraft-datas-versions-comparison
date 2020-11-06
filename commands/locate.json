@@ -1,4 +1,8 @@
 {
+  "added": [
+    "locate Bastion_Remnant",
+    "locate Ruined_Portal"
+  ],
   "common": [
     "locate Buried_Treasure",
     "locate Desert_Pyramid",

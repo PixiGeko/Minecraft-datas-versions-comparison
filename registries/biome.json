@@ -1,12 +1,10 @@
 {
-  "added": [
-    "minecraft:basalt_deltas"
-  ],
   "common": [
     "minecraft:badlands",
     "minecraft:badlands_plateau",
     "minecraft:bamboo_jungle",
     "minecraft:bamboo_jungle_hills",
+    "minecraft:basalt_deltas",
     "minecraft:beach",
     "minecraft:birch_forest",
     "minecraft:birch_forest_hills",

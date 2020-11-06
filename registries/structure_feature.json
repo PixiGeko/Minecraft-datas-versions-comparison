@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:bastion_remnant",
+    "minecraft:ruined_portal"
+  ],
   "common": [
     "minecraft:buried_treasure",
     "minecraft:desert_pyramid",

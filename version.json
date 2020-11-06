@@ -1,3 +1,10 @@
 {
-  "files": {}
+  "files": {
+    "registries": {
+      "changed": [
+        "custom_stat",
+        "tag"
+      ]
+    }
+  }
 }

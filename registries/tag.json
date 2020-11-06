@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:blocks/portals"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

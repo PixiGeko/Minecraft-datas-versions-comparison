@@ -1,4 +1,11 @@
 {
+  "added": [
+    "minecraft:dead_brain_coral",
+    "minecraft:dead_bubble_coral",
+    "minecraft:dead_fire_coral",
+    "minecraft:dead_horn_coral",
+    "minecraft:dead_tube_coral"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -785,12 +792,5 @@
     "minecraft:zombie_pigman_spawn_egg",
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg"
-  ],
-  "removed": [
-    "minecraft:dead_brain_coral",
-    "minecraft:dead_bubble_coral",
-    "minecraft:dead_fire_coral",
-    "minecraft:dead_horn_coral",
-    "minecraft:dead_tube_coral"
   ]
 }

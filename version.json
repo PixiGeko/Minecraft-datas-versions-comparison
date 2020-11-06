@@ -1,6 +1,13 @@
 {
   "files": {
     "blocks": {
+      "added": [
+        "dead_brain_coral",
+        "dead_bubble_coral",
+        "dead_fire_coral",
+        "dead_horn_coral",
+        "dead_tube_coral"
+      ],
       "changed": [
         "brain_coral",
         "bubble_coral",
@@ -9,21 +16,14 @@
         "horn_coral",
         "tnt",
         "tube_coral"
-      ],
-      "removed": [
-        "dead_brain_coral",
-        "dead_bubble_coral",
-        "dead_fire_coral",
-        "dead_horn_coral",
-        "dead_tube_coral"
       ]
     },
     "commands": {
+      "added": [
+        "forceload"
+      ],
       "changed": [
         "execute"
-      ],
-      "removed": [
-        "chunk"
       ]
     },
     "registries": {

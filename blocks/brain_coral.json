@@ -1,9 +1,9 @@
 {
   "added": [
-    "brain_coral"
-  ],
-  "removed": [
     "brain_coral[waterlogged=true]",
     "brain_coral[waterlogged=false]"
+  ],
+  "removed": [
+    "brain_coral"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "common": [
     "tube_coral_fan[facing=north]",
-    "tube_coral_fan[facing=east]",
     "tube_coral_fan[facing=south]",
-    "tube_coral_fan[facing=west]"
+    "tube_coral_fan[facing=west]",
+    "tube_coral_fan[facing=east]"
   ]
 }

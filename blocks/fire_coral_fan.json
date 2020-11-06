@@ -1,8 +1,8 @@
 {
   "common": [
     "fire_coral_fan[facing=north]",
-    "fire_coral_fan[facing=east]",
     "fire_coral_fan[facing=south]",
-    "fire_coral_fan[facing=west]"
+    "fire_coral_fan[facing=west]",
+    "fire_coral_fan[facing=east]"
   ]
 }

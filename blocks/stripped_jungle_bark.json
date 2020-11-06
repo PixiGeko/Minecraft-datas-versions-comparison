@@ -1,13 +1,7 @@
 {
-  "added": [
-    {
-      "axis": "x"
-    },
-    {
-      "axis": "y"
-    },
-    {
-      "axis": "z"
-    }
+  "common": [
+    "stripped_jungle_bark[axis=x]",
+    "stripped_jungle_bark[axis=y]",
+    "stripped_jungle_bark[axis=z]"
   ]
 }

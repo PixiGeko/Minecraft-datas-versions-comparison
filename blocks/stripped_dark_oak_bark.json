@@ -1,13 +1,7 @@
 {
-  "added": [
-    {
-      "axis": "x"
-    },
-    {
-      "axis": "y"
-    },
-    {
-      "axis": "z"
-    }
+  "common": [
+    "stripped_dark_oak_bark[axis=x]",
+    "stripped_dark_oak_bark[axis=y]",
+    "stripped_dark_oak_bark[axis=z]"
   ]
 }

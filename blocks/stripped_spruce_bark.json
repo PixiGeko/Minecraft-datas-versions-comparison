@@ -1,13 +1,7 @@
 {
-  "added": [
-    {
-      "axis": "x"
-    },
-    {
-      "axis": "y"
-    },
-    {
-      "axis": "z"
-    }
+  "common": [
+    "stripped_spruce_bark[axis=x]",
+    "stripped_spruce_bark[axis=y]",
+    "stripped_spruce_bark[axis=z]"
   ]
 }

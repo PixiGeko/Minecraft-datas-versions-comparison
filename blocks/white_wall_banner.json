@@ -1,8 +1,8 @@
 {
   "common": [
     "white_wall_banner[facing=north]",
-    "white_wall_banner[facing=east]",
     "white_wall_banner[facing=south]",
-    "white_wall_banner[facing=west]"
+    "white_wall_banner[facing=west]",
+    "white_wall_banner[facing=east]"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "common": [
     "bubble_coral_fan[facing=north]",
-    "bubble_coral_fan[facing=east]",
     "bubble_coral_fan[facing=south]",
-    "bubble_coral_fan[facing=west]"
+    "bubble_coral_fan[facing=west]",
+    "bubble_coral_fan[facing=east]"
   ]
 }

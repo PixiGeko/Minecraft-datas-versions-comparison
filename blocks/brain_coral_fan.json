@@ -1,8 +1,8 @@
 {
   "common": [
     "brain_coral_fan[facing=north]",
-    "brain_coral_fan[facing=east]",
     "brain_coral_fan[facing=south]",
-    "brain_coral_fan[facing=west]"
+    "brain_coral_fan[facing=west]",
+    "brain_coral_fan[facing=east]"
   ]
 }

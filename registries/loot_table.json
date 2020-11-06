@@ -1,4 +1,11 @@
 {
+  "added": [
+    "minecraft:blocks/sweet_berry_bush",
+    "minecraft:chests/village/village_armorer",
+    "minecraft:chests/village/village_butcher",
+    "minecraft:chests/village/village_mason",
+    "minecraft:chests/village/village_shepherd"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",

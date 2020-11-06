@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:blocks/trapdoors",
+    "minecraft:blocks/wooden_trapdoors",
+    "minecraft:items/trapdoors",
+    "minecraft:items/wooden_trapdoors"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

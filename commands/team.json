@@ -1,4 +1,7 @@
 {
+  "added": [
+    "team modify <team> friendlyFire <allowed>"
+  ],
   "common": [
     "team add <team> <displayName>",
     "team empty <team>",
@@ -15,7 +18,6 @@
     "team modify <team> deathMessageVisibility hideForOwnTeam",
     "team modify <team> deathMessageVisibility never",
     "team modify <team> displayName <displayName>",
-    "team modify <team> friendlyfire <allowed>",
     "team modify <team> nametagVisibility always",
     "team modify <team> nametagVisibility hideForOtherTeams",
     "team modify <team> nametagVisibility hideForOwnTeam",
@@ -24,5 +26,8 @@
     "team modify <team> seeFriendlyInvisibles <allowed>",
     "team modify <team> suffix <suffix>",
     "team remove <team>"
+  ],
+  "removed": [
+    "team modify <team> friendlyfire <allowed>"
   ]
 }

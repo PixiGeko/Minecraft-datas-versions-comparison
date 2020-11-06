@@ -1,16 +1,10 @@
 {
   "added": [
-    "minecraft:blocks/corals",
-    "minecraft:blocks/coral_blocks",
-    "minecraft:blocks/coral_fans",
-    "minecraft:blocks/dead_coral_blocks",
-    "minecraft:blocks/live_coral_blocks",
-    "minecraft:blocks/valid_spawn",
-    "minecraft:items/corals",
-    "minecraft:items/coral_blocks",
-    "minecraft:items/coral_fans",
-    "minecraft:items/dead_coral_blocks",
-    "minecraft:items/live_coral_blocks"
+    "minecraft:blocks/leaves",
+    "minecraft:fluids/lava",
+    "minecraft:fluids/water",
+    "minecraft:items/fishes",
+    "minecraft:items/leaves"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -19,12 +13,17 @@
     "minecraft:blocks/birch_logs",
     "minecraft:blocks/buttons",
     "minecraft:blocks/carpets",
+    "minecraft:blocks/corals",
+    "minecraft:blocks/coral_blocks",
+    "minecraft:blocks/coral_fans",
     "minecraft:blocks/dark_oak_logs",
+    "minecraft:blocks/dead_coral_blocks",
     "minecraft:blocks/doors",
     "minecraft:blocks/enderman_holdable",
     "minecraft:blocks/flower_pots",
     "minecraft:blocks/ice",
     "minecraft:blocks/jungle_logs",
+    "minecraft:blocks/live_coral_blocks",
     "minecraft:blocks/logs",
     "minecraft:blocks/oak_logs",
     "minecraft:blocks/planks",
@@ -35,6 +34,7 @@
     "minecraft:blocks/spruce_logs",
     "minecraft:blocks/stairs",
     "minecraft:blocks/stone_bricks",
+    "minecraft:blocks/valid_spawn",
     "minecraft:blocks/wooden_buttons",
     "minecraft:blocks/wooden_doors",
     "minecraft:blocks/wooden_pressure_plates",
@@ -48,9 +48,14 @@
     "minecraft:items/boats",
     "minecraft:items/buttons",
     "minecraft:items/carpets",
+    "minecraft:items/corals",
+    "minecraft:items/coral_blocks",
+    "minecraft:items/coral_fans",
     "minecraft:items/dark_oak_logs",
+    "minecraft:items/dead_coral_blocks",
     "minecraft:items/doors",
     "minecraft:items/jungle_logs",
+    "minecraft:items/live_coral_blocks",
     "minecraft:items/logs",
     "minecraft:items/oak_logs",
     "minecraft:items/planks",
@@ -67,13 +72,5 @@
     "minecraft:items/wooden_slabs",
     "minecraft:items/wooden_stairs",
     "minecraft:items/wool"
-  ],
-  "removed": [
-    "minecraft:blocks/coral",
-    "minecraft:blocks/coral_plants",
-    "minecraft:blocks/live_coral",
-    "minecraft:items/coral",
-    "minecraft:items/coral_plants",
-    "minecraft:items/live_coral"
   ]
 }

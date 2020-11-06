@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:pufferfish_spawn_egg",
+    "minecraft:seagrass"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -566,7 +570,6 @@
     "minecraft:prismarine_shard",
     "minecraft:prismarine_slab",
     "minecraft:prismarine_stairs",
-    "minecraft:puffer_fish_spawn_egg",
     "minecraft:pufferfish",
     "minecraft:pufferfish_bucket",
     "minecraft:pumpkin",
@@ -637,7 +640,6 @@
     "minecraft:sandstone_slab",
     "minecraft:sandstone_stairs",
     "minecraft:scute",
-    "minecraft:sea_grass",
     "minecraft:sea_lantern",
     "minecraft:sea_pickle",
     "minecraft:shears",
@@ -774,5 +776,9 @@
     "minecraft:zombie_pigman_spawn_egg",
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg"
+  ],
+  "removed": [
+    "minecraft:puffer_fish_spawn_egg",
+    "minecraft:sea_grass"
   ]
 }

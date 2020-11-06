@@ -1,7 +1,19 @@
 {
   "files": {
+    "blocks": {
+      "added": [
+        "seagrass",
+        "tall_seagrass"
+      ],
+      "removed": [
+        "sea_grass",
+        "tall_sea_grass"
+      ]
+    },
     "registries": {
       "changed": [
+        "block",
+        "item",
         "tag"
       ]
     }

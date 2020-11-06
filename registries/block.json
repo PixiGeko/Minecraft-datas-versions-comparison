@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:seagrass",
+    "minecraft:tall_seagrass"
+  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_button",
@@ -477,7 +481,6 @@
     "minecraft:sandstone",
     "minecraft:sandstone_slab",
     "minecraft:sandstone_stairs",
-    "minecraft:sea_grass",
     "minecraft:sea_lantern",
     "minecraft:sea_pickle",
     "minecraft:shulker_box",
@@ -525,7 +528,6 @@
     "minecraft:sugar_cane",
     "minecraft:sunflower",
     "minecraft:tall_grass",
-    "minecraft:tall_sea_grass",
     "minecraft:terracotta",
     "minecraft:tnt",
     "minecraft:torch",
@@ -572,5 +574,9 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
+  ],
+  "removed": [
+    "minecraft:sea_grass",
+    "minecraft:tall_sea_grass"
   ]
 }

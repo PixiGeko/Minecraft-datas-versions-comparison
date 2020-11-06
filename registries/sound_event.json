@@ -1,4 +1,13 @@
 {
+  "added": [
+    "minecraft:entity.donkey.eat",
+    "minecraft:entity.fox.teleport",
+    "minecraft:entity.mule.angry",
+    "minecraft:entity.mule.eat",
+    "minecraft:entity.parrot.imitate.hoglin",
+    "minecraft:entity.parrot.imitate.piglin",
+    "minecraft:entity.parrot.imitate.zoglin"
+  ],
   "common": [
     "minecraft:ambient.basalt_deltas.additions",
     "minecraft:ambient.basalt_deltas.loop",

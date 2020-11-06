@@ -1,5 +1,25 @@
 {
-  "common": [
+  "added": [
+    "locate bastion_remnant",
+    "locate buried_treasure",
+    "locate desert_pyramid",
+    "locate endcity",
+    "locate fortress",
+    "locate igloo",
+    "locate jungle_pyramid",
+    "locate mansion",
+    "locate mineshaft",
+    "locate monument",
+    "locate nether_fossil",
+    "locate ocean_ruin",
+    "locate pillager_outpost",
+    "locate ruined_portal",
+    "locate shipwreck",
+    "locate stronghold",
+    "locate swamp_hut",
+    "locate village"
+  ],
+  "removed": [
     "locate Bastion_Remnant",
     "locate Buried_Treasure",
     "locate Desert_Pyramid",

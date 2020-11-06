@@ -1,3 +1,25 @@
 {
-  "files": {}
+  "files": {
+    "commands": {
+      "changed": [
+        "locate",
+        "spreadplayers"
+      ]
+    },
+    "registries": {
+      "added": [
+        "biome_source",
+        "chunk_generator"
+      ],
+      "changed": [
+        "block_state_provider_type",
+        "feature",
+        "sound_event"
+      ],
+      "removed": [
+        "biome_source_type",
+        "dimension_type"
+      ]
+    }
+  }
 }

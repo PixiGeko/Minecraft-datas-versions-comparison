@@ -1,8 +1,11 @@
 {
   "files": {
     "registries": {
+      "added": [
+        "type"
+      ],
       "changed": [
-        "feature"
+        "tag"
       ]
     }
   }

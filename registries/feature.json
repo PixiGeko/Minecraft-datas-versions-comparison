@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:fill_layer"
-  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:birch_tree",
@@ -29,6 +26,7 @@
     "minecraft:end_island",
     "minecraft:end_spike",
     "minecraft:fancy_tree",
+    "minecraft:fill_layer",
     "minecraft:forest_flower",
     "minecraft:forest_rock",
     "minecraft:fossil",

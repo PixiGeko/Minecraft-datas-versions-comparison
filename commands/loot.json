@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "loot give <players> fish <loot_table> <pos> mainhand",
     "loot give <players> fish <loot_table> <pos> offhand",
     "loot give <players> fish <loot_table> <pos> <tool>",

@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:scaffolding"
+    "minecraft:lantern"
   ],
   "common": [
     "minecraft:acacia_boat",
@@ -525,6 +525,7 @@
     "minecraft:sandstone_slab",
     "minecraft:sandstone_stairs",
     "minecraft:sandstone_wall",
+    "minecraft:scaffolding",
     "minecraft:sea_lantern",
     "minecraft:shears",
     "minecraft:shield",

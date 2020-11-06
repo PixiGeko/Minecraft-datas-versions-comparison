@@ -1,7 +1,4 @@
 {
-  "added": [
-    "loot"
-  ],
   "common": [
     "advancement",
     "ban",
@@ -31,6 +28,7 @@
     "kill",
     "list",
     "locate",
+    "loot",
     "me",
     "msg",
     "op",
@@ -71,8 +69,5 @@
     "whitelist",
     "worldborder",
     "xp"
-  ],
-  "removed": [
-    "drop"
   ]
 }

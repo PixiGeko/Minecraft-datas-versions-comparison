@@ -1,6 +1,9 @@
 {
   "added": [
-    "minecraft:blocks/scaffolding"
+    "minecraft:blocks/lantern",
+    "minecraft:entities/illusioner",
+    "minecraft:entities/mooshroom",
+    "minecraft:entities/pillager"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -507,6 +510,7 @@
     "minecraft:blocks/sandstone_slab",
     "minecraft:blocks/sandstone_stairs",
     "minecraft:blocks/sandstone_wall",
+    "minecraft:blocks/scaffolding",
     "minecraft:blocks/seagrass",
     "minecraft:blocks/sea_lantern",
     "minecraft:blocks/sea_pickle",
@@ -659,7 +663,6 @@
     "minecraft:entities/llama",
     "minecraft:entities/magma_cube",
     "minecraft:entities/mule",
-    "minecraft:entities/mushroom_cow",
     "minecraft:entities/ocelot",
     "minecraft:entities/panda",
     "minecraft:entities/parrot",
@@ -713,5 +716,8 @@
     "minecraft:gameplay/fishing/junk",
     "minecraft:gameplay/fishing/treasure",
     "minecraft:gameplay/fishing"
+  ],
+  "removed": [
+    "minecraft:entities/mushroom_cow"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:recipes/decorations/scaffolding"
+    "minecraft:recipes/decorations/lantern"
   ],
   "common": [
     "minecraft:adventure/adventuring_time",
@@ -437,6 +437,7 @@
     "minecraft:recipes/decorations/red_glazed_terracotta",
     "minecraft:recipes/decorations/red_stained_glass_pane",
     "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane",
+    "minecraft:recipes/decorations/scaffolding",
     "minecraft:recipes/decorations/shulker_box",
     "minecraft:recipes/decorations/slime_block",
     "minecraft:recipes/decorations/snow",

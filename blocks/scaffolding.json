@@ -1,52 +1,50 @@
 {
   "added": [
-    {
-      "distance": 0,
-      "waterlogged": true
-    },
-    {
-      "distance": 0,
-      "waterlogged": false
-    },
-    {
-      "distance": 1,
-      "waterlogged": true
-    },
-    {
-      "distance": 1,
-      "waterlogged": false
-    },
-    {
-      "distance": 2,
-      "waterlogged": true
-    },
-    {
-      "distance": 2,
-      "waterlogged": false
-    },
-    {
-      "distance": 3,
-      "waterlogged": true
-    },
-    {
-      "distance": 3,
-      "waterlogged": false
-    },
-    {
-      "distance": 4,
-      "waterlogged": true
-    },
-    {
-      "distance": 4,
-      "waterlogged": false
-    },
-    {
-      "distance": 5,
-      "waterlogged": true
-    },
-    {
-      "distance": 5,
-      "waterlogged": false
-    }
+    "scaffolding[bottom=true,distance=0,waterlogged=true]",
+    "scaffolding[bottom=true,distance=0,waterlogged=false]",
+    "scaffolding[bottom=true,distance=1,waterlogged=true]",
+    "scaffolding[bottom=true,distance=1,waterlogged=false]",
+    "scaffolding[bottom=true,distance=2,waterlogged=true]",
+    "scaffolding[bottom=true,distance=2,waterlogged=false]",
+    "scaffolding[bottom=true,distance=3,waterlogged=true]",
+    "scaffolding[bottom=true,distance=3,waterlogged=false]",
+    "scaffolding[bottom=true,distance=4,waterlogged=true]",
+    "scaffolding[bottom=true,distance=4,waterlogged=false]",
+    "scaffolding[bottom=true,distance=5,waterlogged=true]",
+    "scaffolding[bottom=true,distance=5,waterlogged=false]",
+    "scaffolding[bottom=true,distance=6,waterlogged=true]",
+    "scaffolding[bottom=true,distance=6,waterlogged=false]",
+    "scaffolding[bottom=true,distance=7,waterlogged=true]",
+    "scaffolding[bottom=true,distance=7,waterlogged=false]",
+    "scaffolding[bottom=false,distance=0,waterlogged=true]",
+    "scaffolding[bottom=false,distance=0,waterlogged=false]",
+    "scaffolding[bottom=false,distance=1,waterlogged=true]",
+    "scaffolding[bottom=false,distance=1,waterlogged=false]",
+    "scaffolding[bottom=false,distance=2,waterlogged=true]",
+    "scaffolding[bottom=false,distance=2,waterlogged=false]",
+    "scaffolding[bottom=false,distance=3,waterlogged=true]",
+    "scaffolding[bottom=false,distance=3,waterlogged=false]",
+    "scaffolding[bottom=false,distance=4,waterlogged=true]",
+    "scaffolding[bottom=false,distance=4,waterlogged=false]",
+    "scaffolding[bottom=false,distance=5,waterlogged=true]",
+    "scaffolding[bottom=false,distance=5,waterlogged=false]",
+    "scaffolding[bottom=false,distance=6,waterlogged=true]",
+    "scaffolding[bottom=false,distance=6,waterlogged=false]",
+    "scaffolding[bottom=false,distance=7,waterlogged=true]",
+    "scaffolding[bottom=false,distance=7,waterlogged=false]"
+  ],
+  "removed": [
+    "scaffolding[distance=0,waterlogged=true]",
+    "scaffolding[distance=0,waterlogged=false]",
+    "scaffolding[distance=1,waterlogged=true]",
+    "scaffolding[distance=1,waterlogged=false]",
+    "scaffolding[distance=2,waterlogged=true]",
+    "scaffolding[distance=2,waterlogged=false]",
+    "scaffolding[distance=3,waterlogged=true]",
+    "scaffolding[distance=3,waterlogged=false]",
+    "scaffolding[distance=4,waterlogged=true]",
+    "scaffolding[distance=4,waterlogged=false]",
+    "scaffolding[distance=5,waterlogged=true]",
+    "scaffolding[distance=5,waterlogged=false]"
   ]
 }

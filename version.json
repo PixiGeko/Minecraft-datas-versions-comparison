@@ -2,8 +2,11 @@
   "files": {
     "registries": {
       "changed": [
-        "custom_stat",
+        "advancement",
         "tag"
+      ],
+      "removed": [
+        "chunk_generator_type"
       ]
     }
   }

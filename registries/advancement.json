@@ -1,4 +1,16 @@
 {
+  "added": [
+    "minecraft:nether/charge_respawn_anchor",
+    "minecraft:nether/distract_piglin",
+    "minecraft:nether/explore_nether",
+    "minecraft:nether/find_bastion",
+    "minecraft:nether/loot_bastion",
+    "minecraft:nether/netherite_armor",
+    "minecraft:nether/obtain_ancient_debris",
+    "minecraft:nether/obtain_crying_obsidian",
+    "minecraft:nether/ride_strider",
+    "minecraft:nether/use_lodestone"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

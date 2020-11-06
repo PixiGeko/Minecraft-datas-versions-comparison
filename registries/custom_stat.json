@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:strider_one_cm"
-  ],
   "common": [
     "minecraft:animals_bred",
     "minecraft:aviate_one_cm",
@@ -64,6 +61,7 @@
     "minecraft:sleep_in_bed",
     "minecraft:sneak_time",
     "minecraft:sprint_one_cm",
+    "minecraft:strider_one_cm",
     "minecraft:swim_one_cm",
     "minecraft:talked_to_villager",
     "minecraft:target_hit",

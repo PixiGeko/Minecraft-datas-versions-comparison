@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:blocks/prevent_mob_spawning_inside"
+    "minecraft:items/piglin_loved"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -45,6 +45,7 @@
     "minecraft:blocks/planks",
     "minecraft:blocks/portals",
     "minecraft:blocks/pressure_plates",
+    "minecraft:blocks/prevent_mob_spawning_inside",
     "minecraft:blocks/rails",
     "minecraft:blocks/sand",
     "minecraft:blocks/saplings",

@@ -1,24 +1,14 @@
 {
   "files": {
-    "commands": {
-      "changed": [
-        "locate",
-        "spreadplayers"
-      ]
-    },
     "registries": {
       "added": [
-        "biome_source",
-        "chunk_generator"
+        "loot_condition_type",
+        "loot_function_type",
+        "loot_pool_entry_type"
       ],
       "changed": [
-        "block_state_provider_type",
-        "feature",
-        "sound_event"
-      ],
-      "removed": [
-        "biome_source_type",
-        "dimension_type"
+        "memory_module_type",
+        "tag"
       ]
     }
   }

@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:dancing",
+    "minecraft:potential_job_site"
+  ],
   "common": [
     "minecraft:admiring_disabled",
     "minecraft:admiring_item",

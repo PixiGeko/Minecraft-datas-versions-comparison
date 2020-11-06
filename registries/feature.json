@@ -53,25 +53,5 @@
     "minecraft:vines",
     "minecraft:void_start_platform",
     "minecraft:weeping_vines"
-  ],
-  "removed": [
-    "minecraft:bastion_remnant",
-    "minecraft:buried_treasure",
-    "minecraft:desert_pyramid",
-    "minecraft:end_city",
-    "minecraft:igloo",
-    "minecraft:jungle_temple",
-    "minecraft:mineshaft",
-    "minecraft:nether_bridge",
-    "minecraft:nether_fossil",
-    "minecraft:ocean_monument",
-    "minecraft:ocean_ruin",
-    "minecraft:pillager_outpost",
-    "minecraft:ruined_portal",
-    "minecraft:shipwreck",
-    "minecraft:stronghold",
-    "minecraft:swamp_hut",
-    "minecraft:village",
-    "minecraft:woodland_mansion"
   ]
 }

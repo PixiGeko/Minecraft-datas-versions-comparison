@@ -1,8 +1,6 @@
 {
-  "added": [
-    "spreadplayers <center> <spreadDistance> <maxRange> under <maxHeight> <respectTeams> <targets>"
-  ],
   "common": [
+    "spreadplayers <center> <spreadDistance> <maxRange> under <maxHeight> <respectTeams> <targets>",
     "spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>"
   ]
 }

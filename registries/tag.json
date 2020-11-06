@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:blocks/fence_gates",
+    "minecraft:blocks/unstable_bottom_center"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

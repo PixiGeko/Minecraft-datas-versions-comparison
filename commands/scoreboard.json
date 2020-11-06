@@ -1,12 +1,10 @@
 {
-  "added": [
-    "scoreboard objectives modify <objective> rendertype hearts",
-    "scoreboard objectives modify <objective> rendertype integer"
-  ],
   "common": [
     "scoreboard objectives add <objective> <criteria> <displayName>",
     "scoreboard objectives list",
     "scoreboard objectives modify <objective> displayname <displayName>",
+    "scoreboard objectives modify <objective> rendertype hearts",
+    "scoreboard objectives modify <objective> rendertype integer",
     "scoreboard objectives remove <objective>",
     "scoreboard objectives setdisplay <slot> <objective>",
     "scoreboard players add <targets> <objective> <score>",

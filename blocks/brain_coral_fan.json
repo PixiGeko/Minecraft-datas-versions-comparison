@@ -1,12 +1,6 @@
 {
-  "added": [
+  "common": [
     "brain_coral_fan[waterlogged=true]",
     "brain_coral_fan[waterlogged=false]"
-  ],
-  "removed": [
-    "brain_coral_fan[facing=north]",
-    "brain_coral_fan[facing=south]",
-    "brain_coral_fan[facing=west]",
-    "brain_coral_fan[facing=east]"
   ]
 }

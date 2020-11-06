@@ -1,36 +1,12 @@
 {
-  "added": [
-    {
-      "facing": "north",
-      "waterlogged": true
-    },
-    {
-      "facing": "north",
-      "waterlogged": false
-    },
-    {
-      "facing": "south",
-      "waterlogged": true
-    },
-    {
-      "facing": "south",
-      "waterlogged": false
-    },
-    {
-      "facing": "west",
-      "waterlogged": true
-    },
-    {
-      "facing": "west",
-      "waterlogged": false
-    },
-    {
-      "facing": "east",
-      "waterlogged": true
-    },
-    {
-      "facing": "east",
-      "waterlogged": false
-    }
+  "common": [
+    "brain_coral_wall_fan[facing=north,waterlogged=true]",
+    "brain_coral_wall_fan[facing=north,waterlogged=false]",
+    "brain_coral_wall_fan[facing=south,waterlogged=true]",
+    "brain_coral_wall_fan[facing=south,waterlogged=false]",
+    "brain_coral_wall_fan[facing=west,waterlogged=true]",
+    "brain_coral_wall_fan[facing=west,waterlogged=false]",
+    "brain_coral_wall_fan[facing=east,waterlogged=true]",
+    "brain_coral_wall_fan[facing=east,waterlogged=false]"
   ]
 }

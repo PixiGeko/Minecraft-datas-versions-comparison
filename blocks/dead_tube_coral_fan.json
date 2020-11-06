@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "waterlogged": true
-    },
-    {
-      "waterlogged": false
-    }
+  "common": [
+    "dead_tube_coral_fan[waterlogged=true]",
+    "dead_tube_coral_fan[waterlogged=false]"
   ]
 }

@@ -1,12 +1,6 @@
 {
-  "added": [
+  "common": [
     "fire_coral_fan[waterlogged=true]",
     "fire_coral_fan[waterlogged=false]"
-  ],
-  "removed": [
-    "fire_coral_fan[facing=north]",
-    "fire_coral_fan[facing=south]",
-    "fire_coral_fan[facing=west]",
-    "fire_coral_fan[facing=east]"
   ]
 }

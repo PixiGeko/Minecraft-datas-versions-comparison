@@ -1,5 +1,21 @@
 {
-  "common": [
+  "added": [
+    "oak_leaves[distance=1,persistent=true]",
+    "oak_leaves[distance=1,persistent=false]",
+    "oak_leaves[distance=2,persistent=true]",
+    "oak_leaves[distance=2,persistent=false]",
+    "oak_leaves[distance=3,persistent=true]",
+    "oak_leaves[distance=3,persistent=false]",
+    "oak_leaves[distance=4,persistent=true]",
+    "oak_leaves[distance=4,persistent=false]",
+    "oak_leaves[distance=5,persistent=true]",
+    "oak_leaves[distance=5,persistent=false]",
+    "oak_leaves[distance=6,persistent=true]",
+    "oak_leaves[distance=6,persistent=false]",
+    "oak_leaves[distance=7,persistent=true]",
+    "oak_leaves[distance=7,persistent=false]"
+  ],
+  "removed": [
     "oak_leaves[check_decay=true,decayable=true]",
     "oak_leaves[check_decay=true,decayable=false]",
     "oak_leaves[check_decay=false,decayable=true]",

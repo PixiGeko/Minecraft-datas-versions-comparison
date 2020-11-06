@@ -1,5 +1,21 @@
 {
-  "common": [
+  "added": [
+    "spruce_leaves[distance=1,persistent=true]",
+    "spruce_leaves[distance=1,persistent=false]",
+    "spruce_leaves[distance=2,persistent=true]",
+    "spruce_leaves[distance=2,persistent=false]",
+    "spruce_leaves[distance=3,persistent=true]",
+    "spruce_leaves[distance=3,persistent=false]",
+    "spruce_leaves[distance=4,persistent=true]",
+    "spruce_leaves[distance=4,persistent=false]",
+    "spruce_leaves[distance=5,persistent=true]",
+    "spruce_leaves[distance=5,persistent=false]",
+    "spruce_leaves[distance=6,persistent=true]",
+    "spruce_leaves[distance=6,persistent=false]",
+    "spruce_leaves[distance=7,persistent=true]",
+    "spruce_leaves[distance=7,persistent=false]"
+  ],
+  "removed": [
     "spruce_leaves[check_decay=true,decayable=true]",
     "spruce_leaves[check_decay=true,decayable=false]",
     "spruce_leaves[check_decay=false,decayable=true]",

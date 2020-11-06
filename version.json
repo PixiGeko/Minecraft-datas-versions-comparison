@@ -1,3 +1,20 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "changed": [
+        "acacia_bark",
+        "acacia_leaves",
+        "birch_bark",
+        "birch_leaves",
+        "dark_oak_bark",
+        "dark_oak_leaves",
+        "jungle_bark",
+        "jungle_leaves",
+        "oak_bark",
+        "oak_leaves",
+        "spruce_bark",
+        "spruce_leaves"
+      ]
+    }
+  }
 }

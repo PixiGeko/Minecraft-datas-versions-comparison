@@ -1,5 +1,10 @@
 {
-  "common": [
+  "added": [
+    "jungle_bark[axis=x]",
+    "jungle_bark[axis=y]",
+    "jungle_bark[axis=z]"
+  ],
+  "removed": [
     "jungle_bark"
   ]
 }

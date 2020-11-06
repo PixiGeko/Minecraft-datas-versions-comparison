@@ -1,5 +1,10 @@
 {
-  "common": [
+  "added": [
+    "oak_bark[axis=x]",
+    "oak_bark[axis=y]",
+    "oak_bark[axis=z]"
+  ],
+  "removed": [
     "oak_bark"
   ]
 }

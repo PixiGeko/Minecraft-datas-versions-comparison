@@ -1,5 +1,10 @@
 {
-  "common": [
+  "added": [
+    "spruce_bark[axis=x]",
+    "spruce_bark[axis=y]",
+    "spruce_bark[axis=z]"
+  ],
+  "removed": [
     "spruce_bark"
   ]
 }

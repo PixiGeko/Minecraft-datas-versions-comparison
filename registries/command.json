@@ -1,8 +1,4 @@
 {
-  "added": [
-    "drop",
-    "schedule"
-  ],
   "common": [
     "advancement",
     "ban",
@@ -17,6 +13,7 @@
     "defaultgamemode",
     "deop",
     "difficulty",
+    "drop",
     "effect",
     "enchant",
     "execute",
@@ -47,6 +44,7 @@
     "save-off",
     "save-on",
     "say",
+    "schedule",
     "scoreboard",
     "seed",
     "setblock",

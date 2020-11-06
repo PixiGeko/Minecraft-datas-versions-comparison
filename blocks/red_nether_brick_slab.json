@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "red_nether_brick_slab[type=top,waterlogged=true]",
+    "red_nether_brick_slab[type=top,waterlogged=false]",
+    "red_nether_brick_slab[type=bottom,waterlogged=true]",
+    "red_nether_brick_slab[type=bottom,waterlogged=false]",
+    "red_nether_brick_slab[type=double,waterlogged=true]",
+    "red_nether_brick_slab[type=double,waterlogged=false]"
   ]
 }

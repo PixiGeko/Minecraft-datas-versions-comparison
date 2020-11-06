@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "drop block <targetPos> distribute award <loot_table>",
     "drop block <targetPos> distribute fish <loot_table> <pos> mainhand",
     "drop block <targetPos> distribute fish <loot_table> <pos> offhand",

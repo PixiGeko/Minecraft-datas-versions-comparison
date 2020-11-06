@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "diorite_slab[type=top,waterlogged=true]",
+    "diorite_slab[type=top,waterlogged=false]",
+    "diorite_slab[type=bottom,waterlogged=true]",
+    "diorite_slab[type=bottom,waterlogged=false]",
+    "diorite_slab[type=double,waterlogged=true]",
+    "diorite_slab[type=double,waterlogged=false]"
   ]
 }

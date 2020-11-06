@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "granite_slab[type=top,waterlogged=true]",
+    "granite_slab[type=top,waterlogged=false]",
+    "granite_slab[type=bottom,waterlogged=true]",
+    "granite_slab[type=bottom,waterlogged=false]",
+    "granite_slab[type=double,waterlogged=true]",
+    "granite_slab[type=double,waterlogged=false]"
   ]
 }

@@ -1,16 +1,8 @@
 {
-  "added": [
-    {
-      "facing": "north"
-    },
-    {
-      "facing": "south"
-    },
-    {
-      "facing": "west"
-    },
-    {
-      "facing": "east"
-    }
+  "common": [
+    "loom[facing=north]",
+    "loom[facing=south]",
+    "loom[facing=west]",
+    "loom[facing=east]"
   ]
 }

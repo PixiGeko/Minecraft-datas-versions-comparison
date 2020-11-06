@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "end_stone_brick_slab[type=top,waterlogged=true]",
+    "end_stone_brick_slab[type=top,waterlogged=false]",
+    "end_stone_brick_slab[type=bottom,waterlogged=true]",
+    "end_stone_brick_slab[type=bottom,waterlogged=false]",
+    "end_stone_brick_slab[type=double,waterlogged=true]",
+    "end_stone_brick_slab[type=double,waterlogged=false]"
   ]
 }

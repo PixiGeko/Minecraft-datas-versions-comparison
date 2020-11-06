@@ -1,13 +1,3 @@
 {
-  "files": {
-    "registries": {
-      "changed": [
-        "advancement",
-        "custom_stat"
-      ],
-      "removed": [
-        "type"
-      ]
-    }
-  }
+  "files": {}
 }

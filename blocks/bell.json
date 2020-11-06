@@ -1,52 +1,16 @@
 {
-  "added": [
-    {
-      "face": "floor",
-      "facing": "north"
-    },
-    {
-      "face": "floor",
-      "facing": "south"
-    },
-    {
-      "face": "floor",
-      "facing": "west"
-    },
-    {
-      "face": "floor",
-      "facing": "east"
-    },
-    {
-      "face": "wall",
-      "facing": "north"
-    },
-    {
-      "face": "wall",
-      "facing": "south"
-    },
-    {
-      "face": "wall",
-      "facing": "west"
-    },
-    {
-      "face": "wall",
-      "facing": "east"
-    },
-    {
-      "face": "ceiling",
-      "facing": "north"
-    },
-    {
-      "face": "ceiling",
-      "facing": "south"
-    },
-    {
-      "face": "ceiling",
-      "facing": "west"
-    },
-    {
-      "face": "ceiling",
-      "facing": "east"
-    }
+  "common": [
+    "bell[face=floor,facing=north]",
+    "bell[face=floor,facing=south]",
+    "bell[face=floor,facing=west]",
+    "bell[face=floor,facing=east]",
+    "bell[face=wall,facing=north]",
+    "bell[face=wall,facing=south]",
+    "bell[face=wall,facing=west]",
+    "bell[face=wall,facing=east]",
+    "bell[face=ceiling,facing=north]",
+    "bell[face=ceiling,facing=south]",
+    "bell[face=ceiling,facing=west]",
+    "bell[face=ceiling,facing=east]"
   ]
 }

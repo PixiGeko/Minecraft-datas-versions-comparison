@@ -1,22 +1,10 @@
 {
-  "added": [
-    {
-      "facing": "north"
-    },
-    {
-      "facing": "east"
-    },
-    {
-      "facing": "south"
-    },
-    {
-      "facing": "west"
-    },
-    {
-      "facing": "up"
-    },
-    {
-      "facing": "down"
-    }
+  "common": [
+    "barrel[facing=north]",
+    "barrel[facing=east]",
+    "barrel[facing=south]",
+    "barrel[facing=west]",
+    "barrel[facing=up]",
+    "barrel[facing=down]"
   ]
 }

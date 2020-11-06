@@ -1,52 +1,16 @@
 {
-  "added": [
-    {
-      "face": "floor",
-      "facing": "north"
-    },
-    {
-      "face": "floor",
-      "facing": "south"
-    },
-    {
-      "face": "floor",
-      "facing": "west"
-    },
-    {
-      "face": "floor",
-      "facing": "east"
-    },
-    {
-      "face": "wall",
-      "facing": "north"
-    },
-    {
-      "face": "wall",
-      "facing": "south"
-    },
-    {
-      "face": "wall",
-      "facing": "west"
-    },
-    {
-      "face": "wall",
-      "facing": "east"
-    },
-    {
-      "face": "ceiling",
-      "facing": "north"
-    },
-    {
-      "face": "ceiling",
-      "facing": "south"
-    },
-    {
-      "face": "ceiling",
-      "facing": "west"
-    },
-    {
-      "face": "ceiling",
-      "facing": "east"
-    }
+  "common": [
+    "grindstone[face=floor,facing=north]",
+    "grindstone[face=floor,facing=south]",
+    "grindstone[face=floor,facing=west]",
+    "grindstone[face=floor,facing=east]",
+    "grindstone[face=wall,facing=north]",
+    "grindstone[face=wall,facing=south]",
+    "grindstone[face=wall,facing=west]",
+    "grindstone[face=wall,facing=east]",
+    "grindstone[face=ceiling,facing=north]",
+    "grindstone[face=ceiling,facing=south]",
+    "grindstone[face=ceiling,facing=west]",
+    "grindstone[face=ceiling,facing=east]"
   ]
 }

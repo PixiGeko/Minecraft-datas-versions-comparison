@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:scaffolding"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

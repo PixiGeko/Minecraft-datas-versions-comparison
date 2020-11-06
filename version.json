@@ -2,20 +2,14 @@
   "files": {
     "blocks": {
       "added": [
-        "barrel",
-        "bell",
-        "blast_furnace",
-        "cartography_table",
-        "fletching_table",
-        "grindstone",
-        "lectern",
-        "smithing_table",
-        "smoker",
-        "stonecutter"
+        "scaffolding"
       ]
     },
     "commands": {
-      "changed": [
+      "added": [
+        "loot"
+      ],
+      "removed": [
         "drop"
       ]
     },
@@ -23,9 +17,10 @@
       "changed": [
         "advancement",
         "block",
+        "command",
         "item",
         "loot_table",
-        "tag"
+        "recipe"
       ]
     }
   }

@@ -1,13 +1,10 @@
 {
-  "added": [
-    "minecraft:blocks/beds",
-    "minecraft:items/beds"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
     "minecraft:blocks/bamboo_plantable_on",
     "minecraft:blocks/banners",
+    "minecraft:blocks/beds",
     "minecraft:blocks/birch_logs",
     "minecraft:blocks/buttons",
     "minecraft:blocks/carpets",
@@ -55,6 +52,7 @@
     "minecraft:items/acacia_logs",
     "minecraft:items/anvil",
     "minecraft:items/banners",
+    "minecraft:items/beds",
     "minecraft:items/birch_logs",
     "minecraft:items/boats",
     "minecraft:items/buttons",

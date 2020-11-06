@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:husbandry/complete_catalogue"
+    "minecraft:recipes/decorations/scaffolding"
   ],
   "common": [
     "minecraft:adventure/adventuring_time",
@@ -32,6 +32,7 @@
     "minecraft:husbandry/break_diamond_hoe",
     "minecraft:husbandry/bred_all_animals",
     "minecraft:husbandry/breed_an_animal",
+    "minecraft:husbandry/complete_catalogue",
     "minecraft:husbandry/fishy_business",
     "minecraft:husbandry/plant_seed",
     "minecraft:husbandry/root",

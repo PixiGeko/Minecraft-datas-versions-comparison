@@ -1,5 +1,5 @@
 {
-  "common": [
+  "removed": [
     "drop block <targetPos> distribute fish <loot_table> <pos> mainhand",
     "drop block <targetPos> distribute fish <loot_table> <pos> offhand",
     "drop block <targetPos> distribute fish <loot_table> <pos> <tool>",
@@ -72,16 +72,5 @@
     "drop world <targetPos> mine <pos> mainhand",
     "drop world <targetPos> mine <pos> offhand",
     "drop world <targetPos> mine <pos> <tool>"
-  ],
-  "removed": [
-    "drop block <targetPos> distribute award <loot_table>",
-    "drop block <targetPos> insert <slot> award <loot_table>",
-    "drop block <targetPos> insert <slot> replace award <loot_table>",
-    "drop block <targetPos> insert <slot> <count> award <loot_table>",
-    "drop block <targetPos> insert <slot> <count> replace award <loot_table>",
-    "drop entity <entities> <slot> award <loot_table>",
-    "drop entity <entities> <slot> <count> award <loot_table>",
-    "drop player <players> award <loot_table>",
-    "drop world <targetPos> award <loot_table>"
   ]
 }

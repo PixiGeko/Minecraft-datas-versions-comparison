@@ -1,16 +1,8 @@
 {
-  "added": [
-    {
-      "facing": "north"
-    },
-    {
-      "facing": "south"
-    },
-    {
-      "facing": "west"
-    },
-    {
-      "facing": "east"
-    }
+  "common": [
+    "lectern[facing=north]",
+    "lectern[facing=south]",
+    "lectern[facing=west]",
+    "lectern[facing=east]"
   ]
 }

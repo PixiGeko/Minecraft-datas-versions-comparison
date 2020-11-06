@@ -1,4 +1,7 @@
 {
+  "added": [
+    "loot"
+  ],
   "common": [
     "advancement",
     "ban",
@@ -13,7 +16,6 @@
     "defaultgamemode",
     "deop",
     "difficulty",
-    "drop",
     "effect",
     "enchant",
     "execute",
@@ -69,5 +71,8 @@
     "whitelist",
     "worldborder",
     "xp"
+  ],
+  "removed": [
+    "drop"
   ]
 }

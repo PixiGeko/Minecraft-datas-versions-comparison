@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:recipes/misc/leather_horse_armor"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

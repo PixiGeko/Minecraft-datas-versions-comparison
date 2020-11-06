@@ -1,9 +1,4 @@
 {
-  "added": [
-    "minecraft:chests/village/village_fisher",
-    "minecraft:entities/fox",
-    "minecraft:gameplay/cat_morning_gift"
-  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",
@@ -641,6 +636,7 @@
     "minecraft:chests/village/village_butcher",
     "minecraft:chests/village/village_cartographer",
     "minecraft:chests/village/village_desert_house",
+    "minecraft:chests/village/village_fisher",
     "minecraft:chests/village/village_fletcher",
     "minecraft:chests/village/village_mason",
     "minecraft:chests/village/village_plains_house",
@@ -670,6 +666,7 @@
     "minecraft:entities/endermite",
     "minecraft:entities/ender_dragon",
     "minecraft:entities/evoker",
+    "minecraft:entities/fox",
     "minecraft:entities/ghast",
     "minecraft:entities/giant",
     "minecraft:entities/guardian",
@@ -734,12 +731,10 @@
     "minecraft:entities/zombie_horse",
     "minecraft:entities/zombie_pigman",
     "minecraft:entities/zombie_villager",
+    "minecraft:gameplay/cat_morning_gift",
     "minecraft:gameplay/fishing/fish",
     "minecraft:gameplay/fishing/junk",
     "minecraft:gameplay/fishing/treasure",
     "minecraft:gameplay/fishing"
-  ],
-  "removed": [
-    "minecraft:entities/cat_morning_gift"
   ]
 }

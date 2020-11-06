@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:fox_spawn_egg"
+    "minecraft:leather_horse_armor"
   ],
   "common": [
     "minecraft:acacia_boat",
@@ -310,6 +310,7 @@
     "minecraft:flint_and_steel",
     "minecraft:flower_banner_pattern",
     "minecraft:flower_pot",
+    "minecraft:fox_spawn_egg",
     "minecraft:furnace",
     "minecraft:furnace_minecart",
     "minecraft:ghast_spawn_egg",

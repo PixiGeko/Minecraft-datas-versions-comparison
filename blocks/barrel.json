@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "barrel[facing=north,open=true]",
     "barrel[facing=north,open=false]",
     "barrel[facing=east,open=true]",
@@ -12,13 +12,5 @@
     "barrel[facing=up,open=false]",
     "barrel[facing=down,open=true]",
     "barrel[facing=down,open=false]"
-  ],
-  "removed": [
-    "barrel[facing=north]",
-    "barrel[facing=east]",
-    "barrel[facing=south]",
-    "barrel[facing=west]",
-    "barrel[facing=up]",
-    "barrel[facing=down]"
   ]
 }

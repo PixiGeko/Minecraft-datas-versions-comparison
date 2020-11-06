@@ -1,15 +1,10 @@
 {
   "added": [
-    "minecraft:entity.fox.aggro",
-    "minecraft:entity.fox.ambient",
-    "minecraft:entity.fox.bark",
-    "minecraft:entity.fox.bite",
-    "minecraft:entity.fox.death",
-    "minecraft:entity.fox.eat",
-    "minecraft:entity.fox.hurt",
-    "minecraft:entity.fox.sleep",
-    "minecraft:entity.fox.sniff",
-    "minecraft:entity.fox.spit"
+    "minecraft:entity.fox.screech",
+    "minecraft:entity.mooshroom.convert",
+    "minecraft:entity.mooshroom.eat",
+    "minecraft:entity.mooshroom.milk",
+    "minecraft:entity.mooshroom.suspicious_milk"
   ],
   "common": [
     "minecraft:ambient.cave",
@@ -329,6 +324,15 @@
     "minecraft:entity.fishing_bobber.retrieve",
     "minecraft:entity.fishing_bobber.splash",
     "minecraft:entity.fishing_bobber.throw",
+    "minecraft:entity.fox.aggro",
+    "minecraft:entity.fox.ambient",
+    "minecraft:entity.fox.bite",
+    "minecraft:entity.fox.death",
+    "minecraft:entity.fox.eat",
+    "minecraft:entity.fox.hurt",
+    "minecraft:entity.fox.sleep",
+    "minecraft:entity.fox.sniff",
+    "minecraft:entity.fox.spit",
     "minecraft:entity.generic.big_fall",
     "minecraft:entity.generic.burn",
     "minecraft:entity.generic.death",
@@ -760,5 +764,8 @@
     "minecraft:ui.toast.out",
     "minecraft:weather.rain",
     "minecraft:weather.rain.above"
+  ],
+  "removed": [
+    "minecraft:entity.fox.bark"
   ]
 }

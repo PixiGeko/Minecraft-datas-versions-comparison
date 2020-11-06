@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:fox"
-  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
@@ -37,6 +34,7 @@
     "minecraft:fireball",
     "minecraft:firework_rocket",
     "minecraft:fishing_bobber",
+    "minecraft:fox",
     "minecraft:furnace_minecart",
     "minecraft:ghast",
     "minecraft:giant",

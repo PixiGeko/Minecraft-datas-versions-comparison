@@ -1,15 +1,10 @@
 {
   "files": {
-    "blocks": {
-      "changed": [
-        "barrel"
-      ]
-    },
     "registries": {
       "changed": [
-        "entity_type",
+        "advancement",
         "item",
-        "loot_table",
+        "recipe",
         "sound_event"
       ]
     }

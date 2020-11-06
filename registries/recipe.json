@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:repair_item"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -635,6 +632,7 @@
     "minecraft:red_stained_glass_pane_from_glass_pane",
     "minecraft:red_terracotta",
     "minecraft:red_wool",
+    "minecraft:repair_item",
     "minecraft:repeater",
     "minecraft:sandstone",
     "minecraft:sandstone_slab",

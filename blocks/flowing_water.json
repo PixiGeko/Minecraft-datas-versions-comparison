@@ -1,20 +1,52 @@
 {
-  "common": [
-    "flowing_water[level=0]",
-    "flowing_water[level=1]",
-    "flowing_water[level=2]",
-    "flowing_water[level=3]",
-    "flowing_water[level=4]",
-    "flowing_water[level=5]",
-    "flowing_water[level=6]",
-    "flowing_water[level=7]",
-    "flowing_water[level=8]",
-    "flowing_water[level=9]",
-    "flowing_water[level=10]",
-    "flowing_water[level=11]",
-    "flowing_water[level=12]",
-    "flowing_water[level=13]",
-    "flowing_water[level=14]",
-    "flowing_water[level=15]"
+  "removed": [
+    {
+      "level": 0
+    },
+    {
+      "level": 1
+    },
+    {
+      "level": 2
+    },
+    {
+      "level": 3
+    },
+    {
+      "level": 4
+    },
+    {
+      "level": 5
+    },
+    {
+      "level": 6
+    },
+    {
+      "level": 7
+    },
+    {
+      "level": 8
+    },
+    {
+      "level": 9
+    },
+    {
+      "level": 10
+    },
+    {
+      "level": 11
+    },
+    {
+      "level": 12
+    },
+    {
+      "level": 13
+    },
+    {
+      "level": 14
+    },
+    {
+      "level": 15
+    }
   ]
 }

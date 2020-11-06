@@ -23,8 +23,6 @@
     "minecraft:blocks/spruce_logs",
     "minecraft:blocks/stairs",
     "minecraft:blocks/stone_bricks",
-    "minecraft:blocks/waterlogged",
-    "minecraft:blocks/water_hacked",
     "minecraft:blocks/wooden_buttons",
     "minecraft:blocks/wooden_doors",
     "minecraft:blocks/wooden_pressure_plates",
@@ -59,5 +57,9 @@
     "minecraft:items/wooden_slabs",
     "minecraft:items/wooden_stairs",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:blocks/waterlogged",
+    "minecraft:blocks/water_hacked"
   ]
 }

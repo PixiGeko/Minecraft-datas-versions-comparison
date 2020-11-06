@@ -1,20 +1,52 @@
 {
-  "common": [
-    "flowing_lava[level=0]",
-    "flowing_lava[level=1]",
-    "flowing_lava[level=2]",
-    "flowing_lava[level=3]",
-    "flowing_lava[level=4]",
-    "flowing_lava[level=5]",
-    "flowing_lava[level=6]",
-    "flowing_lava[level=7]",
-    "flowing_lava[level=8]",
-    "flowing_lava[level=9]",
-    "flowing_lava[level=10]",
-    "flowing_lava[level=11]",
-    "flowing_lava[level=12]",
-    "flowing_lava[level=13]",
-    "flowing_lava[level=14]",
-    "flowing_lava[level=15]"
+  "removed": [
+    {
+      "level": 0
+    },
+    {
+      "level": 1
+    },
+    {
+      "level": 2
+    },
+    {
+      "level": 3
+    },
+    {
+      "level": 4
+    },
+    {
+      "level": 5
+    },
+    {
+      "level": 6
+    },
+    {
+      "level": 7
+    },
+    {
+      "level": 8
+    },
+    {
+      "level": 9
+    },
+    {
+      "level": 10
+    },
+    {
+      "level": 11
+    },
+    {
+      "level": 12
+    },
+    {
+      "level": 13
+    },
+    {
+      "level": 14
+    },
+    {
+      "level": 15
+    }
   ]
 }

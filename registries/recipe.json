@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:shulker_box"
-  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -450,6 +447,7 @@
     "minecraft:shears",
     "minecraft:shield",
     "minecraft:shield_decoration",
+    "minecraft:shulker_box",
     "minecraft:shulker_box_coloring",
     "minecraft:sign",
     "minecraft:slime_ball",
@@ -521,8 +519,5 @@
     "minecraft:yellow_stained_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
-  ],
-  "removed": [
-    "minecraft:purple_shulker_box"
   ]
 }

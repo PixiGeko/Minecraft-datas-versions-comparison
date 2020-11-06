@@ -1,12 +1,4 @@
 {
-  "added": [
-    "minecraft:blue_dead_coral",
-    "minecraft:pink_dead_coral",
-    "minecraft:purple_dead_coral",
-    "minecraft:red_dead_coral",
-    "minecraft:shulker_box",
-    "minecraft:yellow_dead_coral"
-  ],
   "common": [
     "minecraft:acacia_bark",
     "minecraft:acacia_boat",
@@ -75,6 +67,7 @@
     "minecraft:blue_concrete_powder",
     "minecraft:blue_coral",
     "minecraft:blue_coral_plant",
+    "minecraft:blue_dead_coral",
     "minecraft:blue_glazed_terracotta",
     "minecraft:blue_orchid",
     "minecraft:blue_shulker_box",
@@ -525,6 +518,7 @@
     "minecraft:pink_concrete_powder",
     "minecraft:pink_coral",
     "minecraft:pink_coral_plant",
+    "minecraft:pink_dead_coral",
     "minecraft:pink_dye",
     "minecraft:pink_glazed_terracotta",
     "minecraft:pink_shulker_box",
@@ -567,6 +561,7 @@
     "minecraft:purple_concrete_powder",
     "minecraft:purple_coral",
     "minecraft:purple_coral_plant",
+    "minecraft:purple_dead_coral",
     "minecraft:purple_dye",
     "minecraft:purple_glazed_terracotta",
     "minecraft:purple_shulker_box",
@@ -596,6 +591,7 @@
     "minecraft:red_concrete_powder",
     "minecraft:red_coral",
     "minecraft:red_coral_plant",
+    "minecraft:red_dead_coral",
     "minecraft:red_glazed_terracotta",
     "minecraft:red_mushroom",
     "minecraft:red_mushroom_block",
@@ -634,6 +630,7 @@
     "minecraft:shears",
     "minecraft:sheep_spawn_egg",
     "minecraft:shield",
+    "minecraft:shulker_box",
     "minecraft:shulker_shell",
     "minecraft:shulker_spawn_egg",
     "minecraft:sign",
@@ -752,6 +749,7 @@
     "minecraft:yellow_concrete_powder",
     "minecraft:yellow_coral",
     "minecraft:yellow_coral_plant",
+    "minecraft:yellow_dead_coral",
     "minecraft:yellow_glazed_terracotta",
     "minecraft:yellow_shulker_box",
     "minecraft:yellow_stained_glass",
@@ -763,8 +761,5 @@
     "minecraft:zombie_pigman_spawn_egg",
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg"
-  ],
-  "removed": [
-    "minecraft:dead_coral"
   ]
 }

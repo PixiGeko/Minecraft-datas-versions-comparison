@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:recipes/decorations/shulker_box"
-  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/kill_all_mobs",
@@ -347,6 +344,7 @@
     "minecraft:recipes/decorations/red_carpet",
     "minecraft:recipes/decorations/red_glazed_terracotta",
     "minecraft:recipes/decorations/red_stained_glass_pane",
+    "minecraft:recipes/decorations/shulker_box",
     "minecraft:recipes/decorations/sign",
     "minecraft:recipes/decorations/slime_block",
     "minecraft:recipes/decorations/snow",
@@ -564,8 +562,5 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
-  ],
-  "removed": [
-    "minecraft:recipes/decorations/purple_shulker_box"
   ]
 }

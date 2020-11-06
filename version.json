@@ -1,24 +1,82 @@
 {
   "files": {
     "blocks": {
-      "added": [
-        "blue_dead_coral",
-        "pink_dead_coral",
-        "purple_dead_coral",
-        "red_dead_coral",
-        "shulker_box",
-        "yellow_dead_coral"
+      "changed": [
+        "acacia_fence",
+        "acacia_slab",
+        "acacia_stairs",
+        "birch_fence",
+        "birch_slab",
+        "birch_stairs",
+        "black_stained_glass_pane",
+        "blue_stained_glass_pane",
+        "brick_slab",
+        "brick_stairs",
+        "brown_stained_glass_pane",
+        "chest",
+        "cobblestone_slab",
+        "cobblestone_stairs",
+        "cobblestone_wall",
+        "cyan_stained_glass_pane",
+        "dark_oak_fence",
+        "dark_oak_slab",
+        "dark_oak_stairs",
+        "dark_prismarine_slab",
+        "dark_prismarine_stairs",
+        "glass_pane",
+        "gray_stained_glass_pane",
+        "green_stained_glass_pane",
+        "iron_bars",
+        "jungle_fence",
+        "jungle_slab",
+        "jungle_stairs",
+        "light_blue_stained_glass_pane",
+        "light_gray_stained_glass_pane",
+        "lime_stained_glass_pane",
+        "magenta_stained_glass_pane",
+        "mossy_cobblestone_wall",
+        "nether_brick_fence",
+        "nether_brick_slab",
+        "nether_brick_stairs",
+        "oak_fence",
+        "oak_slab",
+        "oak_stairs",
+        "orange_stained_glass_pane",
+        "petrified_oak_slab",
+        "pink_stained_glass_pane",
+        "prismarine_bricks_slab",
+        "prismarine_bricks_stairs",
+        "prismarine_slab",
+        "prismarine_stairs",
+        "purple_stained_glass_pane",
+        "purpur_slab",
+        "purpur_stairs",
+        "quartz_slab",
+        "quartz_stairs",
+        "red_sandstone_slab",
+        "red_sandstone_stairs",
+        "red_stained_glass_pane",
+        "sandstone_slab",
+        "sandstone_stairs",
+        "spruce_fence",
+        "spruce_slab",
+        "spruce_stairs",
+        "stone_brick_slab",
+        "stone_brick_stairs",
+        "stone_slab",
+        "trapped_chest",
+        "white_stained_glass_pane",
+        "yellow_stained_glass_pane"
       ],
       "removed": [
-        "dead_coral"
+        "flowing_lava",
+        "flowing_water"
       ]
     },
     "registries": {
       "changed": [
-        "advancement",
         "block",
-        "item",
-        "recipe"
+        "tag"
       ]
     }
   }

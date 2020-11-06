@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:hide",
+    "minecraft:pre_raid",
+    "minecraft:raid"
+  ],
   "common": [
     "minecraft:core",
     "minecraft:idle",

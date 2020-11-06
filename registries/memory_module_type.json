@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:heard_bell_time",
+    "minecraft:hiding_place",
+    "minecraft:nearest_bed",
+    "minecraft:visible_villager_babies"
+  ],
   "common": [
     "minecraft:breed_target",
     "minecraft:dummy",

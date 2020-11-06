@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:nearest_bed",
+    "minecraft:villager_babies"
+  ],
   "common": [
     "minecraft:dummy",
     "minecraft:hurt_by",

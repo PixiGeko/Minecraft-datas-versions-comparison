@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:entity.evoker.celebrate",
+    "minecraft:entity.pillager.celebrate",
+    "minecraft:entity.ravager.celebrate",
+    "minecraft:entity.villager.celebrate",
+    "minecraft:entity.vindicator.celebrate",
+    "minecraft:entity.witch.celebrate"
+  ],
   "common": [
     "minecraft:ambient.cave",
     "minecraft:ambient.underwater.enter",

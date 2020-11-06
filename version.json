@@ -1,3 +1,14 @@
 {
-  "files": {}
+  "files": {
+    "registries": {
+      "changed": [
+        "activity",
+        "loot_table",
+        "memory_module_type",
+        "mob_effect",
+        "sensor_type",
+        "sound_event"
+      ]
+    }
+  }
 }

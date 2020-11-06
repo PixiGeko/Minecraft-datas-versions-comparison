@@ -1,9 +1,6 @@
 {
-  "added": [
+  "common": [
     "conduit[waterlogged=true]",
     "conduit[waterlogged=false]"
-  ],
-  "removed": [
-    "conduit"
   ]
 }

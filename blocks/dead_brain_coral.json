@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "waterlogged": true
-    },
-    {
-      "waterlogged": false
-    }
+  "common": [
+    "dead_brain_coral[waterlogged=true]",
+    "dead_brain_coral[waterlogged=false]"
   ]
 }

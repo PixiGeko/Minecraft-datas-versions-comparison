@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/coral_plants",
-    "minecraft:blocks/underwater_bonemeals"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -12,6 +8,7 @@
     "minecraft:blocks/carpets",
     "minecraft:blocks/corals",
     "minecraft:blocks/coral_blocks",
+    "minecraft:blocks/coral_plants",
     "minecraft:blocks/dark_oak_logs",
     "minecraft:blocks/doors",
     "minecraft:blocks/enderman_holdable",
@@ -31,6 +28,7 @@
     "minecraft:blocks/stairs",
     "minecraft:blocks/stone_bricks",
     "minecraft:blocks/trapdoors",
+    "minecraft:blocks/underwater_bonemeals",
     "minecraft:blocks/valid_spawn",
     "minecraft:blocks/wall_corals",
     "minecraft:blocks/wooden_buttons",

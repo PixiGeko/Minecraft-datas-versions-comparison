@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "waterlogged": true
-    },
-    {
-      "waterlogged": false
-    }
+  "common": [
+    "dead_bubble_coral[waterlogged=true]",
+    "dead_bubble_coral[waterlogged=false]"
   ]
 }

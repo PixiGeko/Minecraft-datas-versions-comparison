@@ -1,6 +1,8 @@
 {
   "added": [
-    "minecraft:blocks/mushroom_grow_block"
+    "minecraft:blocks/base_stone_nether",
+    "minecraft:blocks/base_stone_overworld",
+    "minecraft:items/stone_crafting_materials"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -42,6 +44,7 @@
     "minecraft:blocks/leaves",
     "minecraft:blocks/logs",
     "minecraft:blocks/logs_that_burn",
+    "minecraft:blocks/mushroom_grow_block",
     "minecraft:blocks/non_flammable_wood",
     "minecraft:blocks/nylium",
     "minecraft:blocks/oak_logs",
@@ -111,7 +114,6 @@
     "minecraft:items/fences",
     "minecraft:items/fishes",
     "minecraft:items/flowers",
-    "minecraft:items/furnace_materials",
     "minecraft:items/gold_ores",
     "minecraft:items/jungle_logs",
     "minecraft:items/leaves",
@@ -147,5 +149,8 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:items/furnace_materials"
   ]
 }

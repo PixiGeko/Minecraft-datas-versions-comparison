@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "help <command: string>"
+  ],
+  "removed": [
     "help <command>"
   ]
 }

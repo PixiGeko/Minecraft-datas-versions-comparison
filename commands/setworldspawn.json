@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "setworldspawn <pos: block_pos>"
+  ],
+  "removed": [
     "setworldspawn <pos>"
   ]
 }

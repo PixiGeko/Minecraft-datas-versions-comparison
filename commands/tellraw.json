@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "tellraw <targets: entity> <message: component>"
+  ],
+  "removed": [
     "tellraw <targets> <message>"
   ]
 }

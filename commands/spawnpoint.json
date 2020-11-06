@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "spawnpoint <targets: entity> <pos: block_pos>"
+  ],
+  "removed": [
     "spawnpoint <targets> <pos>"
   ]
 }

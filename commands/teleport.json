@@ -1,5 +1,13 @@
 {
-  "common": [
+  "added": [
+    "teleport <destination: entity>",
+    "teleport <location: vec3>",
+    "teleport <targets: entity> <destination: entity>",
+    "teleport <targets: entity> <location: vec3> facing entity <facingEntity: entity> <facingAnchor: entity_anchor>",
+    "teleport <targets: entity> <location: vec3> facing <facingLocation: vec3>",
+    "teleport <targets: entity> <location: vec3> <rotation: rotation>"
+  ],
+  "removed": [
     "teleport <destination>",
     "teleport <location>",
     "teleport <targets> <destination>",

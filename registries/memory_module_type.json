@@ -1,7 +1,7 @@
 {
   "added": [
-    "minecraft:golem_detected_recently",
-    "minecraft:nearby_adult_piglins"
+    "minecraft:disable_walk_to_admire_item",
+    "minecraft:time_trying_to_reach_admire_item"
   ],
   "common": [
     "minecraft:admiring_disabled",
@@ -16,6 +16,7 @@
     "minecraft:celebrate_location",
     "minecraft:dancing",
     "minecraft:dummy",
+    "minecraft:golem_detected_recently",
     "minecraft:heard_bell_time",
     "minecraft:hiding_place",
     "minecraft:home",
@@ -31,6 +32,7 @@
     "minecraft:look_target",
     "minecraft:meeting_point",
     "minecraft:mobs",
+    "minecraft:nearby_adult_piglins",
     "minecraft:nearest_bed",
     "minecraft:nearest_hostile",
     "minecraft:nearest_player_holding_wanted_item",
@@ -60,10 +62,5 @@
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
     "minecraft:walk_target"
-  ],
-  "removed": [
-    "minecraft:golem_last_seen_time",
-    "minecraft:nearest_adult_piglins",
-    "minecraft:nearest_visible_baby_piglin"
   ]
 }

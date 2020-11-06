@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:piglin_brute"
-  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
@@ -66,6 +63,7 @@
     "minecraft:phantom",
     "minecraft:pig",
     "minecraft:piglin",
+    "minecraft:piglin_brute",
     "minecraft:pillager",
     "minecraft:player",
     "minecraft:polar_bear",

@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "say <message: message>"
+  ],
+  "removed": [
     "say <message>"
   ]
 }

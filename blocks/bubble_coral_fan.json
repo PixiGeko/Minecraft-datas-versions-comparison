@@ -1,16 +1,8 @@
 {
-  "added": [
-    {
-      "facing": "north"
-    },
-    {
-      "facing": "east"
-    },
-    {
-      "facing": "south"
-    },
-    {
-      "facing": "west"
-    }
+  "common": [
+    "bubble_coral_fan[facing=north]",
+    "bubble_coral_fan[facing=east]",
+    "bubble_coral_fan[facing=south]",
+    "bubble_coral_fan[facing=west]"
   ]
 }

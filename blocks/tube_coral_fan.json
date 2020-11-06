@@ -1,16 +1,8 @@
 {
-  "added": [
-    {
-      "facing": "north"
-    },
-    {
-      "facing": "east"
-    },
-    {
-      "facing": "south"
-    },
-    {
-      "facing": "west"
-    }
+  "common": [
+    "tube_coral_fan[facing=north]",
+    "tube_coral_fan[facing=east]",
+    "tube_coral_fan[facing=south]",
+    "tube_coral_fan[facing=west]"
   ]
 }

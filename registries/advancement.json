@@ -1,10 +1,4 @@
 {
-  "added": [
-    "minecraft:recipes/building_blocks/blue_ice",
-    "minecraft:recipes/misc/cactus_green",
-    "minecraft:recipes/misc/conduit",
-    "minecraft:recipes/misc/lime_dye_from_smelting"
-  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/kill_all_mobs",
@@ -71,6 +65,7 @@
     "minecraft:recipes/building_blocks/black_terracotta",
     "minecraft:recipes/building_blocks/black_wool",
     "minecraft:recipes/building_blocks/blue_concrete_powder",
+    "minecraft:recipes/building_blocks/blue_ice",
     "minecraft:recipes/building_blocks/blue_stained_glass",
     "minecraft:recipes/building_blocks/blue_terracotta",
     "minecraft:recipes/building_blocks/blue_wool",
@@ -397,10 +392,12 @@
     "minecraft:recipes/misc/bowl",
     "minecraft:recipes/misc/brick",
     "minecraft:recipes/misc/bucket",
+    "minecraft:recipes/misc/cactus_green",
     "minecraft:recipes/misc/charcoal",
     "minecraft:recipes/misc/chorus_fruit_popped",
     "minecraft:recipes/misc/coal",
     "minecraft:recipes/misc/coal_from_smelting",
+    "minecraft:recipes/misc/conduit",
     "minecraft:recipes/misc/cyan_dye",
     "minecraft:recipes/misc/diamond",
     "minecraft:recipes/misc/diamond_from_smelting",
@@ -430,6 +427,7 @@
     "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy",
     "minecraft:recipes/misc/light_gray_dye_from_white_tulip",
     "minecraft:recipes/misc/lime_dye",
+    "minecraft:recipes/misc/lime_dye_from_smelting",
     "minecraft:recipes/misc/magenta_dye_from_allium",
     "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal",
     "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink",

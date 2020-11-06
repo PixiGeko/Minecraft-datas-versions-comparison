@@ -1,9 +1,3 @@
 {
-  "files": {
-    "registries": {
-      "changed": [
-        "memory_module_type"
-      ]
-    }
-  }
+  "files": {}
 }

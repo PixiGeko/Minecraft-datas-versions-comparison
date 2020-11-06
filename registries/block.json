@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:cut_red_sandstone_slab",
-    "minecraft:cut_sandstone_slab"
-  ],
   "common": [
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -147,7 +143,9 @@
     "minecraft:creeper_head",
     "minecraft:creeper_wall_head",
     "minecraft:cut_red_sandstone",
+    "minecraft:cut_red_sandstone_slab",
     "minecraft:cut_sandstone",
+    "minecraft:cut_sandstone_slab",
     "minecraft:cyan_banner",
     "minecraft:cyan_bed",
     "minecraft:cyan_carpet",

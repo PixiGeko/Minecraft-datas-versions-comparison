@@ -1,3 +1,18 @@
 {
-  "files": {}
+  "files": {
+    "commands": {
+      "added": [
+        "bossbar"
+      ],
+      "changed": [
+        "execute",
+        "setidletimeout"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "command"
+      ]
+    }
+  }
 }

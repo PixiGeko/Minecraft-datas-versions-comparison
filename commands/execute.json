@@ -1,4 +1,10 @@
 {
+  "added": [
+    "execute store result bossbar <id> max",
+    "execute store result bossbar <id> value",
+    "execute store success bossbar <id> max",
+    "execute store success bossbar <id> value"
+  ],
   "common": [
     "execute align <axes>",
     "execute anchored <anchor>",

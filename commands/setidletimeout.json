@@ -1,5 +1,8 @@
 {
-  "common": [
+  "added": [
+    "setidletimeout <minutes>"
+  ],
+  "removed": [
     "setidletimeout <seconds>"
   ]
 }

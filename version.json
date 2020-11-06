@@ -1,11 +1,12 @@
 {
   "files": {
     "registries": {
-      "added": [
-        "type"
-      ],
       "changed": [
-        "tag"
+        "advancement",
+        "custom_stat"
+      ],
+      "removed": [
+        "type"
       ]
     }
   }

@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:bell_ring",
+    "minecraft:interact_with_cartography_table",
+    "minecraft:interact_with_loom",
+    "minecraft:interact_with_stonecutter",
+    "minecraft:raid_trigger",
+    "minecraft:raid_win"
+  ],
   "common": [
     "minecraft:animals_bred",
     "minecraft:aviate_one_cm",

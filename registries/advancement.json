@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:adventure/hero_of_the_village",
+    "minecraft:adventure/voluntary_exile"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",

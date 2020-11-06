@@ -1,8 +1,6 @@
 {
-  "added": [
-    "debug report"
-  ],
   "common": [
+    "debug report",
     "debug start",
     "debug stop"
   ]

@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:lantern"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -299,6 +296,7 @@
     "minecraft:jungle_trapdoor",
     "minecraft:jungle_wood",
     "minecraft:ladder",
+    "minecraft:lantern",
     "minecraft:lapis_block",
     "minecraft:lapis_from_smelting",
     "minecraft:lapis_lazuli",

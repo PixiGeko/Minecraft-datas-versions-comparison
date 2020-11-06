@@ -1,22 +1,13 @@
 {
   "files": {
-    "blocks": {
-      "added": [
-        "jigsaw",
-        "lantern"
-      ],
+    "commands": {
       "changed": [
-        "scaffolding"
+        "locate"
       ]
     },
     "registries": {
       "changed": [
-        "advancement",
-        "block",
-        "item",
-        "loot_table",
-        "recipe",
-        "tag"
+        "loot_table"
       ]
     }
   }

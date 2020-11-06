@@ -1,22 +1,10 @@
 {
-  "added": [
-    {
-      "facing": "north"
-    },
-    {
-      "facing": "east"
-    },
-    {
-      "facing": "south"
-    },
-    {
-      "facing": "west"
-    },
-    {
-      "facing": "up"
-    },
-    {
-      "facing": "down"
-    }
+  "common": [
+    "jigsaw[facing=north]",
+    "jigsaw[facing=east]",
+    "jigsaw[facing=south]",
+    "jigsaw[facing=west]",
+    "jigsaw[facing=up]",
+    "jigsaw[facing=down]"
   ]
 }

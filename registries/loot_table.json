@@ -1,9 +1,6 @@
 {
   "added": [
-    "minecraft:blocks/lantern",
-    "minecraft:entities/illusioner",
-    "minecraft:entities/mooshroom",
-    "minecraft:entities/pillager"
+    "minecraft:chests/pillager_outpost"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -285,6 +282,7 @@
     "minecraft:blocks/kelp",
     "minecraft:blocks/kelp_plant",
     "minecraft:blocks/ladder",
+    "minecraft:blocks/lantern",
     "minecraft:blocks/lapis_block",
     "minecraft:blocks/lapis_ore",
     "minecraft:blocks/large_fern",
@@ -659,15 +657,18 @@
     "minecraft:entities/horse",
     "minecraft:entities/husk",
     "minecraft:entities/illager_beast",
+    "minecraft:entities/illusioner",
     "minecraft:entities/iron_golem",
     "minecraft:entities/llama",
     "minecraft:entities/magma_cube",
+    "minecraft:entities/mooshroom",
     "minecraft:entities/mule",
     "minecraft:entities/ocelot",
     "minecraft:entities/panda",
     "minecraft:entities/parrot",
     "minecraft:entities/phantom",
     "minecraft:entities/pig",
+    "minecraft:entities/pillager",
     "minecraft:entities/player",
     "minecraft:entities/polar_bear",
     "minecraft:entities/pufferfish",
@@ -716,8 +717,5 @@
     "minecraft:gameplay/fishing/junk",
     "minecraft:gameplay/fishing/treasure",
     "minecraft:gameplay/fishing"
-  ],
-  "removed": [
-    "minecraft:entities/mushroom_cow"
   ]
 }

@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "hanging": true
-    },
-    {
-      "hanging": false
-    }
+  "common": [
+    "lantern[hanging=true]",
+    "lantern[hanging=false]"
   ]
 }

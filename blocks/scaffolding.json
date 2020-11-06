@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "scaffolding[bottom=true,distance=0,waterlogged=true]",
     "scaffolding[bottom=true,distance=0,waterlogged=false]",
     "scaffolding[bottom=true,distance=1,waterlogged=true]",
@@ -32,19 +32,5 @@
     "scaffolding[bottom=false,distance=6,waterlogged=false]",
     "scaffolding[bottom=false,distance=7,waterlogged=true]",
     "scaffolding[bottom=false,distance=7,waterlogged=false]"
-  ],
-  "removed": [
-    "scaffolding[distance=0,waterlogged=true]",
-    "scaffolding[distance=0,waterlogged=false]",
-    "scaffolding[distance=1,waterlogged=true]",
-    "scaffolding[distance=1,waterlogged=false]",
-    "scaffolding[distance=2,waterlogged=true]",
-    "scaffolding[distance=2,waterlogged=false]",
-    "scaffolding[distance=3,waterlogged=true]",
-    "scaffolding[distance=3,waterlogged=false]",
-    "scaffolding[distance=4,waterlogged=true]",
-    "scaffolding[distance=4,waterlogged=false]",
-    "scaffolding[distance=5,waterlogged=true]",
-    "scaffolding[distance=5,waterlogged=false]"
   ]
 }

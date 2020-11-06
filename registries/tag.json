@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:blocks/mushroom_grow_block"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:doors_to_close"
+  ],
   "common": [
     "minecraft:admiring_disabled",
     "minecraft:admiring_item",
@@ -47,7 +50,6 @@
     "minecraft:nearest_visible_targetable_player",
     "minecraft:nearest_visible_wanted_item",
     "minecraft:nearest_visible_zombified",
-    "minecraft:opened_doors",
     "minecraft:pacified",
     "minecraft:path",
     "minecraft:potential_job_site",
@@ -60,5 +62,8 @@
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
     "minecraft:walk_target"
+  ],
+  "removed": [
+    "minecraft:opened_doors"
   ]
 }

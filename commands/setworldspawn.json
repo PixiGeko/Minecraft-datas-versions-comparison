@@ -1,8 +1,8 @@
 {
   "added": [
-    "setworldspawn <pos: block_pos> <angle>"
+    "setworldspawn <pos: block_pos> <angle: angle>"
   ],
   "removed": [
-    "setworldspawn <pos: block_pos>"
+    "setworldspawn <pos: block_pos> <angle>"
   ]
 }

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:angle"
+  ],
   "common": [
     "brigadier:bool",
     "brigadier:double",

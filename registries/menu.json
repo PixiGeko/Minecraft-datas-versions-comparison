@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:stonecutter"
-  ],
   "common": [
     "minecraft:anvil",
     "minecraft:beacon",
@@ -20,6 +17,7 @@
     "minecraft:loom",
     "minecraft:merchant",
     "minecraft:shulker_box",
-    "minecraft:smoker"
+    "minecraft:smoker",
+    "minecraft:stonecutter"
   ]
 }

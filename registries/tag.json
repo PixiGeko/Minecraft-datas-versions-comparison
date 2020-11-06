@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:blocks/dragon_immune",
+    "minecraft:blocks/wither_immune"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

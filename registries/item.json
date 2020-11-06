@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:ravager_spawn_egg",
+    "minecraft:trader_llama_spawn_egg",
+    "minecraft:wandering_trader_spawn_egg"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -379,7 +384,6 @@
     "minecraft:horse_spawn_egg",
     "minecraft:husk_spawn_egg",
     "minecraft:ice",
-    "minecraft:illager_beast_spawn_egg",
     "minecraft:infested_chiseled_stone_bricks",
     "minecraft:infested_cobblestone",
     "minecraft:infested_cracked_stone_bricks",
@@ -870,5 +874,8 @@
     "minecraft:zombie_pigman_spawn_egg",
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg"
+  ],
+  "removed": [
+    "minecraft:illager_beast_spawn_egg"
   ]
 }

@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:ravager",
+    "minecraft:trader_llama",
+    "minecraft:wandering_trader"
+  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
@@ -41,7 +46,6 @@
     "minecraft:hopper_minecart",
     "minecraft:horse",
     "minecraft:husk",
-    "minecraft:illager_beast",
     "minecraft:illusioner",
     "minecraft:iron_golem",
     "minecraft:item",
@@ -99,5 +103,8 @@
     "minecraft:zombie_horse",
     "minecraft:zombie_pigman",
     "minecraft:zombie_villager"
+  ],
+  "removed": [
+    "minecraft:illager_beast"
   ]
 }

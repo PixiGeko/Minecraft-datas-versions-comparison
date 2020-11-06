@@ -1,18 +1,15 @@
 {
   "files": {
-    "blocks": {
-      "changed": [
-        "stonecutter"
-      ]
-    },
     "registries": {
       "changed": [
         "advancement",
-        "menu",
+        "entity_type",
+        "item",
+        "loot_table",
+        "particle_type",
         "recipe",
-        "recipe_serializer",
-        "recipe_type",
-        "sound_event"
+        "sound_event",
+        "tag"
       ]
     }
   }

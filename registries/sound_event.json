@@ -1,7 +1,23 @@
 {
   "added": [
-    "minecraft:ui.stonecutter.select_recipe",
-    "minecraft:ui.stonecutter.take_result"
+    "minecraft:block.lantern.break",
+    "minecraft:block.lantern.fall",
+    "minecraft:block.lantern.hit",
+    "minecraft:block.lantern.place",
+    "minecraft:block.lantern.step",
+    "minecraft:entity.ravager.ambient",
+    "minecraft:entity.ravager.attack",
+    "minecraft:entity.ravager.death",
+    "minecraft:entity.ravager.hurt",
+    "minecraft:entity.ravager.roar",
+    "minecraft:entity.ravager.step",
+    "minecraft:entity.ravager.stunned",
+    "minecraft:entity.wandering_trader.ambient",
+    "minecraft:entity.wandering_trader.death",
+    "minecraft:entity.wandering_trader.hurt",
+    "minecraft:entity.wandering_trader.no",
+    "minecraft:entity.wandering_trader.trade",
+    "minecraft:entity.wandering_trader.yes"
   ],
   "common": [
     "minecraft:ambient.cave",
@@ -365,13 +381,6 @@
     "minecraft:entity.husk.death",
     "minecraft:entity.husk.hurt",
     "minecraft:entity.husk.step",
-    "minecraft:entity.illager_beast.ambient",
-    "minecraft:entity.illager_beast.attack",
-    "minecraft:entity.illager_beast.death",
-    "minecraft:entity.illager_beast.hurt",
-    "minecraft:entity.illager_beast.roar",
-    "minecraft:entity.illager_beast.step",
-    "minecraft:entity.illager_beast.stunned",
     "minecraft:entity.illusioner.ambient",
     "minecraft:entity.illusioner.cast_spell",
     "minecraft:entity.illusioner.death",
@@ -734,10 +743,21 @@
     "minecraft:ui.cartography_table.take_result",
     "minecraft:ui.loom.select_pattern",
     "minecraft:ui.loom.take_result",
+    "minecraft:ui.stonecutter.select_recipe",
+    "minecraft:ui.stonecutter.take_result",
     "minecraft:ui.toast.challenge_complete",
     "minecraft:ui.toast.in",
     "minecraft:ui.toast.out",
     "minecraft:weather.rain",
     "minecraft:weather.rain.above"
+  ],
+  "removed": [
+    "minecraft:entity.illager_beast.ambient",
+    "minecraft:entity.illager_beast.attack",
+    "minecraft:entity.illager_beast.death",
+    "minecraft:entity.illager_beast.hurt",
+    "minecraft:entity.illager_beast.roar",
+    "minecraft:entity.illager_beast.step",
+    "minecraft:entity.illager_beast.stunned"
   ]
 }

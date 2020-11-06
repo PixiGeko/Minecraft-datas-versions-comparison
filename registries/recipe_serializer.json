@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:stonecutting"
-  ],
   "common": [
     "minecraft:blasting",
     "minecraft:campfire_cooking",
@@ -20,6 +17,7 @@
     "minecraft:crafting_special_suspiciousstew",
     "minecraft:crafting_special_tippedarrow",
     "minecraft:smelting",
-    "minecraft:smoking"
+    "minecraft:smoking",
+    "minecraft:stonecutting"
   ]
 }

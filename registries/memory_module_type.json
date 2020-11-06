@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:nearest_adult_piglins"
+  ],
   "common": [
     "minecraft:admiring_disabled",
     "minecraft:admiring_item",

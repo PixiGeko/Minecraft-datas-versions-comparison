@@ -1,19 +1,9 @@
 {
-  "added": [
-    {
-      "charges": 0
-    },
-    {
-      "charges": 1
-    },
-    {
-      "charges": 2
-    },
-    {
-      "charges": 3
-    },
-    {
-      "charges": 4
-    }
+  "common": [
+    "respawn_anchor[charges=0]",
+    "respawn_anchor[charges=1]",
+    "respawn_anchor[charges=2]",
+    "respawn_anchor[charges=3]",
+    "respawn_anchor[charges=4]"
   ]
 }

@@ -1,7 +1,8 @@
 {
   "added": [
-    "minecraft:recipes/building_blocks/polished_basalt",
-    "minecraft:recipes/decorations/respawn_anchor"
+    "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting",
+    "minecraft:recipes/decorations/lodestone",
+    "minecraft:recipes/transportation/warped_fungus_on_a_stick"
   ],
   "common": [
     "minecraft:adventure/adventuring_time",
@@ -239,6 +240,7 @@
     "minecraft:recipes/building_blocks/polished_andesite_stairs",
     "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting",
     "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting",
+    "minecraft:recipes/building_blocks/polished_basalt",
     "minecraft:recipes/building_blocks/polished_diorite",
     "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting",
     "minecraft:recipes/building_blocks/polished_diorite_slab",
@@ -566,6 +568,7 @@
     "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting",
     "minecraft:recipes/decorations/red_stained_glass_pane",
     "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane",
+    "minecraft:recipes/decorations/respawn_anchor",
     "minecraft:recipes/decorations/sandstone_wall",
     "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting",
     "minecraft:recipes/decorations/scaffolding",

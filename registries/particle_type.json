@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:reverse_portal"
-  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
@@ -61,6 +58,7 @@
     "minecraft:poof",
     "minecraft:portal",
     "minecraft:rain",
+    "minecraft:reverse_portal",
     "minecraft:smoke",
     "minecraft:sneeze",
     "minecraft:soul",

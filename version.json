@@ -2,17 +2,24 @@
   "files": {
     "blocks": {
       "added": [
-        "polished_basalt",
-        "respawn_anchor"
+        "lodestone"
+      ],
+      "changed": [
+        "jigsaw"
       ]
     },
     "registries": {
+      "added": [
+        "pos_rule_test"
+      ],
       "changed": [
         "advancement",
         "block",
+        "entity_type",
         "item",
         "loot_table",
-        "particle_type",
+        "memory_module_type",
+        "point_of_interest_type",
         "recipe",
         "sound_event",
         "tag"

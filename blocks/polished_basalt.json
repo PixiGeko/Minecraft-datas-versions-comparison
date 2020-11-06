@@ -1,13 +1,7 @@
 {
-  "added": [
-    {
-      "axis": "x"
-    },
-    {
-      "axis": "y"
-    },
-    {
-      "axis": "z"
-    }
+  "common": [
+    "polished_basalt[axis=x]",
+    "polished_basalt[axis=y]",
+    "polished_basalt[axis=z]"
   ]
 }

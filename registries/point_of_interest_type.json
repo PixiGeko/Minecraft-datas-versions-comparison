@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:lodestone"
+  ],
   "common": [
     "minecraft:armorer",
     "minecraft:bee_nest",

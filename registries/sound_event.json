@@ -1,9 +1,19 @@
 {
   "added": [
-    "minecraft:block.respawn_anchor.ambient",
-    "minecraft:block.respawn_anchor.charge",
-    "minecraft:block.respawn_anchor.deplete",
-    "minecraft:block.respawn_anchor.set_spawn"
+    "minecraft:block.lodestone.break",
+    "minecraft:block.lodestone.fall",
+    "minecraft:block.lodestone.hit",
+    "minecraft:block.lodestone.place",
+    "minecraft:block.lodestone.step",
+    "minecraft:entity.strider.ambient",
+    "minecraft:entity.strider.death",
+    "minecraft:entity.strider.eat",
+    "minecraft:entity.strider.happy",
+    "minecraft:entity.strider.hurt",
+    "minecraft:entity.strider.retreat",
+    "minecraft:entity.strider.step",
+    "minecraft:entity.strider.step_lava",
+    "minecraft:item.lodestone_compass.lock"
   ],
   "common": [
     "minecraft:ambient.cave",
@@ -219,6 +229,10 @@
     "minecraft:block.portal.trigger",
     "minecraft:block.pumpkin.carve",
     "minecraft:block.redstone_torch.burnout",
+    "minecraft:block.respawn_anchor.ambient",
+    "minecraft:block.respawn_anchor.charge",
+    "minecraft:block.respawn_anchor.deplete",
+    "minecraft:block.respawn_anchor.set_spawn",
     "minecraft:block.roots.break",
     "minecraft:block.roots.fall",
     "minecraft:block.roots.hit",

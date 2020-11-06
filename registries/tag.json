@@ -1,6 +1,10 @@
 {
   "added": [
-    "minecraft:blocks/soul_fire_base_blocks"
+    "minecraft:blocks/logs_that_burn",
+    "minecraft:blocks/non_flammable_wood",
+    "minecraft:blocks/strider_warm_blocks",
+    "minecraft:items/logs_that_burn",
+    "minecraft:items/non_flammable_wood"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -47,6 +51,7 @@
     "minecraft:blocks/signs",
     "minecraft:blocks/slabs",
     "minecraft:blocks/small_flowers",
+    "minecraft:blocks/soul_fire_base_blocks",
     "minecraft:blocks/soul_speed_blocks",
     "minecraft:blocks/spruce_logs",
     "minecraft:blocks/stairs",

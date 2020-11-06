@@ -1,7 +1,6 @@
 {
   "added": [
-    "minecraft:polished_basalt",
-    "minecraft:respawn_anchor"
+    "minecraft:lodestone"
   ],
   "common": [
     "minecraft:acacia_button",
@@ -486,6 +485,7 @@
     "minecraft:polished_andesite",
     "minecraft:polished_andesite_slab",
     "minecraft:polished_andesite_stairs",
+    "minecraft:polished_basalt",
     "minecraft:polished_diorite",
     "minecraft:polished_diorite_slab",
     "minecraft:polished_diorite_stairs",
@@ -586,6 +586,7 @@
     "minecraft:redstone_wire",
     "minecraft:repeater",
     "minecraft:repeating_command_block",
+    "minecraft:respawn_anchor",
     "minecraft:rose_bush",
     "minecraft:sand",
     "minecraft:sandstone",

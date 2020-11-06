@@ -1,4 +1,7 @@
 {
+  "added": [
+    "scoreboard objectives modify <objective> displayname <displayName>"
+  ],
   "common": [
     "scoreboard objectives add <objective> <criteria> <displayName>",
     "scoreboard objectives list",

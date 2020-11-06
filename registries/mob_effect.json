@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:hero_of_the_village"
-  ],
   "common": [
     "minecraft:absorption",
     "minecraft:bad_omen",
@@ -12,6 +9,7 @@
     "minecraft:glowing",
     "minecraft:haste",
     "minecraft:health_boost",
+    "minecraft:hero_of_the_village",
     "minecraft:hunger",
     "minecraft:instant_damage",
     "minecraft:instant_health",

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:chiseled_stone_bricks_from_stone_bricks_stonecutting"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

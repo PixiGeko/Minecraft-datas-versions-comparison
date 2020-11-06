@@ -1,15 +1,13 @@
 {
-  "added": [
-    "minecraft:hide",
-    "minecraft:pre_raid",
-    "minecraft:raid"
-  ],
   "common": [
     "minecraft:core",
+    "minecraft:hide",
     "minecraft:idle",
     "minecraft:meet",
     "minecraft:panic",
     "minecraft:play",
+    "minecraft:pre_raid",
+    "minecraft:raid",
     "minecraft:rest",
     "minecraft:work"
   ]

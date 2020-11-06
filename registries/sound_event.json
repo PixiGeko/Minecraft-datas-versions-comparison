@@ -1,11 +1,6 @@
 {
   "added": [
-    "minecraft:entity.evoker.celebrate",
-    "minecraft:entity.pillager.celebrate",
-    "minecraft:entity.ravager.celebrate",
-    "minecraft:entity.villager.celebrate",
-    "minecraft:entity.vindicator.celebrate",
-    "minecraft:entity.witch.celebrate"
+    "minecraft:block.bell.resonate"
   ],
   "common": [
     "minecraft:ambient.cave",
@@ -310,6 +305,7 @@
     "minecraft:entity.endermite.step",
     "minecraft:entity.evoker.ambient",
     "minecraft:entity.evoker.cast_spell",
+    "minecraft:entity.evoker.celebrate",
     "minecraft:entity.evoker.death",
     "minecraft:entity.evoker.hurt",
     "minecraft:entity.evoker.prepare_attack",
@@ -506,6 +502,7 @@
     "minecraft:entity.pig.saddle",
     "minecraft:entity.pig.step",
     "minecraft:entity.pillager.ambient",
+    "minecraft:entity.pillager.celebrate",
     "minecraft:entity.pillager.death",
     "minecraft:entity.pillager.hurt",
     "minecraft:entity.player.attack.crit",
@@ -547,6 +544,7 @@
     "minecraft:entity.rabbit.jump",
     "minecraft:entity.ravager.ambient",
     "minecraft:entity.ravager.attack",
+    "minecraft:entity.ravager.celebrate",
     "minecraft:entity.ravager.death",
     "minecraft:entity.ravager.hurt",
     "minecraft:entity.ravager.roar",
@@ -638,6 +636,7 @@
     "minecraft:entity.vex.death",
     "minecraft:entity.vex.hurt",
     "minecraft:entity.villager.ambient",
+    "minecraft:entity.villager.celebrate",
     "minecraft:entity.villager.death",
     "minecraft:entity.villager.hurt",
     "minecraft:entity.villager.no",
@@ -657,6 +656,7 @@
     "minecraft:entity.villager.work_weaponsmith",
     "minecraft:entity.villager.yes",
     "minecraft:entity.vindicator.ambient",
+    "minecraft:entity.vindicator.celebrate",
     "minecraft:entity.vindicator.death",
     "minecraft:entity.vindicator.hurt",
     "minecraft:entity.wandering_trader.ambient",
@@ -670,6 +670,7 @@
     "minecraft:entity.wandering_trader.trade",
     "minecraft:entity.wandering_trader.yes",
     "minecraft:entity.witch.ambient",
+    "minecraft:entity.witch.celebrate",
     "minecraft:entity.witch.death",
     "minecraft:entity.witch.drink",
     "minecraft:entity.witch.hurt",

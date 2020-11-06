@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:flash"
-  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
@@ -34,6 +31,7 @@
     "minecraft:firework",
     "minecraft:fishing",
     "minecraft:flame",
+    "minecraft:flash",
     "minecraft:happy_villager",
     "minecraft:heart",
     "minecraft:instant_effect",

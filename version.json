@@ -1,8 +1,16 @@
 {
   "files": {
+    "blocks": {
+      "changed": [
+        "barrel"
+      ]
+    },
     "registries": {
       "changed": [
-        "particle_type"
+        "entity_type",
+        "item",
+        "loot_table",
+        "sound_event"
       ]
     }
   }

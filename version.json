@@ -1,11 +1,3 @@
 {
-  "files": {
-    "commands": {
-      "changed": [
-        "data",
-        "execute",
-        "schedule"
-      ]
-    }
-  }
+  "files": {}
 }

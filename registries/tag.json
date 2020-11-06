@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:items/piglin_loved"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -116,6 +113,7 @@
     "minecraft:items/music_discs",
     "minecraft:items/non_flammable_wood",
     "minecraft:items/oak_logs",
+    "minecraft:items/piglin_loved",
     "minecraft:items/piglin_repellents",
     "minecraft:items/planks",
     "minecraft:items/rails",

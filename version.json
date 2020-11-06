@@ -1,13 +1,3 @@
 {
-  "files": {
-    "registries": {
-      "changed": [
-        "advancement",
-        "tag"
-      ],
-      "removed": [
-        "chunk_generator_type"
-      ]
-    }
-  }
+  "files": {}
 }

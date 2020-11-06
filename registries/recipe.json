@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:fletching_table",
+    "minecraft:smithing_table"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

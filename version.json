@@ -1,13 +1,18 @@
 {
   "files": {
-    "blocks": {
-      "changed": [
-        "note_block"
-      ]
-    },
     "registries": {
+      "added": [
+        "activity",
+        "memory_module_type",
+        "point_of_interest_type",
+        "schedule",
+        "sensor_type"
+      ],
       "changed": [
-        "particle_type",
+        "advancement",
+        "item",
+        "menu",
+        "recipe",
         "sound_event",
         "tag"
       ]

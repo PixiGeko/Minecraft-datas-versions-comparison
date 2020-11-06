@@ -1,9 +1,4 @@
 {
-  "added": [
-    "minecraft:falling_lava",
-    "minecraft:falling_water",
-    "minecraft:landing_lava"
-  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
@@ -33,6 +28,8 @@
     "minecraft:explosion",
     "minecraft:explosion_emitter",
     "minecraft:falling_dust",
+    "minecraft:falling_lava",
+    "minecraft:falling_water",
     "minecraft:firework",
     "minecraft:fishing",
     "minecraft:flame",
@@ -43,6 +40,7 @@
     "minecraft:item",
     "minecraft:item_slime",
     "minecraft:item_snowball",
+    "minecraft:landing_lava",
     "minecraft:large_smoke",
     "minecraft:lava",
     "minecraft:mycelium",

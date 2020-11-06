@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:globe_banner_pattern"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

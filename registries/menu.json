@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:generic_9x1",
+    "minecraft:generic_9x2",
+    "minecraft:generic_9x4",
+    "minecraft:generic_9x5"
+  ],
   "common": [
     "minecraft:anvil",
     "minecraft:beacon",

@@ -1,13 +1,4 @@
 {
-  "added": [
-    "minecraft:acacia_wood",
-    "minecraft:birch_wood",
-    "minecraft:dark_oak_wood",
-    "minecraft:jungle_wood",
-    "minecraft:oak_wood",
-    "minecraft:popped_chorus_fruit",
-    "minecraft:spruce_wood"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -19,6 +10,7 @@
     "minecraft:acacia_slab",
     "minecraft:acacia_stairs",
     "minecraft:acacia_trapdoor",
+    "minecraft:acacia_wood",
     "minecraft:activator_rail",
     "minecraft:andesite",
     "minecraft:anvil",
@@ -40,6 +32,7 @@
     "minecraft:birch_slab",
     "minecraft:birch_stairs",
     "minecraft:birch_trapdoor",
+    "minecraft:birch_wood",
     "minecraft:black_banner",
     "minecraft:black_bed",
     "minecraft:black_bed_from_white_bed",
@@ -143,6 +136,7 @@
     "minecraft:dark_oak_slab",
     "minecraft:dark_oak_stairs",
     "minecraft:dark_oak_trapdoor",
+    "minecraft:dark_oak_wood",
     "minecraft:dark_prismarine",
     "minecraft:dark_prismarine_slab",
     "minecraft:dark_prismarine_stairs",
@@ -264,6 +258,7 @@
     "minecraft:jungle_slab",
     "minecraft:jungle_stairs",
     "minecraft:jungle_trapdoor",
+    "minecraft:jungle_wood",
     "minecraft:ladder",
     "minecraft:lapis_block",
     "minecraft:lapis_from_smelting",
@@ -359,6 +354,7 @@
     "minecraft:oak_slab",
     "minecraft:oak_stairs",
     "minecraft:oak_trapdoor",
+    "minecraft:oak_wood",
     "minecraft:observer",
     "minecraft:orange_banner",
     "minecraft:orange_bed",
@@ -392,6 +388,7 @@
     "minecraft:polished_andesite",
     "minecraft:polished_diorite",
     "minecraft:polished_granite",
+    "minecraft:popped_chorus_fruit",
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_bricks",
@@ -475,6 +472,7 @@
     "minecraft:spruce_slab",
     "minecraft:spruce_stairs",
     "minecraft:spruce_trapdoor",
+    "minecraft:spruce_wood",
     "minecraft:stick",
     "minecraft:sticky_piston",
     "minecraft:stone",
@@ -526,14 +524,5 @@
     "minecraft:yellow_stained_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
-  ],
-  "removed": [
-    "minecraft:acacia_bark",
-    "minecraft:birch_bark",
-    "minecraft:chorus_fruit_popped",
-    "minecraft:dark_oak_bark",
-    "minecraft:jungle_bark",
-    "minecraft:oak_bark",
-    "minecraft:spruce_bark"
   ]
 }

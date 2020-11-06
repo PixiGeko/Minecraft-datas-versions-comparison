@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "axis": "x"
-    },
-    {
-      "axis": "z"
-    }
+  "common": [
+    "nether_portal[axis=x]",
+    "nether_portal[axis=z]"
   ]
 }

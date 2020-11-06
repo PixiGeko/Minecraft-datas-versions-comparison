@@ -1,14 +1,3 @@
 {
-  "files": {
-    "blocks": {
-      "changed": [
-        "chain"
-      ]
-    },
-    "registries": {
-      "added": [
-        "biome"
-      ]
-    }
-  }
+  "files": {}
 }

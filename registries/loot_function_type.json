@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:apply_bonus",
     "minecraft:copy_name",
     "minecraft:copy_nbt",

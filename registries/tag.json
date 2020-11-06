@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/fence_gates",
-    "minecraft:blocks/unstable_bottom_center"
-  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -27,6 +23,7 @@
     "minecraft:blocks/dragon_immune",
     "minecraft:blocks/enderman_holdable",
     "minecraft:blocks/fences",
+    "minecraft:blocks/fence_gates",
     "minecraft:blocks/fire",
     "minecraft:blocks/flowers",
     "minecraft:blocks/flower_pots",
@@ -65,6 +62,7 @@
     "minecraft:blocks/tall_flowers",
     "minecraft:blocks/trapdoors",
     "minecraft:blocks/underwater_bonemeals",
+    "minecraft:blocks/unstable_bottom_center",
     "minecraft:blocks/valid_spawn",
     "minecraft:blocks/walls",
     "minecraft:blocks/wall_corals",

@@ -1,4 +1,15 @@
 {
+  "added": [
+    "minecraft:netherite_axe_smithing",
+    "minecraft:netherite_boots_smithing",
+    "minecraft:netherite_chestplate_smithing",
+    "minecraft:netherite_helmet_smithing",
+    "minecraft:netherite_hoe_smithing",
+    "minecraft:netherite_leggings_smithing",
+    "minecraft:netherite_pickaxe_smithing",
+    "minecraft:netherite_shovel_smithing",
+    "minecraft:netherite_sword_smithing"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

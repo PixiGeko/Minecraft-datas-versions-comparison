@@ -1,4 +1,8 @@
 {
+  "added": [
+    "gamerule forgiveDeadPlayers <value>",
+    "gamerule universalAnger <value>"
+  ],
   "common": [
     "gamerule announceAdvancements <value>",
     "gamerule commandBlockOutput <value>",

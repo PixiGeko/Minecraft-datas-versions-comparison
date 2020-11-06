@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:nearest_adult"
+  ],
   "common": [
     "minecraft:dummy",
     "minecraft:golem_last_seen",

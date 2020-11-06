@@ -1,14 +1,18 @@
 {
   "files": {
-    "registries": {
-      "added": [
-        "loot_condition_type",
-        "loot_function_type",
-        "loot_pool_entry_type"
-      ],
+    "commands": {
       "changed": [
+        "gamerule"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
         "memory_module_type",
-        "tag"
+        "recipe",
+        "recipe_serializer",
+        "recipe_type",
+        "sensor_type"
       ]
     }
   }

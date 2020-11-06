@@ -1,7 +1,8 @@
 {
   "added": [
-    "minecraft:dancing",
-    "minecraft:potential_job_site"
+    "minecraft:nearest_visible_adult",
+    "minecraft:nearest_visible_nemesis",
+    "minecraft:universal_anger"
   ],
   "common": [
     "minecraft:admiring_disabled",
@@ -14,6 +15,7 @@
     "minecraft:breed_target",
     "minecraft:cant_reach_walk_target_since",
     "minecraft:celebrate_location",
+    "minecraft:dancing",
     "minecraft:dummy",
     "minecraft:golem_last_seen_time",
     "minecraft:heard_bell_time",
@@ -47,11 +49,11 @@
     "minecraft:nearest_visible_player",
     "minecraft:nearest_visible_targetable_player",
     "minecraft:nearest_visible_wanted_item",
-    "minecraft:nearest_visible_wither_skeleton",
     "minecraft:nearest_visible_zombified",
     "minecraft:opened_doors",
     "minecraft:pacified",
     "minecraft:path",
+    "minecraft:potential_job_site",
     "minecraft:ride_target",
     "minecraft:secondary_job_site",
     "minecraft:visible_adult_hoglin_count",
@@ -59,5 +61,8 @@
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
     "minecraft:walk_target"
+  ],
+  "removed": [
+    "minecraft:nearest_visible_wither_skeleton"
   ]
 }

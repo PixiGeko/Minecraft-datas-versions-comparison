@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:powder_snow_bucket"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -722,7 +725,6 @@
     "minecraft:porkchop",
     "minecraft:potato",
     "minecraft:potion",
-    "minecraft:powder_snow_bucket",
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_brick_slab",

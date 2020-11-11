@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:snowflake"
+  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
@@ -62,7 +65,6 @@
     "minecraft:small_flame",
     "minecraft:smoke",
     "minecraft:sneeze",
-    "minecraft:snowflake",
     "minecraft:soul",
     "minecraft:soul_fire_flame",
     "minecraft:spit",

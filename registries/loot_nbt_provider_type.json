@@ -1,0 +1,6 @@
+{
+  "common": [
+    "minecraft:context",
+    "minecraft:storage"
+  ]
+}

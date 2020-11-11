@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:small_flame"
-  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
@@ -62,8 +59,10 @@
     "minecraft:portal",
     "minecraft:rain",
     "minecraft:reverse_portal",
+    "minecraft:small_flame",
     "minecraft:smoke",
     "minecraft:sneeze",
+    "minecraft:snowflake",
     "minecraft:soul",
     "minecraft:soul_fire_flame",
     "minecraft:spit",

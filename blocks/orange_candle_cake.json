@@ -1,10 +1,6 @@
 {
-  "added": [
-    {
-      "lit": true
-    },
-    {
-      "lit": false
-    }
+  "common": [
+    "orange_candle_cake[lit=true]",
+    "orange_candle_cake[lit=false]"
   ]
 }

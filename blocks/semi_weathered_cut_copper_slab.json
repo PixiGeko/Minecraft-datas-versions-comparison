@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "semi_weathered_cut_copper_slab[type=top,waterlogged=true]",
+    "semi_weathered_cut_copper_slab[type=top,waterlogged=false]",
+    "semi_weathered_cut_copper_slab[type=bottom,waterlogged=true]",
+    "semi_weathered_cut_copper_slab[type=bottom,waterlogged=false]",
+    "semi_weathered_cut_copper_slab[type=double,waterlogged=true]",
+    "semi_weathered_cut_copper_slab[type=double,waterlogged=false]"
   ]
 }

@@ -1,6 +1,7 @@
 {
   "added": [
-    "minecraft:powder_snow_bucket"
+    "minecraft:dripstone_block",
+    "minecraft:pointed_dripstone"
   ],
   "common": [
     "minecraft:acacia_boat",
@@ -725,6 +726,7 @@
     "minecraft:porkchop",
     "minecraft:potato",
     "minecraft:potion",
+    "minecraft:powder_snow_bucket",
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_brick_slab",

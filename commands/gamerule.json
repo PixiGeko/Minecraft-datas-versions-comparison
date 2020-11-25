@@ -1,4 +1,7 @@
 {
+  "added": [
+    "gamerule freezeDamage <value: bool>"
+  ],
   "common": [
     "gamerule announceAdvancements <value: bool>",
     "gamerule commandBlockOutput <value: bool>",

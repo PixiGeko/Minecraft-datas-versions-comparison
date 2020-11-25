@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:waxed_cut_copper_slab",
+    "minecraft:waxed_cut_copper_stairs",
+    "minecraft:waxed_lightly_weathered_cut_copper_slab",
+    "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "minecraft:waxed_semi_weathered_cut_copper_slab",
+    "minecraft:waxed_semi_weathered_cut_copper_stairs"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -865,22 +873,16 @@
     "minecraft:waxed_copper_cut_stairs_from_honeycomb",
     "minecraft:waxed_cut_copper_from_honeycomb",
     "minecraft:waxed_cut_copper_from_waxed_block",
-    "minecraft:waxed_cut_copper_slab_from_waxed_block",
-    "minecraft:waxed_cut_copper_stairs_from_waxed_block",
     "minecraft:waxed_lightly_weathered_copper",
     "minecraft:waxed_lightly_weathered_cut_copper_from_honeycomb",
     "minecraft:waxed_lightly_weathered_cut_copper_from_waxed_block",
     "minecraft:waxed_lightly_weathered_cut_copper_slab_from_honeycomb",
-    "minecraft:waxed_lightly_weathered_cut_copper_slab_from_waxed_block",
     "minecraft:waxed_lightly_weathered_cut_copper_stairs_from_honeycomb",
-    "minecraft:waxed_lightly_weathered_cut_copper_stairs_from_waxed_block",
     "minecraft:waxed_semi_weathered_copper",
     "minecraft:waxed_semi_weathered_cut_copper_from_honeycomb",
     "minecraft:waxed_semi_weathered_cut_copper_from_waxed_block",
     "minecraft:waxed_semi_weathered_cut_copper_slab_from_honeycomb",
-    "minecraft:waxed_semi_weathered_cut_copper_slab_from_waxed_block",
     "minecraft:waxed_semi_weathered_cut_copper_stairs_from_honeycomb",
-    "minecraft:waxed_semi_weathered_cut_copper_stairs_from_waxed_block",
     "minecraft:weathered_cut_copper",
     "minecraft:weathered_cut_copper_slab",
     "minecraft:weathered_cut_copper_stairs",
@@ -919,5 +921,13 @@
     "minecraft:yellow_stained_glass_pane_from_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
+  ],
+  "removed": [
+    "minecraft:waxed_cut_copper_slab_from_waxed_block",
+    "minecraft:waxed_cut_copper_stairs_from_waxed_block",
+    "minecraft:waxed_lightly_weathered_cut_copper_slab_from_waxed_block",
+    "minecraft:waxed_lightly_weathered_cut_copper_stairs_from_waxed_block",
+    "minecraft:waxed_semi_weathered_cut_copper_slab_from_waxed_block",
+    "minecraft:waxed_semi_weathered_cut_copper_stairs_from_waxed_block"
   ]
 }

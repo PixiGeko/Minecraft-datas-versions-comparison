@@ -1,7 +1,7 @@
 {
   "added": [
-    "minecraft:blocks/snow_step_sound_blocks",
-    "minecraft:entity_types/powder_snow_walkable_mobs"
+    "minecraft:blocks/inside_step_sound_blocks",
+    "minecraft:items/freeze_immune_wearables"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -97,6 +97,7 @@
     "minecraft:entity_types/arrows",
     "minecraft:entity_types/beehive_inhabitors",
     "minecraft:entity_types/impact_projectiles",
+    "minecraft:entity_types/powder_snow_walkable_mobs",
     "minecraft:entity_types/raiders",
     "minecraft:entity_types/skeletons",
     "minecraft:fluids/lava",
@@ -158,5 +159,8 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:blocks/snow_step_sound_blocks"
   ]
 }

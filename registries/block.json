@@ -1,7 +1,7 @@
 {
   "added": [
-    "minecraft:dripstone_block",
-    "minecraft:pointed_dripstone"
+    "minecraft:powder_snow",
+    "minecraft:powder_snow_cauldron"
   ],
   "common": [
     "minecraft:acacia_button",
@@ -588,8 +588,6 @@
     "minecraft:potted_warped_roots",
     "minecraft:potted_white_tulip",
     "minecraft:potted_wither_rose",
-    "minecraft:powder_snow",
-    "minecraft:powder_snow_cauldron",
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_brick_slab",

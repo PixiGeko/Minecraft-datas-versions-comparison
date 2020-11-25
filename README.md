@@ -1,1 +1,23 @@
-"# Blocks\n| Added | Changed | Removed |\n|-------|---------|---------|\n| [dripstone_block](./blocks/dripstone_block.json) |  |  |\n| [pointed_dripstone](./blocks/pointed_dripstone.json) |  |  |\n\n# Commands\n| Added | Changed | Removed |\n|-------|---------|---------|\n|  | [gamerule](./commands/gamerule.json) |  |\n\n# Registries\n| Added | Changed | Removed |\n|-------|---------|---------|\n|  | [advancement](./registries/advancement.json) |  |\n|  | [block](./registries/block.json) |  |\n|  | [item](./registries/item.json) |  |\n|  | [loot_table](./registries/loot_table.json) |  |\n|  | [particle_type](./registries/particle_type.json) |  |\n|  | [recipe](./registries/recipe.json) |  |\n|  | [sound_event](./registries/sound_event.json) |  |\n|  | [tag](./registries/tag.json) |  |\n"
+# Blocks
+| Added | Changed | Removed |
+|-------|---------|---------|
+| [powder_snow](./blocks/powder_snow.json) |  |  |
+| [powder_snow_cauldron](./blocks/powder_snow_cauldron.json) |  |  |
+
+# Commands
+| Added | Changed | Removed |
+|-------|---------|---------|
+| [item](./commands/item.json) |  | [replaceitem](./commands/replaceitem.json) |
+
+# Registries
+| Added | Changed | Removed |
+|-------|---------|---------|
+| [loot_nbt_provider_type](./registries/loot_nbt_provider_type.json) | [block](./registries/block.json) |  |
+| [loot_number_provider_type](./registries/loot_number_provider_type.json) | [command](./registries/command.json) |  |
+| [loot_score_provider_type](./registries/loot_score_provider_type.json) | [item](./registries/item.json) |  |
+|  | [loot_condition_type](./registries/loot_condition_type.json) |  |
+|  | [loot_function_type](./registries/loot_function_type.json) |  |
+|  | [loot_table](./registries/loot_table.json) |  |
+|  | [particle_type](./registries/particle_type.json) |  |
+|  | [sound_event](./registries/sound_event.json) |  |
+|  | [tag](./registries/tag.json) |  |

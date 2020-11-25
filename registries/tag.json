@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:blocks/inside_step_sound_blocks",
+    "minecraft:items/freeze_immune_wearables"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -41,7 +45,6 @@
     "minecraft:blocks/infiniburn_end",
     "minecraft:blocks/infiniburn_nether",
     "minecraft:blocks/infiniburn_overworld",
-    "minecraft:blocks/inside_step_sound_blocks",
     "minecraft:blocks/jungle_logs",
     "minecraft:blocks/leaves",
     "minecraft:blocks/logs",
@@ -118,7 +121,6 @@
     "minecraft:items/fences",
     "minecraft:items/fishes",
     "minecraft:items/flowers",
-    "minecraft:items/freeze_immune_wearables",
     "minecraft:items/gold_ores",
     "minecraft:items/ignored_by_piglin_babies",
     "minecraft:items/jungle_logs",
@@ -157,5 +159,8 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:blocks/snow_step_sound_blocks"
   ]
 }

@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:dripping_dripstone_lava",
+    "minecraft:dripping_dripstone_water",
+    "minecraft:falling_dripstone_lava",
+    "minecraft:falling_dripstone_water"
+  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
@@ -18,8 +24,6 @@
     "minecraft:damage_indicator",
     "minecraft:dolphin",
     "minecraft:dragon_breath",
-    "minecraft:dripping_dripstone_lava",
-    "minecraft:dripping_dripstone_water",
     "minecraft:dripping_honey",
     "minecraft:dripping_lava",
     "minecraft:dripping_obsidian_tear",
@@ -33,8 +37,6 @@
     "minecraft:entity_effect",
     "minecraft:explosion",
     "minecraft:explosion_emitter",
-    "minecraft:falling_dripstone_lava",
-    "minecraft:falling_dripstone_water",
     "minecraft:falling_dust",
     "minecraft:falling_honey",
     "minecraft:falling_lava",

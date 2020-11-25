@@ -1,3 +1,27 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "added": [
+        "dripstone_block",
+        "pointed_dripstone"
+      ]
+    },
+    "commands": {
+      "changed": [
+        "gamerule"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
+        "block",
+        "item",
+        "loot_table",
+        "particle_type",
+        "recipe",
+        "sound_event",
+        "tag"
+      ]
+    }
+  }
 }

@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:powder_snow_bucket"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -317,6 +314,7 @@
     "minecraft:dragon_head",
     "minecraft:dried_kelp",
     "minecraft:dried_kelp_block",
+    "minecraft:dripstone_block",
     "minecraft:dropper",
     "minecraft:drowned_spawn_egg",
     "minecraft:egg",
@@ -698,6 +696,7 @@
     "minecraft:piston",
     "minecraft:player_head",
     "minecraft:podzol",
+    "minecraft:pointed_dripstone",
     "minecraft:poisonous_potato",
     "minecraft:polar_bear_spawn_egg",
     "minecraft:polished_andesite",
@@ -725,6 +724,7 @@
     "minecraft:porkchop",
     "minecraft:potato",
     "minecraft:potion",
+    "minecraft:powder_snow_bucket",
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_brick_slab",

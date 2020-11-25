@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:powder_snow",
-    "minecraft:powder_snow_cauldron"
-  ],
   "common": [
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -267,6 +263,7 @@
     "minecraft:dragon_head",
     "minecraft:dragon_wall_head",
     "minecraft:dried_kelp_block",
+    "minecraft:dripstone_block",
     "minecraft:dropper",
     "minecraft:emerald_block",
     "minecraft:emerald_ore",
@@ -537,6 +534,7 @@
     "minecraft:player_head",
     "minecraft:player_wall_head",
     "minecraft:podzol",
+    "minecraft:pointed_dripstone",
     "minecraft:polished_andesite",
     "minecraft:polished_andesite_slab",
     "minecraft:polished_andesite_stairs",
@@ -588,6 +586,8 @@
     "minecraft:potted_warped_roots",
     "minecraft:potted_white_tulip",
     "minecraft:potted_wither_rose",
+    "minecraft:powder_snow",
+    "minecraft:powder_snow_cauldron",
     "minecraft:powered_rail",
     "minecraft:prismarine",
     "minecraft:prismarine_brick_slab",

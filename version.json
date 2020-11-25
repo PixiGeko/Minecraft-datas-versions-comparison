@@ -1,36 +1,3 @@
 {
-  "files": {
-    "blocks": {
-      "added": [
-        "powder_snow",
-        "powder_snow_cauldron"
-      ]
-    },
-    "commands": {
-      "added": [
-        "item"
-      ],
-      "removed": [
-        "replaceitem"
-      ]
-    },
-    "registries": {
-      "added": [
-        "loot_nbt_provider_type",
-        "loot_number_provider_type",
-        "loot_score_provider_type"
-      ],
-      "changed": [
-        "block",
-        "command",
-        "item",
-        "loot_condition_type",
-        "loot_function_type",
-        "loot_table",
-        "particle_type",
-        "sound_event",
-        "tag"
-      ]
-    }
-  }
+  "files": {}
 }

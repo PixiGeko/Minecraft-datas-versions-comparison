@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:dripstone_cluster",
+    "minecraft:large_dripstone",
+    "minecraft:small_dripstone"
+  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",

@@ -1,22 +1,17 @@
 # Blocks
 | Added | Changed | Removed |
 |-------|---------|---------|
-| [dripstone_block](./blocks/dripstone_block.json) |  |  |
-| [pointed_dripstone](./blocks/pointed_dripstone.json) |  |  |
-
-# Commands
-| Added | Changed | Removed |
-|-------|---------|---------|
-|  | [gamerule](./commands/gamerule.json) |  |
+| [sculk_sensor](./blocks/sculk_sensor.json) |  |  |
 
 # Registries
 | Added | Changed | Removed |
 |-------|---------|---------|
-|  | [advancement](./registries/advancement.json) |  |
-|  | [block](./registries/block.json) |  |
+| [game_event](./registries/game_event.json) | [biome](./registries/biome.json) |  |
+| [position_source_type](./registries/position_source_type.json) | [block](./registries/block.json) |  |
+|  | [block_entity_type](./registries/block_entity_type.json) |  |
 |  | [item](./registries/item.json) |  |
 |  | [loot_table](./registries/loot_table.json) |  |
 |  | [particle_type](./registries/particle_type.json) |  |
-|  | [recipe](./registries/recipe.json) |  |
 |  | [sound_event](./registries/sound_event.json) |  |
 |  | [tag](./registries/tag.json) |  |
+|  | [worldgen - feature](./registries/worldgen - feature.json) |  |

@@ -1,12 +1,4 @@
 {
-  "added": [
-    "minecraft:recipes/building_blocks/waxed_cut_copper_slab",
-    "minecraft:recipes/building_blocks/waxed_cut_copper_stairs",
-    "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_slab",
-    "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_stairs",
-    "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_slab",
-    "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_stairs"
-  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",
@@ -418,15 +410,21 @@
     "minecraft:recipes/building_blocks/waxed_copper_cut_stairs_from_honeycomb",
     "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb",
     "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_block",
+    "minecraft:recipes/building_blocks/waxed_cut_copper_slab",
+    "minecraft:recipes/building_blocks/waxed_cut_copper_stairs",
     "minecraft:recipes/building_blocks/waxed_lightly_weathered_copper",
     "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_from_honeycomb",
     "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_from_waxed_block",
+    "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_slab",
     "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_slab_from_honeycomb",
+    "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_stairs",
     "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_stairs_from_honeycomb",
     "minecraft:recipes/building_blocks/waxed_semi_weathered_copper",
     "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_from_honeycomb",
     "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_from_waxed_block",
+    "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_slab",
     "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_slab_from_honeycomb",
+    "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_stairs",
     "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_stairs_from_honeycomb",
     "minecraft:recipes/building_blocks/weathered_cut_copper",
     "minecraft:recipes/building_blocks/weathered_cut_copper_slab",
@@ -989,13 +987,5 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
-  ],
-  "removed": [
-    "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_block",
-    "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_block",
-    "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_slab_from_waxed_block",
-    "minecraft:recipes/building_blocks/waxed_lightly_weathered_cut_copper_stairs_from_waxed_block",
-    "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_slab_from_waxed_block",
-    "minecraft:recipes/building_blocks/waxed_semi_weathered_cut_copper_stairs_from_waxed_block"
   ]
 }

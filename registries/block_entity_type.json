@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:sculk_sensor"
+  ],
   "common": [
     "minecraft:banner",
     "minecraft:barrel",

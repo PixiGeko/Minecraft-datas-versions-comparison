@@ -2,25 +2,24 @@
   "files": {
     "blocks": {
       "added": [
-        "dripstone_block",
-        "pointed_dripstone"
-      ]
-    },
-    "commands": {
-      "changed": [
-        "gamerule"
+        "sculk_sensor"
       ]
     },
     "registries": {
+      "added": [
+        "game_event",
+        "position_source_type"
+      ],
       "changed": [
-        "advancement",
+        "biome",
         "block",
+        "block_entity_type",
         "item",
         "loot_table",
         "particle_type",
-        "recipe",
         "sound_event",
-        "tag"
+        "tag",
+        "worldgen - feature"
       ]
     }
   }

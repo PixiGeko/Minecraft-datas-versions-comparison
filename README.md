@@ -14,4 +14,4 @@
 |  | [particle_type](./registries/particle_type.json) |  |
 |  | [sound_event](./registries/sound_event.json) |  |
 |  | [tag](./registries/tag.json) |  |
-|  | [worldgen - feature](./registries/worldgen - feature.json) |  |
+|  | [worldgen - feature](./registries/worldgen%20-%20feature.json) |  |

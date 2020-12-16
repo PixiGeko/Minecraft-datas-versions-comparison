@@ -1,25 +1,21 @@
 {
   "files": {
-    "blocks": {
-      "added": [
-        "sculk_sensor"
+    "commands": {
+      "changed": [
+        "gamerule"
       ]
     },
     "registries": {
-      "added": [
-        "game_event",
-        "position_source_type"
-      ],
       "changed": [
-        "biome",
-        "block",
-        "block_entity_type",
+        "activity",
+        "entity_type",
+        "game_event",
         "item",
         "loot_table",
-        "particle_type",
+        "memory_module_type",
+        "sensor_type",
         "sound_event",
-        "tag",
-        "worldgen - feature"
+        "tag"
       ]
     }
   }

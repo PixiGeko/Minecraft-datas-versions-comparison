@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:axolotl_hostiles",
+    "minecraft:axolotl_temptations"
+  ],
   "common": [
     "minecraft:dummy",
     "minecraft:golem_detected",

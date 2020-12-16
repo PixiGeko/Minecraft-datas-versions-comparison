@@ -1,12 +1,14 @@
 {
   "added": [
-    "minecraft:block.sculk_sensor.break",
-    "minecraft:block.sculk_sensor.clicking",
-    "minecraft:block.sculk_sensor.clicking_stop",
-    "minecraft:block.sculk_sensor.fall",
-    "minecraft:block.sculk_sensor.hit",
-    "minecraft:block.sculk_sensor.place",
-    "minecraft:block.sculk_sensor.step"
+    "minecraft:entity.axolotl.attack",
+    "minecraft:entity.axolotl.death",
+    "minecraft:entity.axolotl.hurt",
+    "minecraft:entity.axolotl.idle_air",
+    "minecraft:entity.axolotl.idle_water",
+    "minecraft:entity.axolotl.splash",
+    "minecraft:entity.axolotl.swim",
+    "minecraft:item.bucket.empty_axolotl",
+    "minecraft:item.bucket.fill_axolotl"
   ],
   "common": [
     "minecraft:ambient.basalt_deltas.additions",
@@ -317,6 +319,13 @@
     "minecraft:block.scaffolding.hit",
     "minecraft:block.scaffolding.place",
     "minecraft:block.scaffolding.step",
+    "minecraft:block.sculk_sensor.break",
+    "minecraft:block.sculk_sensor.clicking",
+    "minecraft:block.sculk_sensor.clicking_stop",
+    "minecraft:block.sculk_sensor.fall",
+    "minecraft:block.sculk_sensor.hit",
+    "minecraft:block.sculk_sensor.place",
+    "minecraft:block.sculk_sensor.step",
     "minecraft:block.shroomlight.break",
     "minecraft:block.shroomlight.fall",
     "minecraft:block.shroomlight.hit",

@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:sculk_sensor"
-  ],
   "common": [
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -667,6 +664,7 @@
     "minecraft:sandstone_stairs",
     "minecraft:sandstone_wall",
     "minecraft:scaffolding",
+    "minecraft:sculk_sensor",
     "minecraft:sea_lantern",
     "minecraft:sea_pickle",
     "minecraft:seagrass",

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "gamerule playersSleepingPercentage <value: integer>"
+  ],
   "common": [
     "gamerule announceAdvancements <value: bool>",
     "gamerule commandBlockOutput <value: bool>",

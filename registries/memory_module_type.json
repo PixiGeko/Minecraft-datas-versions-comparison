@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:is_tempted",
+    "minecraft:play_dead_ticks",
+    "minecraft:temptation_cooldown_ticks",
+    "minecraft:tempting_player"
+  ],
   "common": [
     "minecraft:admiring_disabled",
     "minecraft:admiring_item",

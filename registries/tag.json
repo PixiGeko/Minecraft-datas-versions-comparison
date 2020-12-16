@@ -1,9 +1,9 @@
 {
   "added": [
-    "minecraft:blocks/dripstone_replaceable_blocks",
-    "minecraft:blocks/occludes_vibration_signals",
-    "minecraft:game_events/ignore_vibrations_stepping_carefully",
-    "minecraft:game_events/vibrations"
+    "minecraft:entity_types/axolotl_always_hostiles",
+    "minecraft:entity_types/axolotl_tempted_hostiles",
+    "minecraft:items/axolotl_tempt_items",
+    "minecraft:items/occludes_vibration_signals"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -33,6 +33,7 @@
     "minecraft:blocks/dark_oak_logs",
     "minecraft:blocks/doors",
     "minecraft:blocks/dragon_immune",
+    "minecraft:blocks/dripstone_replaceable_blocks",
     "minecraft:blocks/enderman_holdable",
     "minecraft:blocks/fences",
     "minecraft:blocks/fence_gates",
@@ -56,6 +57,7 @@
     "minecraft:blocks/non_flammable_wood",
     "minecraft:blocks/nylium",
     "minecraft:blocks/oak_logs",
+    "minecraft:blocks/occludes_vibration_signals",
     "minecraft:blocks/piglin_repellents",
     "minecraft:blocks/planks",
     "minecraft:blocks/portals",
@@ -105,6 +107,8 @@
     "minecraft:entity_types/skeletons",
     "minecraft:fluids/lava",
     "minecraft:fluids/water",
+    "minecraft:game_events/ignore_vibrations_stepping_carefully",
+    "minecraft:game_events/vibrations",
     "minecraft:items/acacia_logs",
     "minecraft:items/anvil",
     "minecraft:items/arrows",

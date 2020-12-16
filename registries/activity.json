@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:play_dead"
+  ],
   "common": [
     "minecraft:admire_item",
     "minecraft:avoid",

@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:dust_color_transition",
-    "minecraft:vibration"
-  ],
   "common": [
     "minecraft:ambient_entity_effect",
     "minecraft:angry_villager",
@@ -29,6 +25,7 @@
     "minecraft:dripping_obsidian_tear",
     "minecraft:dripping_water",
     "minecraft:dust",
+    "minecraft:dust_color_transition",
     "minecraft:effect",
     "minecraft:elder_guardian",
     "minecraft:enchant",
@@ -79,6 +76,7 @@
     "minecraft:sweep_attack",
     "minecraft:totem_of_undying",
     "minecraft:underwater",
+    "minecraft:vibration",
     "minecraft:warped_spore",
     "minecraft:white_ash",
     "minecraft:witch"

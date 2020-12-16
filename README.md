@@ -1,17 +1,17 @@
-# Blocks
+# Commands
 | Added | Changed | Removed |
 |-------|---------|---------|
-| [sculk_sensor](./blocks/sculk_sensor.json) |  |  |
+|  | [gamerule](./commands/gamerule.json) |  |
 
 # Registries
 | Added | Changed | Removed |
 |-------|---------|---------|
-| [game_event](./registries/game_event.json) | [biome](./registries/biome.json) |  |
-| [position_source_type](./registries/position_source_type.json) | [block](./registries/block.json) |  |
-|  | [block_entity_type](./registries/block_entity_type.json) |  |
+|  | [activity](./registries/activity.json) |  |
+|  | [entity_type](./registries/entity_type.json) |  |
+|  | [game_event](./registries/game_event.json) |  |
 |  | [item](./registries/item.json) |  |
 |  | [loot_table](./registries/loot_table.json) |  |
-|  | [particle_type](./registries/particle_type.json) |  |
+|  | [memory_module_type](./registries/memory_module_type.json) |  |
+|  | [sensor_type](./registries/sensor_type.json) |  |
 |  | [sound_event](./registries/sound_event.json) |  |
 |  | [tag](./registries/tag.json) |  |
-|  | [worldgen - feature](./registries/worldgen%20-%20feature.json) |  |

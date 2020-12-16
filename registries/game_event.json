@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:armor_stand_add_item",
     "minecraft:block_attach",
     "minecraft:block_close",
@@ -15,7 +15,6 @@
     "minecraft:container_open",
     "minecraft:dispense_fail",
     "minecraft:eating_finish",
-    "minecraft:eating_start",
     "minecraft:elytra_free_fall",
     "minecraft:entity_hit",
     "minecraft:explode",
@@ -35,5 +34,8 @@
     "minecraft:step",
     "minecraft:swim",
     "minecraft:wolf_shaking"
+  ],
+  "removed": [
+    "minecraft:eating_start"
   ]
 }

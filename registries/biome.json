@@ -20,7 +20,6 @@
     "minecraft:desert",
     "minecraft:desert_hills",
     "minecraft:desert_lakes",
-    "minecraft:dripstone_caves",
     "minecraft:end_barrens",
     "minecraft:end_highlands",
     "minecraft:end_midlands",
@@ -80,5 +79,8 @@
     "minecraft:wooded_badlands_plateau",
     "minecraft:wooded_hills",
     "minecraft:wooded_mountains"
+  ],
+  "removed": [
+    "minecraft:dripstone_caves"
   ]
 }

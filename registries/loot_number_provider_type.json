@@ -1,5 +1,5 @@
 {
-  "common": [
+  "removed": [
     "minecraft:binomial",
     "minecraft:constant",
     "minecraft:score",

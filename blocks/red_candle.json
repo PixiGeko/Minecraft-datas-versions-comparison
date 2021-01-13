@@ -1,20 +1,84 @@
 {
-  "common": [
-    "red_candle[candles=1,lit=true,waterlogged=true]",
-    "red_candle[candles=1,lit=true,waterlogged=false]",
-    "red_candle[candles=1,lit=false,waterlogged=true]",
-    "red_candle[candles=1,lit=false,waterlogged=false]",
-    "red_candle[candles=2,lit=true,waterlogged=true]",
-    "red_candle[candles=2,lit=true,waterlogged=false]",
-    "red_candle[candles=2,lit=false,waterlogged=true]",
-    "red_candle[candles=2,lit=false,waterlogged=false]",
-    "red_candle[candles=3,lit=true,waterlogged=true]",
-    "red_candle[candles=3,lit=true,waterlogged=false]",
-    "red_candle[candles=3,lit=false,waterlogged=true]",
-    "red_candle[candles=3,lit=false,waterlogged=false]",
-    "red_candle[candles=4,lit=true,waterlogged=true]",
-    "red_candle[candles=4,lit=true,waterlogged=false]",
-    "red_candle[candles=4,lit=false,waterlogged=true]",
-    "red_candle[candles=4,lit=false,waterlogged=false]"
+  "removed": [
+    {
+      "candles": 1,
+      "lit": true,
+      "waterlogged": true
+    },
+    {
+      "candles": 1,
+      "lit": true,
+      "waterlogged": false
+    },
+    {
+      "candles": 1,
+      "lit": false,
+      "waterlogged": true
+    },
+    {
+      "candles": 1,
+      "lit": false,
+      "waterlogged": false
+    },
+    {
+      "candles": 2,
+      "lit": true,
+      "waterlogged": true
+    },
+    {
+      "candles": 2,
+      "lit": true,
+      "waterlogged": false
+    },
+    {
+      "candles": 2,
+      "lit": false,
+      "waterlogged": true
+    },
+    {
+      "candles": 2,
+      "lit": false,
+      "waterlogged": false
+    },
+    {
+      "candles": 3,
+      "lit": true,
+      "waterlogged": true
+    },
+    {
+      "candles": 3,
+      "lit": true,
+      "waterlogged": false
+    },
+    {
+      "candles": 3,
+      "lit": false,
+      "waterlogged": true
+    },
+    {
+      "candles": 3,
+      "lit": false,
+      "waterlogged": false
+    },
+    {
+      "candles": 4,
+      "lit": true,
+      "waterlogged": true
+    },
+    {
+      "candles": 4,
+      "lit": true,
+      "waterlogged": false
+    },
+    {
+      "candles": 4,
+      "lit": false,
+      "waterlogged": true
+    },
+    {
+      "candles": 4,
+      "lit": false,
+      "waterlogged": false
+    }
   ]
 }

@@ -1,6 +1,10 @@
 {
-  "common": [
-    "gray_candle_cake[lit=true]",
-    "gray_candle_cake[lit=false]"
+  "removed": [
+    {
+      "lit": true
+    },
+    {
+      "lit": false
+    }
   ]
 }

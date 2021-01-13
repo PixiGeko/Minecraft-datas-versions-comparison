@@ -1,7 +1,4 @@
 {
-  "added": [
-    "gamerule playersSleepingPercentage <value: integer>"
-  ],
   "common": [
     "gamerule announceAdvancements <value: bool>",
     "gamerule commandBlockOutput <value: bool>",
@@ -23,7 +20,6 @@
     "gamerule fallDamage <value: bool>",
     "gamerule fireDamage <value: bool>",
     "gamerule forgiveDeadPlayers <value: bool>",
-    "gamerule freezeDamage <value: bool>",
     "gamerule keepInventory <value: bool>",
     "gamerule logAdminCommands <value: bool>",
     "gamerule maxCommandChainLength <value: integer>",
@@ -37,5 +33,9 @@
     "gamerule spawnRadius <value: integer>",
     "gamerule spectatorsGenerateChunks <value: bool>",
     "gamerule universalAnger <value: bool>"
+  ],
+  "removed": [
+    "gamerule freezeDamage <value: bool>",
+    "gamerule playersSleepingPercentage <value: integer>"
   ]
 }

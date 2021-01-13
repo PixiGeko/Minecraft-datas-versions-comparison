@@ -1,5 +1,5 @@
 {
-  "common": [
+  "removed": [
     "minecraft:armor_stand_add_item",
     "minecraft:block_attach",
     "minecraft:block_close",
@@ -34,8 +34,5 @@
     "minecraft:step",
     "minecraft:swim",
     "minecraft:wolf_shaking"
-  ],
-  "removed": [
-    "minecraft:eating_start"
   ]
 }

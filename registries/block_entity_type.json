@@ -27,12 +27,14 @@
     "minecraft:lectern",
     "minecraft:mob_spawner",
     "minecraft:piston",
-    "minecraft:sculk_sensor",
     "minecraft:shulker_box",
     "minecraft:sign",
     "minecraft:skull",
     "minecraft:smoker",
     "minecraft:structure_block",
     "minecraft:trapped_chest"
+  ],
+  "removed": [
+    "minecraft:sculk_sensor"
   ]
 }

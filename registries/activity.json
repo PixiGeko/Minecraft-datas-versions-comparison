@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:play_dead"
-  ],
   "common": [
     "minecraft:admire_item",
     "minecraft:avoid",
@@ -18,5 +15,8 @@
     "minecraft:rest",
     "minecraft:ride",
     "minecraft:work"
+  ],
+  "removed": [
+    "minecraft:play_dead"
   ]
 }

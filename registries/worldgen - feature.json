@@ -14,7 +14,6 @@
     "minecraft:delta_feature",
     "minecraft:desert_well",
     "minecraft:disk",
-    "minecraft:dripstone_cluster",
     "minecraft:emerald_ore",
     "minecraft:end_gateway",
     "minecraft:end_island",
@@ -24,7 +23,6 @@
     "minecraft:forest_rock",
     "minecraft:fossil",
     "minecraft:freeze_top_layer",
-    "minecraft:geode",
     "minecraft:glowstone_blob",
     "minecraft:huge_brown_mushroom",
     "minecraft:huge_fungus",
@@ -34,7 +32,6 @@
     "minecraft:iceberg",
     "minecraft:kelp",
     "minecraft:lake",
-    "minecraft:large_dripstone",
     "minecraft:monster_room",
     "minecraft:nether_forest_vegetation",
     "minecraft:netherrack_replace_blobs",
@@ -49,12 +46,17 @@
     "minecraft:seagrass",
     "minecraft:simple_block",
     "minecraft:simple_random_selector",
-    "minecraft:small_dripstone",
     "minecraft:spring_feature",
     "minecraft:tree",
     "minecraft:twisting_vines",
     "minecraft:vines",
     "minecraft:void_start_platform",
     "minecraft:weeping_vines"
+  ],
+  "removed": [
+    "minecraft:dripstone_cluster",
+    "minecraft:geode",
+    "minecraft:large_dripstone",
+    "minecraft:small_dripstone"
   ]
 }

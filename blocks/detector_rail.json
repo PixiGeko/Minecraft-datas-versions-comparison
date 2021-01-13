@@ -1,5 +1,19 @@
 {
-  "common": [
+  "added": [
+    "detector_rail[powered=true,shape=north_south]",
+    "detector_rail[powered=true,shape=east_west]",
+    "detector_rail[powered=true,shape=ascending_east]",
+    "detector_rail[powered=true,shape=ascending_west]",
+    "detector_rail[powered=true,shape=ascending_north]",
+    "detector_rail[powered=true,shape=ascending_south]",
+    "detector_rail[powered=false,shape=north_south]",
+    "detector_rail[powered=false,shape=east_west]",
+    "detector_rail[powered=false,shape=ascending_east]",
+    "detector_rail[powered=false,shape=ascending_west]",
+    "detector_rail[powered=false,shape=ascending_north]",
+    "detector_rail[powered=false,shape=ascending_south]"
+  ],
+  "removed": [
     "detector_rail[powered=true,shape=north_south,waterlogged=true]",
     "detector_rail[powered=true,shape=north_south,waterlogged=false]",
     "detector_rail[powered=true,shape=east_west,waterlogged=true]",

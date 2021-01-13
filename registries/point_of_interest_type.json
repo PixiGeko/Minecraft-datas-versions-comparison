@@ -12,7 +12,6 @@
     "minecraft:home",
     "minecraft:leatherworker",
     "minecraft:librarian",
-    "minecraft:lightning_rod",
     "minecraft:lodestone",
     "minecraft:mason",
     "minecraft:meeting",
@@ -22,5 +21,8 @@
     "minecraft:toolsmith",
     "minecraft:unemployed",
     "minecraft:weaponsmith"
+  ],
+  "removed": [
+    "minecraft:lightning_rod"
   ]
 }

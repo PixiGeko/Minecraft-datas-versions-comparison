@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:axolotl"
-  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
@@ -111,5 +108,8 @@
     "minecraft:zombie_horse",
     "minecraft:zombie_villager",
     "minecraft:zombified_piglin"
+  ],
+  "removed": [
+    "minecraft:axolotl"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "common": [
+  "removed": [
     "minecraft:context",
     "minecraft:storage"
   ]

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:replaceitem"
+  ],
   "common": [
     "minecraft:advancement",
     "minecraft:attribute",
@@ -25,7 +28,6 @@
     "minecraft:gamerule",
     "minecraft:give",
     "minecraft:help",
-    "minecraft:item",
     "minecraft:kick",
     "minecraft:kill",
     "minecraft:list",
@@ -74,5 +76,8 @@
     "minecraft:whitelist",
     "minecraft:worldborder",
     "minecraft:xp"
+  ],
+  "removed": [
+    "minecraft:item"
   ]
 }

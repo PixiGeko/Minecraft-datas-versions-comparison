@@ -1,16 +1,52 @@
 {
-  "common": [
-    "lightning_rod[facing=north,powered=true]",
-    "lightning_rod[facing=north,powered=false]",
-    "lightning_rod[facing=east,powered=true]",
-    "lightning_rod[facing=east,powered=false]",
-    "lightning_rod[facing=south,powered=true]",
-    "lightning_rod[facing=south,powered=false]",
-    "lightning_rod[facing=west,powered=true]",
-    "lightning_rod[facing=west,powered=false]",
-    "lightning_rod[facing=up,powered=true]",
-    "lightning_rod[facing=up,powered=false]",
-    "lightning_rod[facing=down,powered=true]",
-    "lightning_rod[facing=down,powered=false]"
+  "removed": [
+    {
+      "facing": "north",
+      "powered": true
+    },
+    {
+      "facing": "north",
+      "powered": false
+    },
+    {
+      "facing": "east",
+      "powered": true
+    },
+    {
+      "facing": "east",
+      "powered": false
+    },
+    {
+      "facing": "south",
+      "powered": true
+    },
+    {
+      "facing": "south",
+      "powered": false
+    },
+    {
+      "facing": "west",
+      "powered": true
+    },
+    {
+      "facing": "west",
+      "powered": false
+    },
+    {
+      "facing": "up",
+      "powered": true
+    },
+    {
+      "facing": "up",
+      "powered": false
+    },
+    {
+      "facing": "down",
+      "powered": true
+    },
+    {
+      "facing": "down",
+      "powered": false
+    }
   ]
 }

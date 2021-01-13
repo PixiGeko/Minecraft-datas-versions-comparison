@@ -1,7 +1,13 @@
 {
-  "common": [
-    "water_cauldron[level=1]",
-    "water_cauldron[level=2]",
-    "water_cauldron[level=3]"
+  "removed": [
+    {
+      "level": 1
+    },
+    {
+      "level": 2
+    },
+    {
+      "level": 3
+    }
   ]
 }

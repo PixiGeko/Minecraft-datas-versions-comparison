@@ -21,9 +21,5 @@
     "minecraft:set_name",
     "minecraft:set_nbt",
     "minecraft:set_stew_effect"
-  ],
-  "removed": [
-    "minecraft:set_banner_pattern",
-    "minecraft:set_enchantments"
   ]
 }

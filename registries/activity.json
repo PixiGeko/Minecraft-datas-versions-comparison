@@ -15,8 +15,5 @@
     "minecraft:rest",
     "minecraft:ride",
     "minecraft:work"
-  ],
-  "removed": [
-    "minecraft:play_dead"
   ]
 }

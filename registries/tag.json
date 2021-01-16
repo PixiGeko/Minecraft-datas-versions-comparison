@@ -147,25 +147,5 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
-  ],
-  "removed": [
-    "minecraft:blocks/candles",
-    "minecraft:blocks/candle_cakes",
-    "minecraft:blocks/cauldrons",
-    "minecraft:blocks/crystal_sound_blocks",
-    "minecraft:blocks/dripstone_replaceable_blocks",
-    "minecraft:blocks/inside_step_sound_blocks",
-    "minecraft:blocks/occludes_vibration_signals",
-    "minecraft:entity_types/axolotl_always_hostiles",
-    "minecraft:entity_types/axolotl_tempted_hostiles",
-    "minecraft:entity_types/powder_snow_walkable_mobs",
-    "minecraft:game_events/ignore_vibrations_stepping_carefully",
-    "minecraft:game_events/vibrations",
-    "minecraft:items/axolotl_tempt_items",
-    "minecraft:items/candles",
-    "minecraft:items/freeze_immune_wearables",
-    "minecraft:items/ignored_by_piglin_babies",
-    "minecraft:items/occludes_vibration_signals",
-    "minecraft:items/piglin_food"
   ]
 }

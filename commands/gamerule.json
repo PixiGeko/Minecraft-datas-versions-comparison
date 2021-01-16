@@ -33,9 +33,5 @@
     "gamerule spawnRadius <value: integer>",
     "gamerule spectatorsGenerateChunks <value: bool>",
     "gamerule universalAnger <value: bool>"
-  ],
-  "removed": [
-    "gamerule freezeDamage <value: bool>",
-    "gamerule playersSleepingPercentage <value: integer>"
   ]
 }

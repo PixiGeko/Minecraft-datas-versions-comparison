@@ -72,15 +72,5 @@
     "minecraft:warped_spore",
     "minecraft:white_ash",
     "minecraft:witch"
-  ],
-  "removed": [
-    "minecraft:dripping_dripstone_lava",
-    "minecraft:dripping_dripstone_water",
-    "minecraft:dust_color_transition",
-    "minecraft:falling_dripstone_lava",
-    "minecraft:falling_dripstone_water",
-    "minecraft:small_flame",
-    "minecraft:snowflake",
-    "minecraft:vibration"
   ]
 }

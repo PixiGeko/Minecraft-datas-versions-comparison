@@ -52,11 +52,5 @@
     "minecraft:vines",
     "minecraft:void_start_platform",
     "minecraft:weeping_vines"
-  ],
-  "removed": [
-    "minecraft:dripstone_cluster",
-    "minecraft:geode",
-    "minecraft:large_dripstone",
-    "minecraft:small_dripstone"
   ]
 }

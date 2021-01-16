@@ -60,11 +60,5 @@
     "minecraft:visible_mobs",
     "minecraft:visible_villager_babies",
     "minecraft:walk_target"
-  ],
-  "removed": [
-    "minecraft:is_tempted",
-    "minecraft:play_dead_ticks",
-    "minecraft:temptation_cooldown_ticks",
-    "minecraft:tempting_player"
   ]
 }

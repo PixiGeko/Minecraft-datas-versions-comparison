@@ -16,8 +16,5 @@
     "minecraft:table_bonus",
     "minecraft:time_check",
     "minecraft:weather_check"
-  ],
-  "removed": [
-    "minecraft:value_check"
   ]
 }

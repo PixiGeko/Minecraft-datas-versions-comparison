@@ -21,8 +21,5 @@
     "minecraft:toolsmith",
     "minecraft:unemployed",
     "minecraft:weaponsmith"
-  ],
-  "removed": [
-    "minecraft:lightning_rod"
   ]
 }

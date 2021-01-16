@@ -108,8 +108,5 @@
     "minecraft:zombie_horse",
     "minecraft:zombie_villager",
     "minecraft:zombified_piglin"
-  ],
-  "removed": [
-    "minecraft:axolotl"
   ]
 }

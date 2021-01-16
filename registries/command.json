@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:replaceitem"
-  ],
   "common": [
     "minecraft:advancement",
     "minecraft:attribute",
@@ -44,6 +41,7 @@
     "minecraft:publish",
     "minecraft:recipe",
     "minecraft:reload",
+    "minecraft:replaceitem",
     "minecraft:save-all",
     "minecraft:save-off",
     "minecraft:save-on",
@@ -76,8 +74,5 @@
     "minecraft:whitelist",
     "minecraft:worldborder",
     "minecraft:xp"
-  ],
-  "removed": [
-    "minecraft:item"
   ]
 }

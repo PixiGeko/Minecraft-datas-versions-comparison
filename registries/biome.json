@@ -79,8 +79,5 @@
     "minecraft:wooded_badlands_plateau",
     "minecraft:wooded_hills",
     "minecraft:wooded_mountains"
-  ],
-  "removed": [
-    "minecraft:dripstone_caves"
   ]
 }

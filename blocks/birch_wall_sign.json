@@ -1,5 +1,23 @@
 {
-  "common": [
+  "added": [
+    "birch_wall_sign[facing=north,lit=true,waterlogged=true]",
+    "birch_wall_sign[facing=north,lit=true,waterlogged=false]",
+    "birch_wall_sign[facing=north,lit=false,waterlogged=true]",
+    "birch_wall_sign[facing=north,lit=false,waterlogged=false]",
+    "birch_wall_sign[facing=south,lit=true,waterlogged=true]",
+    "birch_wall_sign[facing=south,lit=true,waterlogged=false]",
+    "birch_wall_sign[facing=south,lit=false,waterlogged=true]",
+    "birch_wall_sign[facing=south,lit=false,waterlogged=false]",
+    "birch_wall_sign[facing=west,lit=true,waterlogged=true]",
+    "birch_wall_sign[facing=west,lit=true,waterlogged=false]",
+    "birch_wall_sign[facing=west,lit=false,waterlogged=true]",
+    "birch_wall_sign[facing=west,lit=false,waterlogged=false]",
+    "birch_wall_sign[facing=east,lit=true,waterlogged=true]",
+    "birch_wall_sign[facing=east,lit=true,waterlogged=false]",
+    "birch_wall_sign[facing=east,lit=false,waterlogged=true]",
+    "birch_wall_sign[facing=east,lit=false,waterlogged=false]"
+  ],
+  "removed": [
     "birch_wall_sign[facing=north,waterlogged=true]",
     "birch_wall_sign[facing=north,waterlogged=false]",
     "birch_wall_sign[facing=south,waterlogged=true]",

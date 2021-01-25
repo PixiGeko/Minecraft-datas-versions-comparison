@@ -1,14 +1,24 @@
 {
   "common": [
-    "rail[shape=north_south]",
-    "rail[shape=east_west]",
-    "rail[shape=ascending_east]",
-    "rail[shape=ascending_west]",
-    "rail[shape=ascending_north]",
-    "rail[shape=ascending_south]",
-    "rail[shape=south_east]",
-    "rail[shape=south_west]",
-    "rail[shape=north_west]",
-    "rail[shape=north_east]"
+    "rail[shape=north_south,waterlogged=true]",
+    "rail[shape=north_south,waterlogged=false]",
+    "rail[shape=east_west,waterlogged=true]",
+    "rail[shape=east_west,waterlogged=false]",
+    "rail[shape=ascending_east,waterlogged=true]",
+    "rail[shape=ascending_east,waterlogged=false]",
+    "rail[shape=ascending_west,waterlogged=true]",
+    "rail[shape=ascending_west,waterlogged=false]",
+    "rail[shape=ascending_north,waterlogged=true]",
+    "rail[shape=ascending_north,waterlogged=false]",
+    "rail[shape=ascending_south,waterlogged=true]",
+    "rail[shape=ascending_south,waterlogged=false]",
+    "rail[shape=south_east,waterlogged=true]",
+    "rail[shape=south_east,waterlogged=false]",
+    "rail[shape=south_west,waterlogged=true]",
+    "rail[shape=south_west,waterlogged=false]",
+    "rail[shape=north_west,waterlogged=true]",
+    "rail[shape=north_west,waterlogged=false]",
+    "rail[shape=north_east,waterlogged=true]",
+    "rail[shape=north_east,waterlogged=false]"
   ]
 }

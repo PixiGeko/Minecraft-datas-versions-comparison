@@ -1,0 +1,16 @@
+{
+  "common": [
+    "lightning_rod[facing=north,powered=true]",
+    "lightning_rod[facing=north,powered=false]",
+    "lightning_rod[facing=east,powered=true]",
+    "lightning_rod[facing=east,powered=false]",
+    "lightning_rod[facing=south,powered=true]",
+    "lightning_rod[facing=south,powered=false]",
+    "lightning_rod[facing=west,powered=true]",
+    "lightning_rod[facing=west,powered=false]",
+    "lightning_rod[facing=up,powered=true]",
+    "lightning_rod[facing=up,powered=false]",
+    "lightning_rod[facing=down,powered=true]",
+    "lightning_rod[facing=down,powered=false]"
+  ]
+}

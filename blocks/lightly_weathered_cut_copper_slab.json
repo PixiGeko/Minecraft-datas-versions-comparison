@@ -1,0 +1,10 @@
+{
+  "common": [
+    "lightly_weathered_cut_copper_slab[type=top,waterlogged=true]",
+    "lightly_weathered_cut_copper_slab[type=top,waterlogged=false]",
+    "lightly_weathered_cut_copper_slab[type=bottom,waterlogged=true]",
+    "lightly_weathered_cut_copper_slab[type=bottom,waterlogged=false]",
+    "lightly_weathered_cut_copper_slab[type=double,waterlogged=true]",
+    "lightly_weathered_cut_copper_slab[type=double,waterlogged=false]"
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "common": [
+    "minecraft:axolotl_hostiles",
+    "minecraft:axolotl_temptations",
     "minecraft:dummy",
     "minecraft:golem_detected",
     "minecraft:hoglin_specific_sensor",

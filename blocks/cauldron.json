@@ -1,8 +1,5 @@
 {
   "common": [
-    "cauldron[level=0]",
-    "cauldron[level=1]",
-    "cauldron[level=2]",
-    "cauldron[level=3]"
+    "cauldron"
   ]
 }

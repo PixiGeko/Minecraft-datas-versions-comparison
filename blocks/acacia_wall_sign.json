@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "acacia_wall_sign[facing=north,lit=true,waterlogged=true]",
     "acacia_wall_sign[facing=north,lit=true,waterlogged=false]",
     "acacia_wall_sign[facing=north,lit=false,waterlogged=true]",
@@ -16,15 +16,5 @@
     "acacia_wall_sign[facing=east,lit=true,waterlogged=false]",
     "acacia_wall_sign[facing=east,lit=false,waterlogged=true]",
     "acacia_wall_sign[facing=east,lit=false,waterlogged=false]"
-  ],
-  "removed": [
-    "acacia_wall_sign[facing=north,waterlogged=true]",
-    "acacia_wall_sign[facing=north,waterlogged=false]",
-    "acacia_wall_sign[facing=south,waterlogged=true]",
-    "acacia_wall_sign[facing=south,waterlogged=false]",
-    "acacia_wall_sign[facing=west,waterlogged=true]",
-    "acacia_wall_sign[facing=west,waterlogged=false]",
-    "acacia_wall_sign[facing=east,waterlogged=true]",
-    "acacia_wall_sign[facing=east,waterlogged=false]"
   ]
 }

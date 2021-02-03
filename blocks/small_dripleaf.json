@@ -1,0 +1,20 @@
+{
+  "added": [
+    {
+      "half": "upper",
+      "waterlogged": true
+    },
+    {
+      "half": "upper",
+      "waterlogged": false
+    },
+    {
+      "half": "lower",
+      "waterlogged": true
+    },
+    {
+      "half": "lower",
+      "waterlogged": false
+    }
+  ]
+}

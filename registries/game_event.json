@@ -1,6 +1,22 @@
 {
+  "added": [
+    "minecraft:block_change",
+    "minecraft:drinking_finish",
+    "minecraft:eat",
+    "minecraft:entity_damaged",
+    "minecraft:entity_killed",
+    "minecraft:entity_place",
+    "minecraft:equip",
+    "minecraft:minecart_moving",
+    "minecraft:mob_interact",
+    "minecraft:prime_fuse",
+    "minecraft:ravager_roar",
+    "minecraft:ring_bell",
+    "minecraft:shear",
+    "minecraft:shulker_close",
+    "minecraft:shulker_open"
+  ],
   "common": [
-    "minecraft:armor_stand_add_item",
     "minecraft:block_attach",
     "minecraft:block_close",
     "minecraft:block_destroy",
@@ -14,14 +30,11 @@
     "minecraft:container_close",
     "minecraft:container_open",
     "minecraft:dispense_fail",
-    "minecraft:eating_finish",
     "minecraft:elytra_free_fall",
-    "minecraft:entity_hit",
     "minecraft:explode",
     "minecraft:fishing_rod_cast",
     "minecraft:fishing_rod_reel_in",
     "minecraft:flap",
-    "minecraft:flint_and_steel_use",
     "minecraft:fluid_pickup",
     "minecraft:fluid_place",
     "minecraft:hit_ground",
@@ -34,5 +47,11 @@
     "minecraft:step",
     "minecraft:swim",
     "minecraft:wolf_shaking"
+  ],
+  "removed": [
+    "minecraft:armor_stand_add_item",
+    "minecraft:eating_finish",
+    "minecraft:entity_hit",
+    "minecraft:flint_and_steel_use"
   ]
 }

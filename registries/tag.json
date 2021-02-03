@@ -1,4 +1,11 @@
 {
+  "added": [
+    "minecraft:blocks/azalea_log_replaceable",
+    "minecraft:blocks/cave_vines",
+    "minecraft:blocks/lush_plants_replaceable",
+    "minecraft:game_events/ignore_vibrations_sneaking",
+    "minecraft:items/fox_food"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -103,7 +110,6 @@
     "minecraft:entity_types/skeletons",
     "minecraft:fluids/lava",
     "minecraft:fluids/water",
-    "minecraft:game_events/ignore_vibrations_stepping_carefully",
     "minecraft:game_events/vibrations",
     "minecraft:items/acacia_logs",
     "minecraft:items/anvil",
@@ -165,5 +171,8 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:game_events/ignore_vibrations_stepping_carefully"
   ]
 }

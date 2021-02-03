@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:glow_lichen"
-  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",
@@ -28,6 +25,7 @@
     "minecraft:fossil",
     "minecraft:freeze_top_layer",
     "minecraft:geode",
+    "minecraft:glow_lichen",
     "minecraft:glowstone_blob",
     "minecraft:huge_brown_mushroom",
     "minecraft:huge_fungus",

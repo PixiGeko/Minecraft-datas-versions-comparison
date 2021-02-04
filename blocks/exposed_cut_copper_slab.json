@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "exposed_cut_copper_slab[type=top,waterlogged=true]",
+    "exposed_cut_copper_slab[type=top,waterlogged=false]",
+    "exposed_cut_copper_slab[type=bottom,waterlogged=true]",
+    "exposed_cut_copper_slab[type=bottom,waterlogged=false]",
+    "exposed_cut_copper_slab[type=double,waterlogged=true]",
+    "exposed_cut_copper_slab[type=double,waterlogged=false]"
   ]
 }

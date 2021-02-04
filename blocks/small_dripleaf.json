@@ -1,20 +1,8 @@
 {
-  "added": [
-    {
-      "half": "upper",
-      "waterlogged": true
-    },
-    {
-      "half": "upper",
-      "waterlogged": false
-    },
-    {
-      "half": "lower",
-      "waterlogged": true
-    },
-    {
-      "half": "lower",
-      "waterlogged": false
-    }
+  "common": [
+    "small_dripleaf[half=upper,waterlogged=true]",
+    "small_dripleaf[half=upper,waterlogged=false]",
+    "small_dripleaf[half=lower,waterlogged=true]",
+    "small_dripleaf[half=lower,waterlogged=false]"
   ]
 }

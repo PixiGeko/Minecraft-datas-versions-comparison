@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:underwater_magma"
+  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",

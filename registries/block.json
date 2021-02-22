@@ -1,10 +1,4 @@
 {
-  "added": [
-    "minecraft:exposed_copper",
-    "minecraft:oxidized_copper",
-    "minecraft:waxed_copper_block",
-    "minecraft:weathered_copper"
-  ],
   "common": [
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -291,6 +285,7 @@
     "minecraft:end_stone_brick_wall",
     "minecraft:end_stone_bricks",
     "minecraft:ender_chest",
+    "minecraft:exposed_copper",
     "minecraft:exposed_cut_copper",
     "minecraft:exposed_cut_copper_slab",
     "minecraft:exposed_cut_copper_stairs",
@@ -528,6 +523,7 @@
     "minecraft:orange_wall_banner",
     "minecraft:orange_wool",
     "minecraft:oxeye_daisy",
+    "minecraft:oxidized_copper",
     "minecraft:oxidized_cut_copper",
     "minecraft:oxidized_cut_copper_slab",
     "minecraft:oxidized_cut_copper_stairs",
@@ -808,6 +804,7 @@
     "minecraft:warped_wart_block",
     "minecraft:water",
     "minecraft:water_cauldron",
+    "minecraft:waxed_copper_block",
     "minecraft:waxed_cut_copper",
     "minecraft:waxed_cut_copper_slab",
     "minecraft:waxed_cut_copper_stairs",
@@ -819,6 +816,7 @@
     "minecraft:waxed_weathered_cut_copper",
     "minecraft:waxed_weathered_cut_copper_slab",
     "minecraft:waxed_weathered_cut_copper_stairs",
+    "minecraft:weathered_copper",
     "minecraft:weathered_cut_copper",
     "minecraft:weathered_cut_copper_slab",
     "minecraft:weathered_cut_copper_stairs",
@@ -860,11 +858,5 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
-  ],
-  "removed": [
-    "minecraft:exposed_copper_block",
-    "minecraft:oxidized_copper_block",
-    "minecraft:waxed_copper",
-    "minecraft:weathered_copper_block"
   ]
 }

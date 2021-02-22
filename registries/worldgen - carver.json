@@ -2,7 +2,9 @@
   "common": [
     "minecraft:canyon",
     "minecraft:cave",
-    "minecraft:nether_cave",
+    "minecraft:nether_cave"
+  ],
+  "removed": [
     "minecraft:underwater_canyon",
     "minecraft:underwater_cave"
   ]

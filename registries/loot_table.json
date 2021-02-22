@@ -1,10 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/exposed_copper",
-    "minecraft:blocks/oxidized_copper",
-    "minecraft:blocks/waxed_copper_block",
-    "minecraft:blocks/weathered_copper"
-  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",
@@ -264,6 +258,7 @@
     "minecraft:blocks/end_stone_brick_slab",
     "minecraft:blocks/end_stone_brick_stairs",
     "minecraft:blocks/end_stone_brick_wall",
+    "minecraft:blocks/exposed_copper",
     "minecraft:blocks/exposed_cut_copper",
     "minecraft:blocks/exposed_cut_copper_slab",
     "minecraft:blocks/exposed_cut_copper_stairs",
@@ -487,6 +482,7 @@
     "minecraft:blocks/orange_tulip",
     "minecraft:blocks/orange_wool",
     "minecraft:blocks/oxeye_daisy",
+    "minecraft:blocks/oxidized_copper",
     "minecraft:blocks/oxidized_cut_copper",
     "minecraft:blocks/oxidized_cut_copper_slab",
     "minecraft:blocks/oxidized_cut_copper_stairs",
@@ -750,6 +746,7 @@
     "minecraft:blocks/warped_trapdoor",
     "minecraft:blocks/warped_wart_block",
     "minecraft:blocks/water_cauldron",
+    "minecraft:blocks/waxed_copper_block",
     "minecraft:blocks/waxed_cut_copper",
     "minecraft:blocks/waxed_cut_copper_slab",
     "minecraft:blocks/waxed_cut_copper_stairs",
@@ -761,6 +758,7 @@
     "minecraft:blocks/waxed_weathered_cut_copper",
     "minecraft:blocks/waxed_weathered_cut_copper_slab",
     "minecraft:blocks/waxed_weathered_cut_copper_stairs",
+    "minecraft:blocks/weathered_copper",
     "minecraft:blocks/weathered_cut_copper",
     "minecraft:blocks/weathered_cut_copper_slab",
     "minecraft:blocks/weathered_cut_copper_stairs",
@@ -948,11 +946,5 @@
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
     "minecraft:gameplay/piglin_bartering"
-  ],
-  "removed": [
-    "minecraft:blocks/exposed_copper_block",
-    "minecraft:blocks/oxidized_copper_block",
-    "minecraft:blocks/waxed_copper",
-    "minecraft:blocks/weathered_copper_block"
   ]
 }

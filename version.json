@@ -1,26 +1,9 @@
 {
   "files": {
-    "blocks": {
-      "added": [
-        "exposed_copper",
-        "oxidized_copper",
-        "waxed_copper_block",
-        "weathered_copper"
-      ],
-      "removed": [
-        "exposed_copper_block",
-        "oxidized_copper_block",
-        "waxed_copper",
-        "weathered_copper_block"
-      ]
-    },
     "registries": {
       "changed": [
-        "advancement",
-        "block",
-        "item",
-        "loot_table",
-        "recipe"
+        "worldgen - carver",
+        "worldgen - feature"
       ]
     }
   }

@@ -1,4 +1,23 @@
 {
+  "added": [
+    "minecraft:blocks/chiseled_grimstone",
+    "minecraft:blocks/grimstone",
+    "minecraft:blocks/grimstone_bricks",
+    "minecraft:blocks/grimstone_brick_slab",
+    "minecraft:blocks/grimstone_brick_stairs",
+    "minecraft:blocks/grimstone_brick_wall",
+    "minecraft:blocks/grimstone_slab",
+    "minecraft:blocks/grimstone_stairs",
+    "minecraft:blocks/grimstone_tiles",
+    "minecraft:blocks/grimstone_tile_slab",
+    "minecraft:blocks/grimstone_tile_stairs",
+    "minecraft:blocks/grimstone_tile_wall",
+    "minecraft:blocks/grimstone_wall",
+    "minecraft:blocks/polished_grimstone",
+    "minecraft:blocks/polished_grimstone_slab",
+    "minecraft:blocks/polished_grimstone_stairs",
+    "minecraft:blocks/polished_grimstone_wall"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",

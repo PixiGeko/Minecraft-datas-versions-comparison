@@ -1,4 +1,23 @@
 {
+  "added": [
+    "minecraft:chiseled_grimstone",
+    "minecraft:grimstone",
+    "minecraft:grimstone_brick_slab",
+    "minecraft:grimstone_brick_stairs",
+    "minecraft:grimstone_brick_wall",
+    "minecraft:grimstone_bricks",
+    "minecraft:grimstone_slab",
+    "minecraft:grimstone_stairs",
+    "minecraft:grimstone_tile_slab",
+    "minecraft:grimstone_tile_stairs",
+    "minecraft:grimstone_tile_wall",
+    "minecraft:grimstone_tiles",
+    "minecraft:grimstone_wall",
+    "minecraft:polished_grimstone",
+    "minecraft:polished_grimstone_slab",
+    "minecraft:polished_grimstone_stairs",
+    "minecraft:polished_grimstone_wall"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

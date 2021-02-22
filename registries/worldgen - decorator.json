@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:range_biased_to_bottom",
+    "minecraft:range_very_biased_to_bottom"
+  ],
   "common": [
     "minecraft:carving_mask",
     "minecraft:chance",
@@ -10,24 +14,26 @@
     "minecraft:dark_oak_tree",
     "minecraft:decorated",
     "minecraft:depth_average",
-    "minecraft:emerald_ore",
     "minecraft:end_gateway",
-    "minecraft:end_island",
-    "minecraft:fire",
     "minecraft:glowstone",
     "minecraft:heightmap",
     "minecraft:heightmap_spread_double",
     "minecraft:heightmap_world_surface",
     "minecraft:iceberg",
     "minecraft:lava_lake",
-    "minecraft:magma",
     "minecraft:nope",
     "minecraft:range",
-    "minecraft:range_biased",
-    "minecraft:range_very_biased",
     "minecraft:spread_32_above",
     "minecraft:square",
-    "minecraft:top_solid_heightmap",
+    "minecraft:top_solid_heightmap"
+  ],
+  "removed": [
+    "minecraft:emerald_ore",
+    "minecraft:end_island",
+    "minecraft:fire",
+    "minecraft:magma",
+    "minecraft:range_biased",
+    "minecraft:range_very_biased",
     "minecraft:water_lake"
   ]
 }

@@ -1,4 +1,26 @@
 {
+  "added": [
+    "minecraft:block.deepslate.break",
+    "minecraft:block.deepslate.fall",
+    "minecraft:block.deepslate.hit",
+    "minecraft:block.deepslate.place",
+    "minecraft:block.deepslate.step",
+    "minecraft:block.deepslate_bricks.break",
+    "minecraft:block.deepslate_bricks.fall",
+    "minecraft:block.deepslate_bricks.hit",
+    "minecraft:block.deepslate_bricks.place",
+    "minecraft:block.deepslate_bricks.step",
+    "minecraft:block.deepslate_tiles.break",
+    "minecraft:block.deepslate_tiles.fall",
+    "minecraft:block.deepslate_tiles.hit",
+    "minecraft:block.deepslate_tiles.place",
+    "minecraft:block.deepslate_tiles.step",
+    "minecraft:block.polished_deepslate.break",
+    "minecraft:block.polished_deepslate.fall",
+    "minecraft:block.polished_deepslate.hit",
+    "minecraft:block.polished_deepslate.place",
+    "minecraft:block.polished_deepslate.step"
+  ],
   "common": [
     "minecraft:ambient.basalt_deltas.additions",
     "minecraft:ambient.basalt_deltas.loop",

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:scattered_ore"
+  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",
@@ -41,7 +44,6 @@
     "minecraft:netherrack_replace_blobs",
     "minecraft:no_bonemeal_flower",
     "minecraft:no_op",
-    "minecraft:no_surface_ore",
     "minecraft:ore",
     "minecraft:random_boolean_selector",
     "minecraft:random_patch",
@@ -58,5 +60,8 @@
     "minecraft:vines",
     "minecraft:void_start_platform",
     "minecraft:weeping_vines"
+  ],
+  "removed": [
+    "minecraft:no_surface_ore"
   ]
 }

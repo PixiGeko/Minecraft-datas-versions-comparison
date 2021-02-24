@@ -1,0 +1,8 @@
+{
+  "added": [
+    "minecraft:clamped_normal",
+    "minecraft:constant",
+    "minecraft:trapezoid",
+    "minecraft:uniform"
+  ]
+}

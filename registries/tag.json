@@ -1,4 +1,16 @@
 {
+  "added": [
+    "minecraft:blocks/deepslate_ore_replaceables",
+    "minecraft:blocks/diamond_ores",
+    "minecraft:blocks/iron_ores",
+    "minecraft:blocks/lapis_ores",
+    "minecraft:blocks/redstone_ores",
+    "minecraft:blocks/stone_ore_replaceables",
+    "minecraft:items/diamond_ores",
+    "minecraft:items/iron_ores",
+    "minecraft:items/lapis_ores",
+    "minecraft:items/redstone_ores"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

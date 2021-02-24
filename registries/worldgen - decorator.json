@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:range_biased_to_bottom",
-    "minecraft:range_very_biased_to_bottom"
-  ],
   "common": [
     "minecraft:carving_mask",
     "minecraft:chance",
@@ -23,17 +19,10 @@
     "minecraft:lava_lake",
     "minecraft:nope",
     "minecraft:range",
+    "minecraft:range_biased_to_bottom",
+    "minecraft:range_very_biased_to_bottom",
     "minecraft:spread_32_above",
     "minecraft:square",
     "minecraft:top_solid_heightmap"
-  ],
-  "removed": [
-    "minecraft:emerald_ore",
-    "minecraft:end_island",
-    "minecraft:fire",
-    "minecraft:magma",
-    "minecraft:range_biased",
-    "minecraft:range_very_biased",
-    "minecraft:water_lake"
   ]
 }

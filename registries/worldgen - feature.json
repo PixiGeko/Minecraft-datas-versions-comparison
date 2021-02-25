@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:scattered_ore"
-  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",
@@ -48,6 +45,7 @@
     "minecraft:random_boolean_selector",
     "minecraft:random_patch",
     "minecraft:random_selector",
+    "minecraft:scattered_ore",
     "minecraft:sea_pickle",
     "minecraft:seagrass",
     "minecraft:simple_block",
@@ -60,8 +58,5 @@
     "minecraft:vines",
     "minecraft:void_start_platform",
     "minecraft:weeping_vines"
-  ],
-  "removed": [
-    "minecraft:no_surface_ore"
   ]
 }

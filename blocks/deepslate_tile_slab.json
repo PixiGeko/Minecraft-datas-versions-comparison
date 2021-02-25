@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "deepslate_tile_slab[type=top,waterlogged=true]",
+    "deepslate_tile_slab[type=top,waterlogged=false]",
+    "deepslate_tile_slab[type=bottom,waterlogged=true]",
+    "deepslate_tile_slab[type=bottom,waterlogged=false]",
+    "deepslate_tile_slab[type=double,waterlogged=true]",
+    "deepslate_tile_slab[type=double,waterlogged=false]"
   ]
 }

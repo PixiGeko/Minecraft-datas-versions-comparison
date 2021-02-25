@@ -1,28 +1,10 @@
 {
-  "added": [
-    {
-      "type": "top",
-      "waterlogged": true
-    },
-    {
-      "type": "top",
-      "waterlogged": false
-    },
-    {
-      "type": "bottom",
-      "waterlogged": true
-    },
-    {
-      "type": "bottom",
-      "waterlogged": false
-    },
-    {
-      "type": "double",
-      "waterlogged": true
-    },
-    {
-      "type": "double",
-      "waterlogged": false
-    }
+  "common": [
+    "cobbled_deepslate_slab[type=top,waterlogged=true]",
+    "cobbled_deepslate_slab[type=top,waterlogged=false]",
+    "cobbled_deepslate_slab[type=bottom,waterlogged=true]",
+    "cobbled_deepslate_slab[type=bottom,waterlogged=false]",
+    "cobbled_deepslate_slab[type=double,waterlogged=true]",
+    "cobbled_deepslate_slab[type=double,waterlogged=false]"
   ]
 }

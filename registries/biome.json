@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:lush_caves"
+  ],
   "common": [
     "minecraft:badlands",
     "minecraft:badlands_plateau",

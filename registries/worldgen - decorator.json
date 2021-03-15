@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:cave_surface",
+    "minecraft:heightmap_with_water_threshold"
+  ],
   "common": [
     "minecraft:carving_mask",
     "minecraft:chance",
@@ -14,7 +18,6 @@
     "minecraft:glowstone",
     "minecraft:heightmap",
     "minecraft:heightmap_spread_double",
-    "minecraft:heightmap_world_surface",
     "minecraft:iceberg",
     "minecraft:lava_lake",
     "minecraft:nope",
@@ -22,7 +25,10 @@
     "minecraft:range_biased_to_bottom",
     "minecraft:range_very_biased_to_bottom",
     "minecraft:spread_32_above",
-    "minecraft:square",
+    "minecraft:square"
+  ],
+  "removed": [
+    "minecraft:heightmap_world_surface",
     "minecraft:top_solid_heightmap"
   ]
 }

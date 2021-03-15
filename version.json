@@ -1,3 +1,50 @@
 {
-  "files": {}
+  "files": {
+    "blocks": {
+      "added": [
+        "cracked_deepslate_bricks",
+        "cracked_deepslate_tiles",
+        "deepslate_coal_ore",
+        "deepslate_copper_ore",
+        "deepslate_emerald_ore",
+        "infested_deepslate"
+      ],
+      "changed": [
+        "acacia_sign",
+        "acacia_wall_sign",
+        "birch_sign",
+        "birch_wall_sign",
+        "crimson_sign",
+        "crimson_wall_sign",
+        "dark_oak_sign",
+        "dark_oak_wall_sign",
+        "deepslate",
+        "jungle_sign",
+        "jungle_wall_sign",
+        "oak_sign",
+        "oak_wall_sign",
+        "spruce_sign",
+        "spruce_wall_sign",
+        "warped_sign",
+        "warped_wall_sign"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "advancement",
+        "biome",
+        "block",
+        "item",
+        "loot_table",
+        "recipe",
+        "sound_event",
+        "tag",
+        "worldgen - block_state_provider_type",
+        "worldgen - decorator",
+        "worldgen - feature",
+        "worldgen - foliage_placer_type",
+        "worldgen - trunk_placer_type"
+      ]
+    }
+  }
 }

@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:growing_plant",
+    "minecraft:root_system",
+    "minecraft:vegetation_patch",
+    "minecraft:waterlogged_vegetation_patch"
+  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",

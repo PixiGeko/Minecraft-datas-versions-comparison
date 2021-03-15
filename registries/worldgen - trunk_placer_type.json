@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:bending_trunk_placer"
+  ],
   "common": [
     "minecraft:dark_oak_trunk_placer",
     "minecraft:fancy_trunk_placer",

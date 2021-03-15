@@ -1,8 +1,16 @@
 {
+  "added": [
+    "minecraft:blocks/coal_ores",
+    "minecraft:blocks/copper_ores",
+    "minecraft:blocks/emerald_ores",
+    "minecraft:blocks/lush_ground_replaceable",
+    "minecraft:items/coal_ores",
+    "minecraft:items/copper_ores",
+    "minecraft:items/emerald_ores"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
-    "minecraft:blocks/azalea_log_replaceable",
     "minecraft:blocks/bamboo_plantable_on",
     "minecraft:blocks/banners",
     "minecraft:blocks/base_stone_nether",
@@ -179,5 +187,8 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:blocks/azalea_log_replaceable"
   ]
 }

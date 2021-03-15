@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:random_spread_foliage_placer"
+  ],
   "common": [
     "minecraft:acacia_foliage_placer",
     "minecraft:blob_foliage_placer",

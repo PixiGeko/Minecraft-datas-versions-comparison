@@ -1,4 +1,12 @@
 {
+  "added": [
+    "minecraft:blocks/cracked_deepslate_bricks",
+    "minecraft:blocks/cracked_deepslate_tiles",
+    "minecraft:blocks/deepslate_coal_ore",
+    "minecraft:blocks/deepslate_copper_ore",
+    "minecraft:blocks/deepslate_emerald_ore",
+    "minecraft:blocks/infested_deepslate"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",

@@ -1,11 +1,7 @@
 {
   "added": [
-    "minecraft:cracked_deepslate_bricks",
-    "minecraft:cracked_deepslate_tiles",
-    "minecraft:deepslate_coal_ore",
-    "minecraft:deepslate_copper_ore",
-    "minecraft:deepslate_emerald_ore",
-    "minecraft:infested_deepslate"
+    "minecraft:cave_vines",
+    "minecraft:cave_vines_plant"
   ],
   "common": [
     "minecraft:acacia_button",
@@ -147,8 +143,6 @@
     "minecraft:carved_pumpkin",
     "minecraft:cauldron",
     "minecraft:cave_air",
-    "minecraft:cave_vines_body",
-    "minecraft:cave_vines_head",
     "minecraft:chain",
     "minecraft:chain_command_block",
     "minecraft:chest",
@@ -183,6 +177,8 @@
     "minecraft:copper_block",
     "minecraft:copper_ore",
     "minecraft:cornflower",
+    "minecraft:cracked_deepslate_bricks",
+    "minecraft:cracked_deepslate_tiles",
     "minecraft:cracked_nether_bricks",
     "minecraft:cracked_polished_blackstone_bricks",
     "minecraft:cracked_stone_bricks",
@@ -274,7 +270,10 @@
     "minecraft:deepslate_brick_stairs",
     "minecraft:deepslate_brick_wall",
     "minecraft:deepslate_bricks",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_copper_ore",
     "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_emerald_ore",
     "minecraft:deepslate_gold_ore",
     "minecraft:deepslate_iron_ore",
     "minecraft:deepslate_lapis_ore",
@@ -385,6 +384,7 @@
     "minecraft:infested_chiseled_stone_bricks",
     "minecraft:infested_cobblestone",
     "minecraft:infested_cracked_stone_bricks",
+    "minecraft:infested_deepslate",
     "minecraft:infested_mossy_stone_bricks",
     "minecraft:infested_stone",
     "minecraft:infested_stone_bricks",
@@ -890,5 +890,9 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
+  ],
+  "removed": [
+    "minecraft:cave_vines_body",
+    "minecraft:cave_vines_head"
   ]
 }

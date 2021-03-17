@@ -1,10 +1,10 @@
 {
   "added": [
-    "minecraft:cave_surface",
-    "minecraft:heightmap_with_water_threshold"
+    "minecraft:water_depth_threshold"
   ],
   "common": [
     "minecraft:carving_mask",
+    "minecraft:cave_surface",
     "minecraft:chance",
     "minecraft:count",
     "minecraft:count_extra",
@@ -28,7 +28,6 @@
     "minecraft:square"
   ],
   "removed": [
-    "minecraft:heightmap_world_surface",
-    "minecraft:top_solid_heightmap"
+    "minecraft:heightmap_with_water_threshold"
   ]
 }

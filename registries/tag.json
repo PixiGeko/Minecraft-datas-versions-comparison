@@ -1,12 +1,6 @@
 {
   "added": [
-    "minecraft:blocks/coal_ores",
-    "minecraft:blocks/copper_ores",
-    "minecraft:blocks/emerald_ores",
-    "minecraft:blocks/lush_ground_replaceable",
-    "minecraft:items/coal_ores",
-    "minecraft:items/copper_ores",
-    "minecraft:items/emerald_ores"
+    "minecraft:items/cluster_max_harvestables"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -28,6 +22,8 @@
     "minecraft:blocks/cauldrons",
     "minecraft:blocks/cave_vines",
     "minecraft:blocks/climbable",
+    "minecraft:blocks/coal_ores",
+    "minecraft:blocks/copper_ores",
     "minecraft:blocks/corals",
     "minecraft:blocks/coral_blocks",
     "minecraft:blocks/coral_plants",
@@ -40,6 +36,7 @@
     "minecraft:blocks/doors",
     "minecraft:blocks/dragon_immune",
     "minecraft:blocks/dripstone_replaceable_blocks",
+    "minecraft:blocks/emerald_ores",
     "minecraft:blocks/enderman_holdable",
     "minecraft:blocks/fences",
     "minecraft:blocks/fence_gates",
@@ -61,6 +58,7 @@
     "minecraft:blocks/leaves",
     "minecraft:blocks/logs",
     "minecraft:blocks/logs_that_burn",
+    "minecraft:blocks/lush_ground_replaceable",
     "minecraft:blocks/lush_plants_replaceable",
     "minecraft:blocks/mushroom_grow_block",
     "minecraft:blocks/non_flammable_wood",
@@ -135,11 +133,14 @@
     "minecraft:items/candles",
     "minecraft:items/carpets",
     "minecraft:items/coals",
+    "minecraft:items/coal_ores",
+    "minecraft:items/copper_ores",
     "minecraft:items/creeper_drop_music_discs",
     "minecraft:items/crimson_stems",
     "minecraft:items/dark_oak_logs",
     "minecraft:items/diamond_ores",
     "minecraft:items/doors",
+    "minecraft:items/emerald_ores",
     "minecraft:items/fences",
     "minecraft:items/fishes",
     "minecraft:items/flowers",
@@ -187,8 +188,5 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
-  ],
-  "removed": [
-    "minecraft:blocks/azalea_log_replaceable"
   ]
 }

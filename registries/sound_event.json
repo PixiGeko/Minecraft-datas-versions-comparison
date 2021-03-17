@@ -1,10 +1,8 @@
 {
   "added": [
-    "minecraft:entity.glow_item_frame.add_item",
-    "minecraft:entity.glow_item_frame.break",
-    "minecraft:entity.glow_item_frame.place",
-    "minecraft:entity.glow_item_frame.remove_item",
-    "minecraft:entity.glow_item_frame.rotate_item"
+    "minecraft:item.axe.scrape",
+    "minecraft:item.axe.wax_off",
+    "minecraft:item.honeycomb.wax_on"
   ],
   "common": [
     "minecraft:ambient.basalt_deltas.additions",
@@ -659,6 +657,11 @@
     "minecraft:entity.ghast.scream",
     "minecraft:entity.ghast.shoot",
     "minecraft:entity.ghast.warn",
+    "minecraft:entity.glow_item_frame.add_item",
+    "minecraft:entity.glow_item_frame.break",
+    "minecraft:entity.glow_item_frame.place",
+    "minecraft:entity.glow_item_frame.remove_item",
+    "minecraft:entity.glow_item_frame.rotate_item",
     "minecraft:entity.glow_squid.ambient",
     "minecraft:entity.glow_squid.death",
     "minecraft:entity.glow_squid.hurt",

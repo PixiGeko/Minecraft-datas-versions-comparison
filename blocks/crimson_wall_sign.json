@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "crimson_wall_sign[facing=north,waterlogged=true]",
     "crimson_wall_sign[facing=north,waterlogged=false]",
     "crimson_wall_sign[facing=south,waterlogged=true]",
@@ -8,23 +8,5 @@
     "crimson_wall_sign[facing=west,waterlogged=false]",
     "crimson_wall_sign[facing=east,waterlogged=true]",
     "crimson_wall_sign[facing=east,waterlogged=false]"
-  ],
-  "removed": [
-    "crimson_wall_sign[facing=north,lit=true,waterlogged=true]",
-    "crimson_wall_sign[facing=north,lit=true,waterlogged=false]",
-    "crimson_wall_sign[facing=north,lit=false,waterlogged=true]",
-    "crimson_wall_sign[facing=north,lit=false,waterlogged=false]",
-    "crimson_wall_sign[facing=south,lit=true,waterlogged=true]",
-    "crimson_wall_sign[facing=south,lit=true,waterlogged=false]",
-    "crimson_wall_sign[facing=south,lit=false,waterlogged=true]",
-    "crimson_wall_sign[facing=south,lit=false,waterlogged=false]",
-    "crimson_wall_sign[facing=west,lit=true,waterlogged=true]",
-    "crimson_wall_sign[facing=west,lit=true,waterlogged=false]",
-    "crimson_wall_sign[facing=west,lit=false,waterlogged=true]",
-    "crimson_wall_sign[facing=west,lit=false,waterlogged=false]",
-    "crimson_wall_sign[facing=east,lit=true,waterlogged=true]",
-    "crimson_wall_sign[facing=east,lit=true,waterlogged=false]",
-    "crimson_wall_sign[facing=east,lit=false,waterlogged=true]",
-    "crimson_wall_sign[facing=east,lit=false,waterlogged=false]"
   ]
 }

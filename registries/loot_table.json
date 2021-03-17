@@ -1,11 +1,7 @@
 {
   "added": [
-    "minecraft:blocks/cracked_deepslate_bricks",
-    "minecraft:blocks/cracked_deepslate_tiles",
-    "minecraft:blocks/deepslate_coal_ore",
-    "minecraft:blocks/deepslate_copper_ore",
-    "minecraft:blocks/deepslate_emerald_ore",
-    "minecraft:blocks/infested_deepslate"
+    "minecraft:blocks/cave_vines",
+    "minecraft:blocks/cave_vines_plant"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -135,8 +131,6 @@
     "minecraft:blocks/cartography_table",
     "minecraft:blocks/carved_pumpkin",
     "minecraft:blocks/cauldron",
-    "minecraft:blocks/cave_vines_body",
-    "minecraft:blocks/cave_vines_head",
     "minecraft:blocks/chain",
     "minecraft:blocks/chest",
     "minecraft:blocks/chipped_anvil",
@@ -169,6 +163,8 @@
     "minecraft:blocks/copper_block",
     "minecraft:blocks/copper_ore",
     "minecraft:blocks/cornflower",
+    "minecraft:blocks/cracked_deepslate_bricks",
+    "minecraft:blocks/cracked_deepslate_tiles",
     "minecraft:blocks/cracked_nether_bricks",
     "minecraft:blocks/cracked_polished_blackstone_bricks",
     "minecraft:blocks/cracked_stone_bricks",
@@ -251,7 +247,10 @@
     "minecraft:blocks/deepslate_brick_slab",
     "minecraft:blocks/deepslate_brick_stairs",
     "minecraft:blocks/deepslate_brick_wall",
+    "minecraft:blocks/deepslate_coal_ore",
+    "minecraft:blocks/deepslate_copper_ore",
     "minecraft:blocks/deepslate_diamond_ore",
+    "minecraft:blocks/deepslate_emerald_ore",
     "minecraft:blocks/deepslate_gold_ore",
     "minecraft:blocks/deepslate_iron_ore",
     "minecraft:blocks/deepslate_lapis_ore",
@@ -354,6 +353,7 @@
     "minecraft:blocks/infested_chiseled_stone_bricks",
     "minecraft:blocks/infested_cobblestone",
     "minecraft:blocks/infested_cracked_stone_bricks",
+    "minecraft:blocks/infested_deepslate",
     "minecraft:blocks/infested_mossy_stone_bricks",
     "minecraft:blocks/infested_stone",
     "minecraft:blocks/infested_stone_bricks",
@@ -978,5 +978,9 @@
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
     "minecraft:gameplay/piglin_bartering"
+  ],
+  "removed": [
+    "minecraft:blocks/cave_vines_body",
+    "minecraft:blocks/cave_vines_head"
   ]
 }

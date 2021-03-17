@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "oak_wall_sign[facing=north,waterlogged=true]",
     "oak_wall_sign[facing=north,waterlogged=false]",
     "oak_wall_sign[facing=south,waterlogged=true]",
@@ -8,23 +8,5 @@
     "oak_wall_sign[facing=west,waterlogged=false]",
     "oak_wall_sign[facing=east,waterlogged=true]",
     "oak_wall_sign[facing=east,waterlogged=false]"
-  ],
-  "removed": [
-    "oak_wall_sign[facing=north,lit=true,waterlogged=true]",
-    "oak_wall_sign[facing=north,lit=true,waterlogged=false]",
-    "oak_wall_sign[facing=north,lit=false,waterlogged=true]",
-    "oak_wall_sign[facing=north,lit=false,waterlogged=false]",
-    "oak_wall_sign[facing=south,lit=true,waterlogged=true]",
-    "oak_wall_sign[facing=south,lit=true,waterlogged=false]",
-    "oak_wall_sign[facing=south,lit=false,waterlogged=true]",
-    "oak_wall_sign[facing=south,lit=false,waterlogged=false]",
-    "oak_wall_sign[facing=west,lit=true,waterlogged=true]",
-    "oak_wall_sign[facing=west,lit=true,waterlogged=false]",
-    "oak_wall_sign[facing=west,lit=false,waterlogged=true]",
-    "oak_wall_sign[facing=west,lit=false,waterlogged=false]",
-    "oak_wall_sign[facing=east,lit=true,waterlogged=true]",
-    "oak_wall_sign[facing=east,lit=true,waterlogged=false]",
-    "oak_wall_sign[facing=east,lit=false,waterlogged=true]",
-    "oak_wall_sign[facing=east,lit=false,waterlogged=false]"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "spruce_wall_sign[facing=north,waterlogged=true]",
     "spruce_wall_sign[facing=north,waterlogged=false]",
     "spruce_wall_sign[facing=south,waterlogged=true]",
@@ -8,23 +8,5 @@
     "spruce_wall_sign[facing=west,waterlogged=false]",
     "spruce_wall_sign[facing=east,waterlogged=true]",
     "spruce_wall_sign[facing=east,waterlogged=false]"
-  ],
-  "removed": [
-    "spruce_wall_sign[facing=north,lit=true,waterlogged=true]",
-    "spruce_wall_sign[facing=north,lit=true,waterlogged=false]",
-    "spruce_wall_sign[facing=north,lit=false,waterlogged=true]",
-    "spruce_wall_sign[facing=north,lit=false,waterlogged=false]",
-    "spruce_wall_sign[facing=south,lit=true,waterlogged=true]",
-    "spruce_wall_sign[facing=south,lit=true,waterlogged=false]",
-    "spruce_wall_sign[facing=south,lit=false,waterlogged=true]",
-    "spruce_wall_sign[facing=south,lit=false,waterlogged=false]",
-    "spruce_wall_sign[facing=west,lit=true,waterlogged=true]",
-    "spruce_wall_sign[facing=west,lit=true,waterlogged=false]",
-    "spruce_wall_sign[facing=west,lit=false,waterlogged=true]",
-    "spruce_wall_sign[facing=west,lit=false,waterlogged=false]",
-    "spruce_wall_sign[facing=east,lit=true,waterlogged=true]",
-    "spruce_wall_sign[facing=east,lit=true,waterlogged=false]",
-    "spruce_wall_sign[facing=east,lit=false,waterlogged=true]",
-    "spruce_wall_sign[facing=east,lit=false,waterlogged=false]"
   ]
 }

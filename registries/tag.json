@@ -1,6 +1,10 @@
 {
   "added": [
-    "minecraft:items/cluster_max_harvestables"
+    "minecraft:blocks/dirt",
+    "minecraft:blocks/snow",
+    "minecraft:entity_types/axolotl_hunt_targets",
+    "minecraft:entity_types/freeze_hurts_extra_types",
+    "minecraft:entity_types/freeze_immune_entity_types"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -110,7 +114,6 @@
     "minecraft:blocks/wool",
     "minecraft:entity_types/arrows",
     "minecraft:entity_types/axolotl_always_hostiles",
-    "minecraft:entity_types/axolotl_tempted_hostiles",
     "minecraft:entity_types/beehive_inhabitors",
     "minecraft:entity_types/impact_projectiles",
     "minecraft:entity_types/powder_snow_walkable_mobs",
@@ -132,6 +135,7 @@
     "minecraft:items/buttons",
     "minecraft:items/candles",
     "minecraft:items/carpets",
+    "minecraft:items/cluster_max_harvestables",
     "minecraft:items/coals",
     "minecraft:items/coal_ores",
     "minecraft:items/copper_ores",
@@ -188,5 +192,8 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:entity_types/axolotl_tempted_hostiles"
   ]
 }

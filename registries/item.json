@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:goat_spawn_egg",
+    "minecraft:light"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",

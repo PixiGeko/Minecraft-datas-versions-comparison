@@ -1,7 +1,6 @@
 {
   "added": [
-    "minecraft:cave_vines",
-    "minecraft:cave_vines_plant"
+    "minecraft:light"
   ],
   "common": [
     "minecraft:acacia_button",
@@ -143,6 +142,8 @@
     "minecraft:carved_pumpkin",
     "minecraft:cauldron",
     "minecraft:cave_air",
+    "minecraft:cave_vines",
+    "minecraft:cave_vines_plant",
     "minecraft:chain",
     "minecraft:chain_command_block",
     "minecraft:chest",
@@ -890,9 +891,5 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
-  ],
-  "removed": [
-    "minecraft:cave_vines_body",
-    "minecraft:cave_vines_head"
   ]
 }

@@ -2,28 +2,29 @@
   "files": {
     "blocks": {
       "added": [
-        "cave_vines",
-        "cave_vines_plant"
-      ],
-      "changed": [
-        "lightning_rod",
-        "small_dripleaf"
-      ],
-      "removed": [
-        "cave_vines_body",
-        "cave_vines_head"
+        "light"
       ]
     },
     "registries": {
+      "added": [
+        "float_provider_type",
+        "height_provider_type",
+        "int_provider_type"
+      ],
       "changed": [
-        "advancement",
+        "activity",
         "block",
+        "entity_type",
+        "item",
         "loot_table",
+        "memory_module_type",
         "particle_type",
-        "recipe",
+        "sensor_type",
         "sound_event",
-        "tag",
-        "worldgen - decorator"
+        "tag"
+      ],
+      "removed": [
+        "worldgen - float_provider_type"
       ]
     }
   }

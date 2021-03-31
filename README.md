@@ -1,17 +1,18 @@
 # Blocks
 | Added | Changed | Removed |
 |-------|---------|---------|
-| [cave_vines](./blocks/cave_vines.json) | [lightning_rod](./blocks/lightning_rod.json) | [cave_vines_body](./blocks/cave_vines_body.json) |
-| [cave_vines_plant](./blocks/cave_vines_plant.json) | [small_dripleaf](./blocks/small_dripleaf.json) | [cave_vines_head](./blocks/cave_vines_head.json) |
+| [light](./blocks/light.json) |  |  |
 
 # Registries
 | Added | Changed | Removed |
 |-------|---------|---------|
-|  | [advancement](./registries/advancement.json) |  |
-|  | [block](./registries/block.json) |  |
+| [float_provider_type](./registries/float_provider_type.json) | [activity](./registries/activity.json) | [worldgen - float_provider_type](./registries/worldgen%20-%20float_provider_type.json) |
+| [height_provider_type](./registries/height_provider_type.json) | [block](./registries/block.json) |  |
+| [int_provider_type](./registries/int_provider_type.json) | [entity_type](./registries/entity_type.json) |  |
+|  | [item](./registries/item.json) |  |
 |  | [loot_table](./registries/loot_table.json) |  |
+|  | [memory_module_type](./registries/memory_module_type.json) |  |
 |  | [particle_type](./registries/particle_type.json) |  |
-|  | [recipe](./registries/recipe.json) |  |
+|  | [sensor_type](./registries/sensor_type.json) |  |
 |  | [sound_event](./registries/sound_event.json) |  |
 |  | [tag](./registries/tag.json) |  |
-|  | [worldgen - decorator](./registries/worldgen%20-%20decorator.json) |  |

@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:long_jump"
+  ],
   "common": [
     "minecraft:admire_item",
     "minecraft:avoid",

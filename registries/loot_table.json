@@ -1,7 +1,6 @@
 {
   "added": [
-    "minecraft:blocks/cave_vines",
-    "minecraft:blocks/cave_vines_plant"
+    "minecraft:entities/goat"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -131,6 +130,8 @@
     "minecraft:blocks/cartography_table",
     "minecraft:blocks/carved_pumpkin",
     "minecraft:blocks/cauldron",
+    "minecraft:blocks/cave_vines",
+    "minecraft:blocks/cave_vines_plant",
     "minecraft:blocks/chain",
     "minecraft:blocks/chest",
     "minecraft:blocks/chipped_anvil",
@@ -978,9 +979,5 @@
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
     "minecraft:gameplay/piglin_bartering"
-  ],
-  "removed": [
-    "minecraft:blocks/cave_vines_body",
-    "minecraft:blocks/cave_vines_head"
   ]
 }

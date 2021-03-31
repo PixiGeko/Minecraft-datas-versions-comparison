@@ -1,8 +1,16 @@
 {
   "added": [
-    "minecraft:item.axe.scrape",
-    "minecraft:item.axe.wax_off",
-    "minecraft:item.honeycomb.wax_on"
+    "minecraft:entity.goat.ambient",
+    "minecraft:entity.goat.death",
+    "minecraft:entity.goat.hurt",
+    "minecraft:entity.goat.milk",
+    "minecraft:entity.goat.prepare_ram",
+    "minecraft:entity.goat.screaming.ambient",
+    "minecraft:entity.goat.screaming.death",
+    "minecraft:entity.goat.screaming.hurt",
+    "minecraft:entity.goat.screaming.milk",
+    "minecraft:entity.goat.screaming.ram",
+    "minecraft:entity.goat.step"
   ],
   "common": [
     "minecraft:ambient.basalt_deltas.additions",
@@ -1086,7 +1094,9 @@
     "minecraft:item.armor.equip_leather",
     "minecraft:item.armor.equip_netherite",
     "minecraft:item.armor.equip_turtle",
+    "minecraft:item.axe.scrape",
     "minecraft:item.axe.strip",
+    "minecraft:item.axe.wax_off",
     "minecraft:item.book.page_turn",
     "minecraft:item.book.put",
     "minecraft:item.bottle.empty",
@@ -1119,6 +1129,7 @@
     "minecraft:item.glow_ink_sac.use",
     "minecraft:item.hoe.till",
     "minecraft:item.honey_bottle.drink",
+    "minecraft:item.honeycomb.wax_on",
     "minecraft:item.ink_sac.use",
     "minecraft:item.lodestone_compass.lock",
     "minecraft:item.nether_wart.plant",

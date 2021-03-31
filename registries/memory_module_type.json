@@ -1,4 +1,10 @@
 {
+  "added": [
+    "minecraft:has_hunting_cooldown",
+    "minecraft:long_jump_cooling_down",
+    "minecraft:long_jump_mid_jump",
+    "minecraft:nearest_attackable"
+  ],
   "common": [
     "minecraft:admiring_disabled",
     "minecraft:admiring_item",

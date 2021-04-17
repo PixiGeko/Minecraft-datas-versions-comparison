@@ -1,7 +1,7 @@
 {
   "common": [
-    "debug report",
     "debug start",
-    "debug stop"
+    "debug stop",
+    "debug report"
   ]
 }

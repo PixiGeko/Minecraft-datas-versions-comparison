@@ -1,7 +1,12 @@
 {
   "added": [
-    "minecraft:goat_spawn_egg",
-    "minecraft:light"
+    "minecraft:raw_copper",
+    "minecraft:raw_gold",
+    "minecraft:raw_iron",
+    "minecraft:waxed_oxidized_copper",
+    "minecraft:waxed_oxidized_cut_copper",
+    "minecraft:waxed_oxidized_cut_copper_slab",
+    "minecraft:waxed_oxidized_cut_copper_stairs"
   ],
   "common": [
     "minecraft:acacia_boat",
@@ -415,6 +420,7 @@
     "minecraft:glow_squid_spawn_egg",
     "minecraft:glowstone",
     "minecraft:glowstone_dust",
+    "minecraft:goat_spawn_egg",
     "minecraft:gold_block",
     "minecraft:gold_ingot",
     "minecraft:gold_nugget",
@@ -547,6 +553,7 @@
     "minecraft:leather_leggings",
     "minecraft:lectern",
     "minecraft:lever",
+    "minecraft:light",
     "minecraft:light_blue_banner",
     "minecraft:light_blue_bed",
     "minecraft:light_blue_candle",

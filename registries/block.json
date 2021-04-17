@@ -1,6 +1,9 @@
 {
   "added": [
-    "minecraft:light"
+    "minecraft:waxed_oxidized_copper",
+    "minecraft:waxed_oxidized_cut_copper",
+    "minecraft:waxed_oxidized_cut_copper_slab",
+    "minecraft:waxed_oxidized_cut_copper_stairs"
   ],
   "common": [
     "minecraft:acacia_button",
@@ -424,6 +427,7 @@
     "minecraft:lava_cauldron",
     "minecraft:lectern",
     "minecraft:lever",
+    "minecraft:light",
     "minecraft:light_blue_banner",
     "minecraft:light_blue_bed",
     "minecraft:light_blue_candle",

@@ -1,18 +1,17 @@
 # Blocks
 | Added | Changed | Removed |
 |-------|---------|---------|
-| [light](./blocks/light.json) |  |  |
+| [waxed_oxidized_copper](./blocks/waxed_oxidized_copper.json) |  |  |
+| [waxed_oxidized_cut_copper](./blocks/waxed_oxidized_cut_copper.json) |  |  |
+| [waxed_oxidized_cut_copper_slab](./blocks/waxed_oxidized_cut_copper_slab.json) |  |  |
+| [waxed_oxidized_cut_copper_stairs](./blocks/waxed_oxidized_cut_copper_stairs.json) |  |  |
 
 # Registries
 | Added | Changed | Removed |
 |-------|---------|---------|
-| [float_provider_type](./registries/float_provider_type.json) | [activity](./registries/activity.json) | [worldgen - float_provider_type](./registries/worldgen%20-%20float_provider_type.json) |
-| [height_provider_type](./registries/height_provider_type.json) | [block](./registries/block.json) |  |
-| [int_provider_type](./registries/int_provider_type.json) | [entity_type](./registries/entity_type.json) |  |
+|  | [advancement](./registries/advancement.json) |  |
+|  | [block](./registries/block.json) |  |
 |  | [item](./registries/item.json) |  |
 |  | [loot_table](./registries/loot_table.json) |  |
-|  | [memory_module_type](./registries/memory_module_type.json) |  |
-|  | [particle_type](./registries/particle_type.json) |  |
-|  | [sensor_type](./registries/sensor_type.json) |  |
-|  | [sound_event](./registries/sound_event.json) |  |
-|  | [tag](./registries/tag.json) |  |
+|  | [recipe](./registries/recipe.json) |  |
+|  | [worldgen - carver](./registries/worldgen%20-%20carver.json) |  |

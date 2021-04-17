@@ -1,6 +1,9 @@
 {
   "added": [
-    "minecraft:entities/goat"
+    "minecraft:blocks/waxed_oxidized_copper",
+    "minecraft:blocks/waxed_oxidized_cut_copper",
+    "minecraft:blocks/waxed_oxidized_cut_copper_slab",
+    "minecraft:blocks/waxed_oxidized_cut_copper_stairs"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -893,6 +896,7 @@
     "minecraft:entities/ghast",
     "minecraft:entities/giant",
     "minecraft:entities/glow_squid",
+    "minecraft:entities/goat",
     "minecraft:entities/guardian",
     "minecraft:entities/hoglin",
     "minecraft:entities/horse",

@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:underwater_canyon",
+    "minecraft:underwater_cave"
+  ],
   "common": [
     "minecraft:canyon",
     "minecraft:cave",

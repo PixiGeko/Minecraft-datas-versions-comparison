@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:biased_to_bottom",
+    "minecraft:clamped"
+  ],
   "common": [
     "minecraft:constant",
     "minecraft:uniform"

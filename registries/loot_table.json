@@ -1,9 +1,8 @@
 {
   "added": [
-    "minecraft:blocks/waxed_oxidized_copper",
-    "minecraft:blocks/waxed_oxidized_cut_copper",
-    "minecraft:blocks/waxed_oxidized_cut_copper_slab",
-    "minecraft:blocks/waxed_oxidized_cut_copper_stairs"
+    "minecraft:blocks/raw_copper_block",
+    "minecraft:blocks/raw_gold_block",
+    "minecraft:blocks/raw_iron_block"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -790,6 +789,10 @@
     "minecraft:blocks/waxed_exposed_cut_copper",
     "minecraft:blocks/waxed_exposed_cut_copper_slab",
     "minecraft:blocks/waxed_exposed_cut_copper_stairs",
+    "minecraft:blocks/waxed_oxidized_copper",
+    "minecraft:blocks/waxed_oxidized_cut_copper",
+    "minecraft:blocks/waxed_oxidized_cut_copper_slab",
+    "minecraft:blocks/waxed_oxidized_cut_copper_stairs",
     "minecraft:blocks/waxed_weathered_copper",
     "minecraft:blocks/waxed_weathered_cut_copper",
     "minecraft:blocks/waxed_weathered_cut_copper_slab",

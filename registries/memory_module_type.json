@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:ram_cooldown_ticks",
+    "minecraft:ram_target"
+  ],
   "common": [
     "minecraft:admiring_disabled",
     "minecraft:admiring_item",

@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:trapezoid",
+    "minecraft:very_biased_to_bottom"
+  ],
   "common": [
     "minecraft:biased_to_bottom",
     "minecraft:constant",

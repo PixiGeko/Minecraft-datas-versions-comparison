@@ -2,20 +2,30 @@
   "files": {
     "blocks": {
       "added": [
-        "waxed_oxidized_copper",
-        "waxed_oxidized_cut_copper",
-        "waxed_oxidized_cut_copper_slab",
-        "waxed_oxidized_cut_copper_stairs"
+        "raw_copper_block",
+        "raw_gold_block",
+        "raw_iron_block"
+      ]
+    },
+    "commands": {
+      "changed": [
+        "debug"
       ]
     },
     "registries": {
       "changed": [
+        "activity",
         "advancement",
         "block",
+        "entity_type",
+        "height_provider_type",
+        "int_provider_type",
         "item",
         "loot_table",
+        "memory_module_type",
         "recipe",
-        "worldgen - carver"
+        "sound_event",
+        "worldgen - decorator"
       ]
     }
   }

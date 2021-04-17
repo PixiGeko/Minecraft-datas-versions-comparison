@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:ram"
+  ],
   "common": [
     "minecraft:admire_item",
     "minecraft:avoid",

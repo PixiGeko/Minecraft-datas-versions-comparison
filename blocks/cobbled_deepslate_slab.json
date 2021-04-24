@@ -1,0 +1,10 @@
+{
+  "common": [
+    "cobbled_deepslate_slab[type=top,waterlogged=true]",
+    "cobbled_deepslate_slab[type=top,waterlogged=false]",
+    "cobbled_deepslate_slab[type=bottom,waterlogged=true]",
+    "cobbled_deepslate_slab[type=bottom,waterlogged=false]",
+    "cobbled_deepslate_slab[type=double,waterlogged=true]",
+    "cobbled_deepslate_slab[type=double,waterlogged=false]"
+  ]
+}

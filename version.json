@@ -1,0 +1,16 @@
+{
+  "files": {
+    "blocks": {
+      "changed": [
+        "infested_deepslate"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "custom_stat",
+        "tag",
+        "worldgen - feature"
+      ]
+    }
+  }
+}

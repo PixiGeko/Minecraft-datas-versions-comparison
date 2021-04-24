@@ -1,0 +1,7 @@
+{
+  "common": [
+    "setblock <pos: block_pos> <block: block_state> destroy",
+    "setblock <pos: block_pos> <block: block_state> keep",
+    "setblock <pos: block_pos> <block: block_state> replace"
+  ]
+}

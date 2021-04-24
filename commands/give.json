@@ -1,0 +1,5 @@
+{
+  "common": [
+    "give <targets: entity> <item: item_stack> <count: integer>"
+  ]
+}

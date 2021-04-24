@@ -1,0 +1,5 @@
+{
+  "common": [
+    "spectate <target: entity> <player: entity>"
+  ]
+}

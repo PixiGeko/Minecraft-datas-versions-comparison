@@ -1,0 +1,13 @@
+{
+  "common": [
+    "time set day",
+    "time set noon",
+    "time set night",
+    "time set midnight",
+    "time set <time: time>",
+    "time add <time: time>",
+    "time query daytime",
+    "time query gametime",
+    "time query day"
+  ]
+}

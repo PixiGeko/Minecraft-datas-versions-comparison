@@ -1,0 +1,20 @@
+{
+  "common": [
+    "target[power=0]",
+    "target[power=1]",
+    "target[power=2]",
+    "target[power=3]",
+    "target[power=4]",
+    "target[power=5]",
+    "target[power=6]",
+    "target[power=7]",
+    "target[power=8]",
+    "target[power=9]",
+    "target[power=10]",
+    "target[power=11]",
+    "target[power=12]",
+    "target[power=13]",
+    "target[power=14]",
+    "target[power=15]"
+  ]
+}

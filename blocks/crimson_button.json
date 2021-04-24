@@ -1,0 +1,28 @@
+{
+  "common": [
+    "crimson_button[face=floor,facing=north,powered=true]",
+    "crimson_button[face=floor,facing=north,powered=false]",
+    "crimson_button[face=floor,facing=south,powered=true]",
+    "crimson_button[face=floor,facing=south,powered=false]",
+    "crimson_button[face=floor,facing=west,powered=true]",
+    "crimson_button[face=floor,facing=west,powered=false]",
+    "crimson_button[face=floor,facing=east,powered=true]",
+    "crimson_button[face=floor,facing=east,powered=false]",
+    "crimson_button[face=wall,facing=north,powered=true]",
+    "crimson_button[face=wall,facing=north,powered=false]",
+    "crimson_button[face=wall,facing=south,powered=true]",
+    "crimson_button[face=wall,facing=south,powered=false]",
+    "crimson_button[face=wall,facing=west,powered=true]",
+    "crimson_button[face=wall,facing=west,powered=false]",
+    "crimson_button[face=wall,facing=east,powered=true]",
+    "crimson_button[face=wall,facing=east,powered=false]",
+    "crimson_button[face=ceiling,facing=north,powered=true]",
+    "crimson_button[face=ceiling,facing=north,powered=false]",
+    "crimson_button[face=ceiling,facing=south,powered=true]",
+    "crimson_button[face=ceiling,facing=south,powered=false]",
+    "crimson_button[face=ceiling,facing=west,powered=true]",
+    "crimson_button[face=ceiling,facing=west,powered=false]",
+    "crimson_button[face=ceiling,facing=east,powered=true]",
+    "crimson_button[face=ceiling,facing=east,powered=false]"
+  ]
+}

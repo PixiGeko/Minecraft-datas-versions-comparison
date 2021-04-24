@@ -1,0 +1,6 @@
+{
+  "common": [
+    "cave_vines_plant[berries=true]",
+    "cave_vines_plant[berries=false]"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "common": [
+    "crimson_hyphae[axis=x]",
+    "crimson_hyphae[axis=y]",
+    "crimson_hyphae[axis=z]"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "common": [
+    "green_candle[candles=1,lit=true,waterlogged=true]",
+    "green_candle[candles=1,lit=true,waterlogged=false]",
+    "green_candle[candles=1,lit=false,waterlogged=true]",
+    "green_candle[candles=1,lit=false,waterlogged=false]",
+    "green_candle[candles=2,lit=true,waterlogged=true]",
+    "green_candle[candles=2,lit=true,waterlogged=false]",
+    "green_candle[candles=2,lit=false,waterlogged=true]",
+    "green_candle[candles=2,lit=false,waterlogged=false]",
+    "green_candle[candles=3,lit=true,waterlogged=true]",
+    "green_candle[candles=3,lit=true,waterlogged=false]",
+    "green_candle[candles=3,lit=false,waterlogged=true]",
+    "green_candle[candles=3,lit=false,waterlogged=false]",
+    "green_candle[candles=4,lit=true,waterlogged=true]",
+    "green_candle[candles=4,lit=true,waterlogged=false]",
+    "green_candle[candles=4,lit=false,waterlogged=true]",
+    "green_candle[candles=4,lit=false,waterlogged=false]"
+  ]
+}

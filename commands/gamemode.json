@@ -1,0 +1,8 @@
+{
+  "common": [
+    "gamemode survival <target: entity>",
+    "gamemode creative <target: entity>",
+    "gamemode adventure <target: entity>",
+    "gamemode spectator <target: entity>"
+  ]
+}

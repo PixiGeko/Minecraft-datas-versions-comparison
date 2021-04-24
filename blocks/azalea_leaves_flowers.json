@@ -1,0 +1,18 @@
+{
+  "common": [
+    "azalea_leaves_flowers[distance=1,persistent=true]",
+    "azalea_leaves_flowers[distance=1,persistent=false]",
+    "azalea_leaves_flowers[distance=2,persistent=true]",
+    "azalea_leaves_flowers[distance=2,persistent=false]",
+    "azalea_leaves_flowers[distance=3,persistent=true]",
+    "azalea_leaves_flowers[distance=3,persistent=false]",
+    "azalea_leaves_flowers[distance=4,persistent=true]",
+    "azalea_leaves_flowers[distance=4,persistent=false]",
+    "azalea_leaves_flowers[distance=5,persistent=true]",
+    "azalea_leaves_flowers[distance=5,persistent=false]",
+    "azalea_leaves_flowers[distance=6,persistent=true]",
+    "azalea_leaves_flowers[distance=6,persistent=false]",
+    "azalea_leaves_flowers[distance=7,persistent=true]",
+    "azalea_leaves_flowers[distance=7,persistent=false]"
+  ]
+}

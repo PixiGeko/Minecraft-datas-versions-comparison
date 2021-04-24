@@ -1,0 +1,6 @@
+{
+  "common": [
+    "crimson_pressure_plate[powered=true]",
+    "crimson_pressure_plate[powered=false]"
+  ]
+}

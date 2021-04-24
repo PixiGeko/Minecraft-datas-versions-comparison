@@ -1,0 +1,10 @@
+{
+  "common": [
+    "blackstone_slab[type=top,waterlogged=true]",
+    "blackstone_slab[type=top,waterlogged=false]",
+    "blackstone_slab[type=bottom,waterlogged=true]",
+    "blackstone_slab[type=bottom,waterlogged=false]",
+    "blackstone_slab[type=double,waterlogged=true]",
+    "blackstone_slab[type=double,waterlogged=false]"
+  ]
+}

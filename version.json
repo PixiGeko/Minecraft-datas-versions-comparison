@@ -1,25 +1,3 @@
 {
-  "files": {
-    "blocks": {
-      "changed": [
-        "amethyst_cluster",
-        "hanging_roots",
-        "large_amethyst_bud",
-        "medium_amethyst_bud",
-        "small_amethyst_bud"
-      ]
-    },
-    "commands": {
-      "changed": [
-        "worldborder"
-      ]
-    },
-    "registries": {
-      "changed": [
-        "advancement",
-        "recipe",
-        "tag"
-      ]
-    }
-  }
+  "files": {}
 }

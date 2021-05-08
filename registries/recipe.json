@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:copper_ingot"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -195,7 +198,6 @@
     "minecraft:copper_ingot_from_blasting_copper_ore",
     "minecraft:copper_ingot_from_blasting_deepslate_copper_ore",
     "minecraft:copper_ingot_from_blasting_raw_copper",
-    "minecraft:copper_ingot_from_copper_block",
     "minecraft:copper_ingot_from_smelting_copper_ore",
     "minecraft:copper_ingot_from_smelting_deepslate_copper_ore",
     "minecraft:copper_ingot_from_smelting_raw_copper",
@@ -1059,5 +1061,8 @@
     "minecraft:yellow_stained_glass_pane_from_glass_pane",
     "minecraft:yellow_terracotta",
     "minecraft:yellow_wool"
+  ],
+  "removed": [
+    "minecraft:copper_ingot_from_copper_block"
   ]
 }

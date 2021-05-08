@@ -2,14 +2,23 @@
   "files": {
     "blocks": {
       "changed": [
-        "infested_deepslate"
+        "amethyst_cluster",
+        "hanging_roots",
+        "large_amethyst_bud",
+        "medium_amethyst_bud",
+        "small_amethyst_bud"
+      ]
+    },
+    "commands": {
+      "changed": [
+        "worldborder"
       ]
     },
     "registries": {
       "changed": [
-        "custom_stat",
-        "tag",
-        "worldgen - feature"
+        "advancement",
+        "recipe",
+        "tag"
       ]
     }
   }

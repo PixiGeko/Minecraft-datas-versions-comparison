@@ -1,6 +1,6 @@
 {
   "added": [
-    "minecraft:blocks/moss_replaceable"
+    "minecraft:blocks/small_dripleaf_placeable"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -60,6 +60,7 @@
     "minecraft:blocks/logs",
     "minecraft:blocks/logs_that_burn",
     "minecraft:blocks/lush_ground_replaceable",
+    "minecraft:blocks/moss_replaceable",
     "minecraft:blocks/mushroom_grow_block",
     "minecraft:blocks/non_flammable_wood",
     "minecraft:blocks/nylium",
@@ -192,8 +193,5 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
-  ],
-  "removed": [
-    "minecraft:blocks/lush_plants_replaceable"
   ]
 }

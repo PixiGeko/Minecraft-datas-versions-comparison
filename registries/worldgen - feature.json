@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:replace_single_block"
-  ],
   "common": [
     "minecraft:bamboo",
     "minecraft:basalt_columns",
@@ -48,6 +45,7 @@
     "minecraft:random_boolean_selector",
     "minecraft:random_patch",
     "minecraft:random_selector",
+    "minecraft:replace_single_block",
     "minecraft:root_system",
     "minecraft:scattered_ore",
     "minecraft:sea_pickle",
@@ -64,8 +62,5 @@
     "minecraft:void_start_platform",
     "minecraft:waterlogged_vegetation_patch",
     "minecraft:weeping_vines"
-  ],
-  "removed": [
-    "minecraft:emerald_ore"
   ]
 }

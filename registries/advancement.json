@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:recipes/misc/copper_ingot"
+  ],
   "common": [
     "minecraft:adventure/adventuring_time",
     "minecraft:adventure/arbalistic",
@@ -880,7 +883,6 @@
     "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore",
     "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore",
     "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper",
-    "minecraft:recipes/misc/copper_ingot_from_copper_block",
     "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore",
     "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore",
     "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper",
@@ -1127,5 +1129,8 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
+  ],
+  "removed": [
+    "minecraft:recipes/misc/copper_ingot_from_copper_block"
   ]
 }

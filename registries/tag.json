@@ -1,4 +1,13 @@
 {
+  "added": [
+    "minecraft:blocks/mineable/axe",
+    "minecraft:blocks/mineable/hoe",
+    "minecraft:blocks/mineable/pickaxe",
+    "minecraft:blocks/mineable/shovel",
+    "minecraft:blocks/needs_diamond_tool",
+    "minecraft:blocks/needs_iron_tool",
+    "minecraft:blocks/needs_stone_tool"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",

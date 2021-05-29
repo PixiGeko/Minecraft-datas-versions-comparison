@@ -1,15 +1,10 @@
 {
   "files": {
-    "commands": {
-      "changed": [
-        "item"
-      ]
-    },
     "registries": {
       "changed": [
-        "advancement",
-        "recipe",
-        "tag"
+        "sound_event",
+        "tag",
+        "worldgen - structure_processor"
       ]
     }
   }

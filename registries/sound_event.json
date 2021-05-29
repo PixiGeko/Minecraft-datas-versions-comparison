@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:block.sweet_berry_bush.pick_berries"
+  ],
   "common": [
     "minecraft:ambient.basalt_deltas.additions",
     "minecraft:ambient.basalt_deltas.loop",
@@ -1143,7 +1146,6 @@
     "minecraft:item.shovel.flatten",
     "minecraft:item.spyglass.stop_using",
     "minecraft:item.spyglass.use",
-    "minecraft:item.sweet_berries.pick_from_bush",
     "minecraft:item.totem.use",
     "minecraft:item.trident.hit",
     "minecraft:item.trident.hit_ground",
@@ -1190,5 +1192,8 @@
     "minecraft:ui.toast.out",
     "minecraft:weather.rain",
     "minecraft:weather.rain.above"
+  ],
+  "removed": [
+    "minecraft:item.sweet_berries.pick_from_bush"
   ]
 }

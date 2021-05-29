@@ -1,11 +1,6 @@
-# Commands
-| Added | Changed | Removed |
-|-------|---------|---------|
-|  | [item](./commands/item.json) |  |
-
 # Registries
 | Added | Changed | Removed |
 |-------|---------|---------|
-|  | [advancement](./registries/advancement.json) |  |
-|  | [recipe](./registries/recipe.json) |  |
+|  | [sound_event](./registries/sound_event.json) |  |
 |  | [tag](./registries/tag.json) |  |
+|  | [worldgen - structure_processor](./registries/worldgen%20-%20structure_processor.json) |  |

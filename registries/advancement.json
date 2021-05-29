@@ -1109,25 +1109,5 @@
     "minecraft:story/shiny_gear",
     "minecraft:story/smelt_iron",
     "minecraft:story/upgrade_tools"
-  ],
-  "removed": [
-    "minecraft:recipes/decorations/black_candle",
-    "minecraft:recipes/decorations/blue_candle",
-    "minecraft:recipes/decorations/brown_candle",
-    "minecraft:recipes/decorations/candle",
-    "minecraft:recipes/decorations/cyan_candle",
-    "minecraft:recipes/decorations/gray_candle",
-    "minecraft:recipes/decorations/green_candle",
-    "minecraft:recipes/decorations/light_blue_candle",
-    "minecraft:recipes/decorations/light_gray_candle",
-    "minecraft:recipes/decorations/lime_candle",
-    "minecraft:recipes/decorations/magenta_candle",
-    "minecraft:recipes/decorations/orange_candle",
-    "minecraft:recipes/decorations/pink_candle",
-    "minecraft:recipes/decorations/purple_candle",
-    "minecraft:recipes/decorations/red_candle",
-    "minecraft:recipes/decorations/white_candle",
-    "minecraft:recipes/decorations/yellow_candle",
-    "minecraft:recipes/tools/bundle"
   ]
 }

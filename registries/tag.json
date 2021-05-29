@@ -1,6 +1,7 @@
 {
   "added": [
-    "minecraft:blocks/features_cannot_replace"
+    "minecraft:blocks/geode_invalid_blocks",
+    "minecraft:blocks/lava_pool_stone_replaceables"
   ],
   "common": [
     "minecraft:blocks/acacia_logs",
@@ -39,6 +40,7 @@
     "minecraft:blocks/dripstone_replaceable_blocks",
     "minecraft:blocks/emerald_ores",
     "minecraft:blocks/enderman_holdable",
+    "minecraft:blocks/features_cannot_replace",
     "minecraft:blocks/fences",
     "minecraft:blocks/fence_gates",
     "minecraft:blocks/fire",

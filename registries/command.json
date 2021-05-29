@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:perf"
+  ],
   "common": [
     "minecraft:advancement",
     "minecraft:attribute",

@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:blocks/potted_azalea_bush",
+    "minecraft:blocks/potted_flowering_azalea_bush"
+  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",

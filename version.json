@@ -1,10 +1,27 @@
 {
   "files": {
+    "blocks": {
+      "added": [
+        "potted_azalea_bush",
+        "potted_flowering_azalea_bush"
+      ]
+    },
+    "commands": {
+      "added": [
+        "perf"
+      ],
+      "changed": [
+        "debug"
+      ]
+    },
     "registries": {
       "changed": [
-        "sound_event",
-        "tag",
-        "worldgen - structure_processor"
+        "advancement",
+        "block",
+        "command",
+        "loot_table",
+        "recipe",
+        "tag"
       ]
     }
   }

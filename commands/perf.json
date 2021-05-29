@@ -1,0 +1,6 @@
+{
+  "added": [
+    "perf start",
+    "perf stop"
+  ]
+}

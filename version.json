@@ -2,26 +2,17 @@
   "files": {
     "blocks": {
       "added": [
-        "potted_azalea_bush",
-        "potted_flowering_azalea_bush"
-      ]
-    },
-    "commands": {
-      "added": [
-        "perf"
+        "flowering_azalea_leaves"
       ],
-      "changed": [
-        "debug"
+      "removed": [
+        "azalea_leaves_flowers"
       ]
     },
     "registries": {
       "changed": [
-        "advancement",
         "block",
-        "command",
-        "loot_table",
-        "recipe",
-        "tag"
+        "item",
+        "loot_table"
       ]
     }
   }

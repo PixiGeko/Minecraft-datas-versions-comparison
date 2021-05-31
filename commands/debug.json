@@ -3,8 +3,5 @@
     "debug start",
     "debug stop",
     "debug function <name: function>"
-  ],
-  "removed": [
-    "debug report"
   ]
 }

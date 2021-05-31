@@ -1,7 +1,6 @@
 {
   "added": [
-    "minecraft:blocks/potted_azalea_bush",
-    "minecraft:blocks/potted_flowering_azalea_bush"
+    "minecraft:blocks/flowering_azalea_leaves"
   ],
   "common": [
     "minecraft:blocks/acacia_button",
@@ -32,7 +31,6 @@
     "minecraft:blocks/attached_pumpkin_stem",
     "minecraft:blocks/azalea",
     "minecraft:blocks/azalea_leaves",
-    "minecraft:blocks/azalea_leaves_flowers",
     "minecraft:blocks/azure_bluet",
     "minecraft:blocks/bamboo",
     "minecraft:blocks/bamboo_sapling",
@@ -564,6 +562,7 @@
     "minecraft:blocks/potatoes",
     "minecraft:blocks/potted_acacia_sapling",
     "minecraft:blocks/potted_allium",
+    "minecraft:blocks/potted_azalea_bush",
     "minecraft:blocks/potted_azure_bluet",
     "minecraft:blocks/potted_bamboo",
     "minecraft:blocks/potted_birch_sapling",
@@ -577,6 +576,7 @@
     "minecraft:blocks/potted_dark_oak_sapling",
     "minecraft:blocks/potted_dead_bush",
     "minecraft:blocks/potted_fern",
+    "minecraft:blocks/potted_flowering_azalea_bush",
     "minecraft:blocks/potted_jungle_sapling",
     "minecraft:blocks/potted_lily_of_the_valley",
     "minecraft:blocks/potted_oak_sapling",
@@ -988,5 +988,8 @@
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
     "minecraft:gameplay/piglin_bartering"
+  ],
+  "removed": [
+    "minecraft:blocks/azalea_leaves_flowers"
   ]
 }

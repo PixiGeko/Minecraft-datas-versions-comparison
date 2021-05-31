@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:perf"
-  ],
   "common": [
     "minecraft:advancement",
     "minecraft:attribute",
@@ -41,6 +38,7 @@
     "minecraft:pardon",
     "minecraft:pardon-ip",
     "minecraft:particle",
+    "minecraft:perf",
     "minecraft:playsound",
     "minecraft:publish",
     "minecraft:recipe",

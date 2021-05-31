@@ -1,7 +1,6 @@
 {
   "added": [
-    "minecraft:potted_azalea_bush",
-    "minecraft:potted_flowering_azalea_bush"
+    "minecraft:flowering_azalea_leaves"
   ],
   "common": [
     "minecraft:acacia_button",
@@ -34,7 +33,6 @@
     "minecraft:attached_pumpkin_stem",
     "minecraft:azalea",
     "minecraft:azalea_leaves",
-    "minecraft:azalea_leaves_flowers",
     "minecraft:azure_bluet",
     "minecraft:bamboo",
     "minecraft:bamboo_sapling",
@@ -609,6 +607,7 @@
     "minecraft:potatoes",
     "minecraft:potted_acacia_sapling",
     "minecraft:potted_allium",
+    "minecraft:potted_azalea_bush",
     "minecraft:potted_azure_bluet",
     "minecraft:potted_bamboo",
     "minecraft:potted_birch_sapling",
@@ -622,6 +621,7 @@
     "minecraft:potted_dark_oak_sapling",
     "minecraft:potted_dead_bush",
     "minecraft:potted_fern",
+    "minecraft:potted_flowering_azalea_bush",
     "minecraft:potted_jungle_sapling",
     "minecraft:potted_lily_of_the_valley",
     "minecraft:potted_oak_sapling",
@@ -900,5 +900,8 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
+  ],
+  "removed": [
+    "minecraft:azalea_leaves_flowers"
   ]
 }

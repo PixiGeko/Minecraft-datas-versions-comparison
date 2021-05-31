@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:flowering_azalea_leaves"
+  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -34,7 +37,6 @@
     "minecraft:axolotl_spawn_egg",
     "minecraft:azalea",
     "minecraft:azalea_leaves",
-    "minecraft:azalea_leaves_flowers",
     "minecraft:azure_bluet",
     "minecraft:baked_potato",
     "minecraft:bamboo",
@@ -1100,5 +1102,8 @@
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg",
     "minecraft:zombified_piglin_spawn_egg"
+  ],
+  "removed": [
+    "minecraft:azalea_leaves_flowers"
   ]
 }

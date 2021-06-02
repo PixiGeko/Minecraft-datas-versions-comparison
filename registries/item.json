@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:flowering_azalea_leaves"
-  ],
   "common": [
     "minecraft:acacia_boat",
     "minecraft:acacia_button",
@@ -395,6 +392,7 @@
     "minecraft:flower_banner_pattern",
     "minecraft:flower_pot",
     "minecraft:flowering_azalea",
+    "minecraft:flowering_azalea_leaves",
     "minecraft:fox_spawn_egg",
     "minecraft:furnace",
     "minecraft:furnace_minecart",
@@ -1102,8 +1100,5 @@
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_villager_spawn_egg",
     "minecraft:zombified_piglin_spawn_egg"
-  ],
-  "removed": [
-    "minecraft:azalea_leaves_flowers"
   ]
 }

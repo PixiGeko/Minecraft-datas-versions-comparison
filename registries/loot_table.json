@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:blocks/flowering_azalea_leaves"
-  ],
   "common": [
     "minecraft:blocks/acacia_button",
     "minecraft:blocks/acacia_door",
@@ -296,6 +293,7 @@
     "minecraft:blocks/fire_coral_fan",
     "minecraft:blocks/fletching_table",
     "minecraft:blocks/flowering_azalea",
+    "minecraft:blocks/flowering_azalea_leaves",
     "minecraft:blocks/flower_pot",
     "minecraft:blocks/frosted_ice",
     "minecraft:blocks/furnace",
@@ -988,8 +986,5 @@
     "minecraft:gameplay/hero_of_the_village/toolsmith_gift",
     "minecraft:gameplay/hero_of_the_village/weaponsmith_gift",
     "minecraft:gameplay/piglin_bartering"
-  ],
-  "removed": [
-    "minecraft:blocks/azalea_leaves_flowers"
   ]
 }

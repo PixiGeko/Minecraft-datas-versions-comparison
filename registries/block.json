@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:flowering_azalea_leaves"
-  ],
   "common": [
     "minecraft:acacia_button",
     "minecraft:acacia_door",
@@ -325,6 +322,7 @@
     "minecraft:fletching_table",
     "minecraft:flower_pot",
     "minecraft:flowering_azalea",
+    "minecraft:flowering_azalea_leaves",
     "minecraft:frosted_ice",
     "minecraft:furnace",
     "minecraft:gilded_blackstone",
@@ -900,8 +898,5 @@
     "minecraft:yellow_wool",
     "minecraft:zombie_head",
     "minecraft:zombie_wall_head"
-  ],
-  "removed": [
-    "minecraft:azalea_leaves_flowers"
   ]
 }
